@@ -1,0 +1,536 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene_GameMain.unity
+    guid: 786b5c7c2f9ae45979a4b3892a492f88
+  - enabled: 1
+    path: Assets/Scenes/World/Scene_BigMap.unity
+    guid: f70fd9476f9c440f4b08b6ef158a2a68
+  - enabled: 1
+    path: Assets/Scenes/World/Scene_XuKong.unity
+    guid: 142dc59c8fb70bd4797677924b87f6a7
+  - enabled: 1
+    path: Assets/Scenes/World/TaoYuanXiang/Scene_TaoYuanXiang.unity
+    guid: bd7b45b116e4d4805b712530010007c8
+  - enabled: 1
+    path: Assets/Scenes/World/TaoYuanXiang/Scene_NanHuaRoom.unity
+    guid: b03d17d6b122c42758d07f96291281f2
+  - enabled: 1
+    path: Assets/Scenes/World/TaoYuanXiang/Scene_YuJiRoom.unity
+    guid: 4891d52cbefff4fd3a9df28f67013ef2
+  - enabled: 1
+    path: Assets/Scenes/World/TaoYuanXiang/Scene_ZuoCiRoom.unity
+    guid: 833996b9fce4c48f0a5178922322f320
+  - enabled: 1
+    path: Assets/Scenes/World/YingXiongTai/Scene_YingXiongTai.unity
+    guid: 08b635d4f97ec4b40b69c0718d2b09c0
+  - enabled: 1
+    path: Assets/Scenes/World/YingXiongTai/Scene_YingXiongTing.unity
+    guid: 5ce0449c7ce3d419cadfc7e229ccb5d0
+  - enabled: 1
+    path: Assets/Scenes/World/TianShiZhong/Scene_TianShiZhongMenKou.unity
+    guid: 38cbe5c2e9276467a8096052b4f2b706
+  - enabled: 1
+    path: Assets/Scenes/World/TianShiZhong/Scene_TianShiZhongZouLang.unity
+    guid: 932ced65863204a329ee2c9a1538d7f9
+  - enabled: 1
+    path: Assets/Scenes/World/TianShiZhong/Scene_TianShiZhongNeiTing.unity
+    guid: 91093bdcd677940fb90e92e75594a2cc
+  - enabled: 1
+    path: Assets/Scenes/World/TianShiZhong/Scene_TianShiTai.unity
+    guid: 56baca5f25d7347128cb213fdc3d918a
+  - enabled: 1
+    path: Assets/Scenes/World/YeCheng/Scene_WeiHall.unity
+    guid: 026e9b887660c404fbd44ed7fc18b324
+  - enabled: 1
+    path: Assets/Scenes/World/YeCheng/Scene_YeCheng.unity
+    guid: acd0d419a3bfe49f3aeb2c54706e7f27
+  - enabled: 1
+    path: Assets/Scenes/World/YeCheng/Scene_YeChengBookShop.unity
+    guid: c630afea58e934285872093e7abe5998
+  - enabled: 1
+    path: Assets/Scenes/World/YeCheng/Scene_YeChengHouse1.unity
+    guid: 73dc01a584d1f48278484e7f0e5be951
+  - enabled: 1
+    path: Assets/Scenes/World/YeCheng/Scene_YeChengHouse2.unity
+    guid: 7ab2b17b7250d4c339b447a0b2baa7c3
+  - enabled: 1
+    path: Assets/Scenes/World/YeCheng/Scene_YeChengStreet.unity
+    guid: 0ff8af6167f604ab5ae1d66a9a11839b
+  - enabled: 1
+    path: Assets/Scenes/World/YeCheng/Scene_YeChengWeaponShop.unity
+    guid: 2a11c3307642442ca89bafe738f98545
+  - enabled: 1
+    path: Assets/Scenes/World/ChengDu/Scene_ChengDu.unity
+    guid: 9d717243cd5104a23a78338bbaa8e2a6
+  - enabled: 1
+    path: Assets/Scenes/World/ChengDu/Scene_ChengDuHouse1.unity
+    guid: 2086a8d99968e4f868497d035aa1d011
+  - enabled: 1
+    path: Assets/Scenes/World/ChengDu/Scene_ChengDuLobby1.unity
+    guid: 48f35c2969a4c41e4a9e3d0e8837444e
+  - enabled: 1
+    path: Assets/Scenes/World/ChengDu/Scene_ChengDuMedicalShop.unity
+    guid: 3026e773d9ec44bf987db8067f11d375
+  - enabled: 1
+    path: Assets/Scenes/World/ChengDu/Scene_ChengDuStreet.unity
+    guid: 63e4b3cfa7c00424c8226a8722b64381
+  - enabled: 1
+    path: Assets/Scenes/World/ChengDu/Scene_ChengDuWeaponShop.unity
+    guid: 1271cd10439aa4f6db0725feb4b284f9
+  - enabled: 1
+    path: Assets/Scenes/World/ChengDu/Scene_ShuHall.unity
+    guid: 094b6e01e4e0d44888e9979c492579aa
+  - enabled: 1
+    path: Assets/Scenes/World/JianYe/Scene_JianYe.unity
+    guid: aaf8494e5c9bd4b9f9c3fa8ea2833b83
+  - enabled: 1
+    path: Assets/Scenes/World/JianYe/Scene_JianYeBookShop.unity
+    guid: ee8bbccc956ed42de990bbfa45c5ba68
+  - enabled: 1
+    path: Assets/Scenes/World/JianYe/Scene_JianYeHouse1.unity
+    guid: 816074e74638345b08d1d7b184f9b1c9
+  - enabled: 1
+    path: Assets/Scenes/World/JianYe/Scene_JianYeJewelryShop.unity
+    guid: 03fcb5569e5794159925498a101bf419
+  - enabled: 1
+    path: Assets/Scenes/World/JianYe/Scene_JianYeStreet.unity
+    guid: d308121dff4a14cc8b71e05a042e3a72
+  - enabled: 1
+    path: Assets/Scenes/World/JianYe/Scene_WuHall.unity
+    guid: 78b8eede55ada48e5b62e231356672b4
+  - enabled: 1
+    path: Assets/Scenes/World/SuiYang/Scene_SuiYang.unity
+    guid: 1b3826117619347d9a5098c161c3d089
+  - enabled: 1
+    path: Assets/Scenes/World/SuiYang/Scene_SuiYangHouse1.unity
+    guid: 664d6e32a3f0b4a11b365be310fa6374
+  - enabled: 1
+    path: Assets/Scenes/World/SuiYang/Scene_SuiYangHouseLiu.unity
+    guid: 798c7cdc4ac0c493b9b16a6407a7a4cf
+  - enabled: 1
+    path: Assets/Scenes/World/SuiYang/Scene_SuiYangInn.unity
+    guid: e00a49fed1f7b4ea2a99930f8558b7eb
+  - enabled: 1
+    path: Assets/Scenes/World/SuiYang/Scene_SuiYangInnGuestRoom.unity
+    guid: 446ba1936b61e47169086f41d212aeee
+  - enabled: 1
+    path: Assets/Scenes/World/SuiYang/Scene_SuiYangInternalCity.unity
+    guid: 218bd5b511c114fb0b76657adc260d73
+  - enabled: 1
+    path: Assets/Scenes/World/SuiYang/Scene_SuiYangJewelryShop.unity
+    guid: af13809a1002044438bf1ed35008ea98
+  - enabled: 1
+    path: Assets/Scenes/World/SuiYang/Scene_SuiYangLobbyLiYong.unity
+    guid: 7688309f152f449b8a61ccc4186470e7
+  - enabled: 1
+    path: Assets/Scenes/World/SuiYang/Scene_SuiYangSecretRoom.unity
+    guid: 97f1021d7e1eb4b519d23b32ed7d14f0
+  - enabled: 1
+    path: Assets/Scenes/World/SuiYang/Scene_SuiYangSecretTunnel.unity
+    guid: 96c83e7e563a04dbca7798c4b7cb0863
+  - enabled: 1
+    path: Assets/Scenes/World/SuiYang/Scene_SuiYangSuburb.unity
+    guid: 51cc4b2da42c24a90883ad755b250de6
+  - enabled: 1
+    path: Assets/Scenes/World/NanYang/Scene_NanYang.unity
+    guid: edca37ee4f1834336a68527a7558da9a
+  - enabled: 1
+    path: Assets/Scenes/World/NanYang/Scene_NanYangChiefRoom.unity
+    guid: f06d4abccce414bc4a15cf3a25d2acfe
+  - enabled: 1
+    path: Assets/Scenes/World/NanYang/Scene_NanYangHouse1.unity
+    guid: 8396ce5b64b5541d9ac733eb365e6178
+  - enabled: 1
+    path: Assets/Scenes/World/NanYang/Scene_NanYangHouse2.unity
+    guid: d540bd22fbceb4b2b8e9eece803e72dd
+  - enabled: 1
+    path: Assets/Scenes/World/NanYang/Scene_NanYangInternalCity.unity
+    guid: 2201e21bd53d04dfdb62fe63f7379f9c
+  - enabled: 1
+    path: Assets/Scenes/World/NanYang/Scene_NanYangMedicalShop.unity
+    guid: afeb15f4b5c2544679da52ca7f233396
+  - enabled: 1
+    path: Assets/Scenes/World/NanYang/Scene_NanYangOutside.unity
+    guid: 695821df5908d44f68956f62e3a622b4
+  - enabled: 1
+    path: Assets/Scenes/World/GuoSiCamp/Scene_GuoSiCamp.unity
+    guid: ce5623d18c544494784d9e659cdf2e1f
+  - enabled: 1
+    path: Assets/Scenes/World/GuoSiCamp/Scene_GuoSiRoom.unity
+    guid: 98caef4fd78514385b08f52b5f208dcc
+  - enabled: 1
+    path: Assets/Scenes/World/ChangSha/Scene_ChangSha.unity
+    guid: 97eb1dec7a40c4507b8fc11601bd0db9
+  - enabled: 1
+    path: Assets/Scenes/World/ChangSha/Scene_ChangShaBookShop.unity
+    guid: 3b9edb71879884f4f9842ead509bcf2c
+  - enabled: 1
+    path: Assets/Scenes/World/ChangSha/Scene_ChangShaHouse1.unity
+    guid: e0e76ab1b3954486eb1e31b32395e9fc
+  - enabled: 1
+    path: Assets/Scenes/World/ChangSha/Scene_ChangShaInn.unity
+    guid: 7b980a8eaca1747389a9a656eb96f03b
+  - enabled: 1
+    path: Assets/Scenes/World/ChangSha/Scene_ChangShaInternalCity.unity
+    guid: ff640ff7eedfd400f8dd7f5d016639a3
+  - enabled: 1
+    path: Assets/Scenes/World/ChangSha/Scene_ChangShaLuSuRoom.unity
+    guid: 41e891a7feffe4e55a51f012b505eca2
+  - enabled: 1
+    path: Assets/Scenes/World/ChangSha/Scene_ChangShaLuSuStreet.unity
+    guid: 8ba08a8a8f12f48e69cf0c633f012d47
+  - enabled: 1
+    path: Assets/Scenes/World/ChangSha/Scene_ChangShaStable.unity
+    guid: 4bc0bfc5d4f4140c58ebdb023e38e53c
+  - enabled: 1
+    path: Assets/Scenes/World/ZhongShan/Scene_ZhongShan.unity
+    guid: 0efd00c3dd0e442ab97574556ecf0fb2
+  - enabled: 1
+    path: Assets/Scenes/World/ZhongShan/Scene_ZhongShanCenter.unity
+    guid: cda76703cbd704a5992e4d8615af046a
+  - enabled: 1
+    path: Assets/Scenes/World/ZhongShan/Scene_ZhongShanForest.unity
+    guid: 0ec66f5df5492417ba506035054ed2cb
+  - enabled: 1
+    path: Assets/Scenes/World/ZhongShan/Scene_ZhongShanHole.unity
+    guid: b334e8f5eba36405886fd9a08e59dca4
+  - enabled: 1
+    path: Assets/Scenes/World/ZhongShan/Scene_ZhongShanSouth.unity
+    guid: 57aeb03f7590041d996dc559d5db50ef
+  - enabled: 1
+    path: Assets/Scenes/World/HuaShan/Scene_HuaShan.unity
+    guid: 82796a1a7c1c046288b90b76bae4128f
+  - enabled: 1
+    path: Assets/Scenes/World/HuaShan/Scene_HuaShanStreet.unity
+    guid: d59a964c1b3d94a04900eb50d92ebb36
+  - enabled: 1
+    path: Assets/Scenes/World/HuaShan/Scene_HuaShanTop.unity
+    guid: 9b2c9f0eb5d954844a89834ac0e9c5d9
+  - enabled: 1
+    path: Assets/Scenes/World/BaGuaZhen/Scene_BaGuaZhen.unity
+    guid: df358484f4788499d9fa34e5cac02767
+  - enabled: 1
+    path: Assets/Scenes/World/BeiHai/Scene_BeiHai.unity
+    guid: ffe04d0ef1cc1463d9ec6592c6b566fb
+  - enabled: 1
+    path: Assets/Scenes/World/BeiHai/Scene_BeiHaiInn.unity
+    guid: 92e6bea0e84ba43c18c4399b11ddac13
+  - enabled: 1
+    path: Assets/Scenes/World/BeiHai/Scene_BeiHaiInnFloorTwo.unity
+    guid: 2d72146d4c0c34962880848007ee4c97
+  - enabled: 1
+    path: Assets/Scenes/World/BeiHai/Scene_BeiHaiInnStairs.unity
+    guid: 69bafab12671249cfb5838199e9dae88
+  - enabled: 1
+    path: Assets/Scenes/World/BeiHai/Scene_BeiHaiMedicalShop.unity
+    guid: fa4cd75048ffa43e8b4804255ea80a0a
+  - enabled: 1
+    path: Assets/Scenes/World/BeiHai/Scene_BeiHaiTaiShiCiRoom.unity
+    guid: 8b2ec5ae82b824cf2b4e41e3efd34410
+  - enabled: 1
+    path: Assets/Scenes/World/WuWei/Scene_WuWei.unity
+    guid: 6d443d12aa4684806baee7c3c407b135
+  - enabled: 1
+    path: Assets/Scenes/World/WuWei/Scene_WuWeiInn.unity
+    guid: 85dbec36aa47c411bb7a00a024d1e2e9
+  - enabled: 1
+    path: Assets/Scenes/World/WuWei/Scene_WuWeiMaChaoRoom.unity
+    guid: 9fb609cdf66454df5b560f627ec053d0
+  - enabled: 1
+    path: Assets/Scenes/World/WuWei/Scene_WuWeiMaChaoRoomOutside.unity
+    guid: f225a5e515b1d412dbfd1f37ca8aca5f
+  - enabled: 1
+    path: Assets/Scenes/World/WuWei/Scene_WuWeiOutside.unity
+    guid: b7c5d9b53dbbc4628a88208b10664657
+  - enabled: 1
+    path: Assets/Scenes/World/XiangYang/Scene_XiangYang.unity
+    guid: 2a51c5c60cccc44ae8e9f3bdc61f741f
+  - enabled: 1
+    path: Assets/Scenes/World/XiangYang/Scene_XiangYangChiefRoom.unity
+    guid: ce142397cab454fec8dd14fcc6fde38c
+  - enabled: 1
+    path: Assets/Scenes/World/XiangYang/Scene_XiangYangHouse1.unity
+    guid: e3099d333e23a4058b3de3edb739bb04
+  - enabled: 1
+    path: Assets/Scenes/World/XiangYang/Scene_XiangYangInternalCity.unity
+    guid: 6122baea96a114c90936217fb24d682d
+  - enabled: 1
+    path: Assets/Scenes/World/XiangYang/Scene_XiangYangLiuCongRoom.unity
+    guid: 11c1901b4c1b64f85bb732791df65ee9
+  - enabled: 1
+    path: Assets/Scenes/World/XiangYang/Scene_XiangYangMaLiangRoom.unity
+    guid: c690a9722d44c480391ace860f1954a2
+  - enabled: 1
+    path: Assets/Scenes/World/XiangYang/Scene_XiangYangMedicalShop.unity
+    guid: 0397d2e19023044cd9465d670f45c2f1
+  - enabled: 1
+    path: Assets/Scenes/World/XieLiang/Scene_XieLiang.unity
+    guid: 0e0f140b70f2648da9c0d4c912d6cdc3
+  - enabled: 1
+    path: Assets/Scenes/World/XieLiang/Scene_XieLiangGuanYuRoom.unity
+    guid: fc563c330bd7e41bd96bbef44a325654
+  - enabled: 1
+    path: Assets/Scenes/World/XieLiang/Scene_XieLiangHouse1.unity
+    guid: 6ab46239cb6c145b2bf6eecbf2e1f360
+  - enabled: 1
+    path: Assets/Scenes/World/XieLiang/Scene_XieLiangInternalCity.unity
+    guid: d5ed7739c841e45f995c30d015d3573e
+  - enabled: 1
+    path: Assets/Scenes/World/XieLiang/Scene_XieLiangTemple.unity
+    guid: 8df13534b6c444b339ea2f12a75d1e2b
+  - enabled: 1
+    path: Assets/Scenes/World/BeiPing/Scene_BeiPing.unity
+    guid: a510830059321413bb76e6111a34b504
+  - enabled: 1
+    path: Assets/Scenes/World/BeiPing/Scene_BeiPingHouse1.unity
+    guid: d076be1d391794038abb00e17add7f2a
+  - enabled: 1
+    path: Assets/Scenes/World/BeiPing/Scene_BeiPingHouse2.unity
+    guid: 4ab4e54e34b0545949474991954c7f23
+  - enabled: 1
+    path: Assets/Scenes/World/BeiPing/Scene_BeiPingOutside.unity
+    guid: 504e489b43c374d15804634e5ce85156
+  - enabled: 1
+    path: Assets/Scenes/World/BeiPing/Scene_BeiPingWeaponShop.unity
+    guid: 10970a3f0c4454680abdba1f994f6441
+  - enabled: 1
+    path: Assets/Scenes/World/YuanShaoCamp/Scene_YuanShaoCamp.unity
+    guid: d31761f58548f4ebea5996d6d445d2bf
+  - enabled: 1
+    path: Assets/Scenes/World/YuanShaoCamp/Scene_YuanShaoCampInside.unity
+    guid: c4bee0b1c888c4cd6a015c437b1d33dd
+  - enabled: 1
+    path: Assets/Scenes/World/JuLu/Scene_JuLu.unity
+    guid: e4e3ad3ba90b5432398abe979961711c
+  - enabled: 1
+    path: Assets/Scenes/World/JuLu/Scene_JuLuInside.unity
+    guid: 42a871f9428b140b3a9019a8e1626caf
+  - enabled: 1
+    path: Assets/Scenes/World/JuLu/Scene_JuLuZhangJiaoRoom.unity
+    guid: cf52b979e5853497daf47df9286690c1
+  - enabled: 1
+    path: Assets/Scenes/World/ShangDang/Scene_ShangDang1.unity
+    guid: 444aa89016bb648d9946cf9019fad936
+  - enabled: 1
+    path: Assets/Scenes/World/ShangDang/Scene_ShangDang2.unity
+    guid: 78be907a7262a4be08d9c9a75c5b04d2
+  - enabled: 1
+    path: Assets/Scenes/World/ShangDang/Scene_ShangDangTemple.unity
+    guid: faf78ce349729434f9fdf8e5e53217e5
+  - enabled: 1
+    path: Assets/Scenes/World/XuJiaCun/Scene_XuJiaCun.unity
+    guid: 5d51d19f583304d4396aa87977b5b50f
+  - enabled: 1
+    path: Assets/Scenes/World/XuJiaCun/Scene_XuJiaCunHouse1.unity
+    guid: 7be90b4a8f36c4027a26588453a4de93
+  - enabled: 1
+    path: Assets/Scenes/World/XuJiaCun/Scene_XuJiaCunInternalCity.unity
+    guid: f58d1e41a30974612800df5e2df7548a
+  - enabled: 1
+    path: Assets/Scenes/World/XuJiaCun/Scene_XuJiaCunTemple.unity
+    guid: a0aff892aab624d2cb6ecc53bef46661
+  - enabled: 1
+    path: Assets/Scenes/World/XuJiaCun/Scene_XuJiaCunXuChuRoom.unity
+    guid: 60ff089a6c562498380da8d24d9fcfb1
+  - enabled: 1
+    path: Assets/Scenes/World/JiangXia/Scene_JiangXia.unity
+    guid: 85153275e06a049e79f5f83dbd0d15fa
+  - enabled: 1
+    path: Assets/Scenes/World/JiangXia/Scene_JiangXiaBridge.unity
+    guid: 97ba9a3d2bd2d4d7785a017e4d83e04e
+  - enabled: 1
+    path: Assets/Scenes/World/JiangXia/Scene_JiangXiaChiefRoom.unity
+    guid: 1f3bba6422c6b4c79a137f7e48b5cd5e
+  - enabled: 1
+    path: Assets/Scenes/World/JiangXia/Scene_JiangXiaHouse1.unity
+    guid: bec05d51beafc42ec944f6438b7ec1da
+  - enabled: 1
+    path: Assets/Scenes/World/JiangXia/Scene_JiangXiaMainRoom.unity
+    guid: 049c85414af464446a56ebc80e5fb3ab
+  - enabled: 1
+    path: Assets/Scenes/World/JiangXia/Scene_JiangXiaOutside.unity
+    guid: 55d780b8ba4474622b6d8c80eeb3c637
+  - enabled: 1
+    path: Assets/Scenes/World/JiangXia/Scene_JiangXiaPlane.unity
+    guid: f946caec5f676438da7ee1fd8b2ace32
+  - enabled: 1
+    path: Assets/Scenes/World/JiangXia/Scene_JiangXiaTunnel.unity
+    guid: 71aa3d625f77f48ba90c911eb409385d
+  - enabled: 1
+    path: Assets/Scenes/World/JiangXia/Scene_JiangXiaWeaponShop.unity
+    guid: 525d90bbb4e0e44279c3898274a265fc
+  - enabled: 1
+    path: Assets/Scenes/World/XinYe/Scene_XinYe.unity
+    guid: 7a2da43513c7b41959016cab6e3f9730
+  - enabled: 1
+    path: Assets/Scenes/World/XinYe/Scene_XinYeHouse1.unity
+    guid: 28eb2136b5b7a474c8c31a0bf7a3ece7
+  - enabled: 1
+    path: Assets/Scenes/World/XinYe/Scene_XinYeJail.unity
+    guid: f694a0c897fc64ce09a3cf75c2b3fed3
+  - enabled: 1
+    path: Assets/Scenes/World/XinYe/Scene_XinYePoliceStation.unity
+    guid: f5513f3368f6a4ca88a6386c08f4dcf7
+  - enabled: 1
+    path: Assets/Scenes/World/XinYe/Scene_XinYeWeaponShop.unity
+    guid: b66cb107b03e74807933534a41f0aa9a
+  - enabled: 1
+    path: Assets/Scenes/World/WuLing/Scene_WuLing.unity
+    guid: 74e811ffb6d17427ab1f17666a10a7a5
+  - enabled: 1
+    path: Assets/Scenes/World/WuLing/Scene_WuLingBookShop.unity
+    guid: acb77f5f828b4451389affa3354401a0
+  - enabled: 1
+    path: Assets/Scenes/World/WuLing/Scene_WuLingHouse1.unity
+    guid: 785f9976fc180486da3dd808dce461fe
+  - enabled: 1
+    path: Assets/Scenes/World/WuLing/Scene_WuLingInn.unity
+    guid: aa2664864571a47929c55bf4d7bdf2e9
+  - enabled: 1
+    path: Assets/Scenes/World/WuLing/Scene_WuLingLvMengRoom.unity
+    guid: 15f739e2e0a06469a9fc6d52fae45024
+  - enabled: 1
+    path: Assets/Scenes/World/WuLing/Scene_WuLingOutside.unity
+    guid: 95d6bc590933046f3922eec52bbbacec
+  - enabled: 1
+    path: Assets/Scenes/World/ShanYue/Scene_ShanYue1.unity
+    guid: 81c2e8e0d9b764b078c9dc0b48b42d66
+  - enabled: 1
+    path: Assets/Scenes/World/ShanYue/Scene_ShanYue2.unity
+    guid: 6125e6c60fcbe4e6e906dec1458578b8
+  - enabled: 1
+    path: Assets/Scenes/World/ShanYue/Scene_ShanYueHole.unity
+    guid: f282d3904a1334bafbb781c1aa76d7c5
+  - enabled: 1
+    path: Assets/Scenes/World/XiaPi/Scene_XiaPi.unity
+    guid: 1f8fec70a03d049fbb70400a278fdacc
+  - enabled: 1
+    path: Assets/Scenes/World/XiaPi/Scene_XiaPiHouse1.unity
+    guid: 3af6d94c1b2ef4dcca4953a9ed8d441b
+  - enabled: 1
+    path: Assets/Scenes/World/XiaPi/Scene_XiaPiInternalCity.unity
+    guid: 77d4713ab2f53482385b9018aee7129b
+  - enabled: 1
+    path: Assets/Scenes/World/XiaPi/Scene_XiaPiMedicalShop.unity
+    guid: ee01f323cf9d5443cbcc7576cd0bf8e8
+  - enabled: 1
+    path: Assets/Scenes/World/XiaPi/Scene_XiaPiOutside.unity
+    guid: 4dfec286d48d748d6b14ce626adb0d50
+  - enabled: 1
+    path: Assets/Scenes/World/NanMan/Scene_NanMan.unity
+    guid: 475769f18f8ce45ea89ee3c4fb66e4e0
+  - enabled: 1
+    path: Assets/Scenes/World/NanMan/Scene_NanManChiefRoom.unity
+    guid: 9e6408ff6f3a44125988c393c8ab2d9d
+  - enabled: 1
+    path: Assets/Scenes/World/NanMan/Scene_NanManHouse1.unity
+    guid: 765bb153e5ae942f4a6ad61f8ce9147f
+  - enabled: 1
+    path: Assets/Scenes/World/NanMan/Scene_NanManHouse2.unity
+    guid: 67ab9338fb4ac4232b552baf5608242a
+  - enabled: 1
+    path: Assets/Scenes/World/XiQiang/Scene_XiQiang.unity
+    guid: 07e6f4fdd545c470faac3adb6755b726
+  - enabled: 1
+    path: Assets/Scenes/World/XiQiang/Scene_XiQiangChiefRoom.unity
+    guid: 45bc6dd544ffc46a487d1e0b2c221048
+  - enabled: 1
+    path: Assets/Scenes/World/XiQiang/Scene_XiQiangJewelryShop.unity
+    guid: add01d551448240ca932cce7a65a792a
+  - enabled: 1
+    path: Assets/Scenes/World/XiQiang/Scene_XiQiangPlane.unity
+    guid: f8561c095bae04a5db6a1217a7540f3b
+  - enabled: 1
+    path: Assets/Scenes/World/XiQiang/Scene_XiQiangWeaponShop.unity
+    guid: fade0e34af7024981a28aec48ec22398
+  - enabled: 1
+    path: Assets/Scenes/World/Ports/Scene_ChangJiangNorthPort.unity
+    guid: 55ec5aeb41df24e39a5282b9abf694fa
+  - enabled: 1
+    path: Assets/Scenes/World/Ports/Scene_ChangJiangSouthPort.unity
+    guid: 0c463907154194e119176ef474bcdd8c
+  - enabled: 1
+    path: Assets/Scenes/World/Ports/Scene_HuangHeNorthPort.unity
+    guid: 7bc863202111c4da79e138789b3b35f4
+  - enabled: 1
+    path: Assets/Scenes/World/Ports/Scene_HuangHeSouthPort.unity
+    guid: 30878c935d68f4fe492b925b4b5cbeb6
+  - enabled: 1
+    path: Assets/Scenes/World/ChangAn/Scene_ChangAn.unity
+    guid: 4161398a5ee334390bfce855f3c7632d
+  - enabled: 1
+    path: Assets/Scenes/World/ChangAn/Scene_ChangAnInn.unity
+    guid: fb6c7af8089e2489e9bc231df2cf4f5e
+  - enabled: 1
+    path: Assets/Scenes/World/ChangAn/Scene_ChangAnInside.unity
+    guid: 1567ca7ff048c49219404ebc5316bad1
+  - enabled: 1
+    path: Assets/Scenes/World/ChangAn/Scene_ChangAnJewelryShop.unity
+    guid: 0c4f24113f7274811a06fe402aa12b48
+  - enabled: 1
+    path: Assets/Scenes/World/ChangAn/Scene_ChangAnLobby.unity
+    guid: ca0a857a161d34518841f33dfc9afcea
+  - enabled: 1
+    path: Assets/Scenes/World/ChangAn/Scene_ChangAnOutside.unity
+    guid: 4c2b706bc96284c7887a36e6947ec908
+  - enabled: 1
+    path: Assets/Scenes/World/ChangAn/Scene_ChangAnRoom.unity
+    guid: 56dd58245f38149d0b93472c7404fff1
+  - enabled: 1
+    path: Assets/Scenes/World/ChangAn/Scene_ChangAnTemple.unity
+    guid: 68507e4d18d32494094fa29bf3b4740b
+  - enabled: 1
+    path: Assets/Scenes/World/LuoYang/Scene_LuoYang.unity
+    guid: c1a1473ddcc464ddb9fd25d910a6c522
+  - enabled: 1
+    path: Assets/Scenes/World/LuoYang/Scene_LuoYangDongZhuoRoom.unity
+    guid: 02bd2a12943b14f00a22626ca188e48f
+  - enabled: 1
+    path: Assets/Scenes/World/LuoYang/Scene_LuoYangGambling.unity
+    guid: 47777239852964b1c9d4dae9d39dd03c
+  - enabled: 1
+    path: Assets/Scenes/World/LuoYang/Scene_LuoYangInn.unity
+    guid: 7477785d508004ca6b972dd98600f7f0
+  - enabled: 1
+    path: Assets/Scenes/World/LuoYang/Scene_LuoYangInnFloorRoom.unity
+    guid: b2424a3f6b5ed488993b6393049fe587
+  - enabled: 1
+    path: Assets/Scenes/World/LuoYang/Scene_LuoYangInside.unity
+    guid: 291594a06814c4ecf8242094e3780563
+  - enabled: 1
+    path: Assets/Scenes/World/LuoYang/Scene_LuoYangJewelryShop.unity
+    guid: f643c3f69cc5940f3983f3e24b55ad45
+  - enabled: 1
+    path: Assets/Scenes/World/LuoYang/Scene_LuoYangLvBuRoom.unity
+    guid: cb08851a2b5594b3583ef38e40650461
+  - enabled: 1
+    path: Assets/Scenes/World/LuoYang/Scene_LuoYangOutside.unity
+    guid: c1585d4fd7c834be6860f36d3f163925
+  - enabled: 1
+    path: Assets/Scenes/World/LuoYang/Scene_LuoYangSquare.unity
+    guid: 9eeada094707242f1a1f0334b36a68ef
+  - enabled: 1
+    path: Assets/Scenes/World/LuoYang/Scene_LuoYangStreet.unity
+    guid: 51598ed3d622b47c1910da0a88c37769
+  - enabled: 1
+    path: Assets/Scenes/World/ChaiSang/Scene_ChaiSang.unity
+    guid: 2c8c495ebabf144d3bfe4cb78160be9e
+  - enabled: 1
+    path: Assets/Scenes/World/ChaiSang/Scene_ChaiSangHouse1.unity
+    guid: ea14b6710383a44f9b673dce778b9776
+  - enabled: 1
+    path: Assets/Scenes/World/ChaiSang/Scene_ChaiSangMedicalShop.unity
+    guid: 1f2408b6e465a4513a1739dd975003c8
+  - enabled: 1
+    path: Assets/Scenes/World/ChaiSang/Scene_ChaiSangOutside.unity
+    guid: 00dc9442c0cfd458b90f7bb14bfe3b71
+  - enabled: 1
+    path: Assets/Scenes/Battle/Battle_Demo.unity
+    guid: a16453074925ced4089f0c73c5aaeda1
+  m_configObjects: {}

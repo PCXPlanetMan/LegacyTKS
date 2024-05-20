@@ -1,0 +1,6774 @@
+{
+  "skills": {
+    "70100001": {
+      "Id": 70100001,
+      "Name": "治療術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "XianShu",
+      "Description": "《治療術》\n仙術類技能\n耗費內力：20\n令目標隊友生命值恢復\n30％。",
+      "70100001": "70100001"
+    },
+    "70100002": {
+      "Id": 70100002,
+      "Name": "強療術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "XianShu",
+      "Description": "《強療術》\n仙術類技能\n耗費內力：40\n令範圍1格之內所有隊\n友生命值恢復40％。",
+      "70100002": "70100002"
+    },
+    "70100003": {
+      "Id": 70100003,
+      "Name": "復活術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "XianShu",
+      "Description": "《復活術》\n仙術類技能\n耗費內力100\n使一名戰鬥中陣亡的己\n方隊員復活回到場上作\n戰，並且立即擁有20％\n的生命值。",
+      "70100003": "70100003"
+    },
+    "70100004": {
+      "Id": 70100004,
+      "Name": "靈息術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "XianShu",
+      "Description": "《靈息術》\n仙術類技能\n耗費內力：30\n令目標隊友內力值恢復\n25%。",
+      "70100004": "70100004"
+    },
+    "70100005": {
+      "Id": 70100005,
+      "Name": "破邪術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "XianShu",
+      "Description": "《破邪術》\n仙術類技能\n耗費內力：30\n令範圍3格之內所有敵\n人受到20點傷害。",
+      "70100005": "70100005"
+    },
+    "70100006": {
+      "Id": 70100006,
+      "Name": "定心術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "XianShu",
+      "Description": "《定心術》\n仙術類技能\n耗費內力：20\n解除目標人物所受到的\n『誤導』、『混亂』、\n『迷戀』狀態。",
+      "70100006": "70100006"
+    },
+    "70100007": {
+      "Id": 70100007,
+      "Name": "鼓舞術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "XianShu",
+      "Description": "《鼓舞術》\n仙術類技能\n耗費內力：20\n解除目標人物所受到的\n『禁制』、『詛咒』、\n『封印』狀態。",
+      "70100007": "70100007"
+    },
+    "70100008": {
+      "Id": 70100008,
+      "Name": "清醒術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "XianShu",
+      "Description": "《清醒術》\n仙術類技能\n耗費內力：20\n解除目標人物所受到的\n『沈睡』、『定身』、\n『死戰』狀態。",
+      "70100008": "70100008"
+    },
+    "70100009": {
+      "Id": 70100009,
+      "Name": "解毒術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "XianShu",
+      "Description": "《解毒術》\n仙術類技能\n耗費內力：40\n解除目標人物所受到的\n『中毒』、『虛弱』、\n『麻痺』狀態。",
+      "70100009": "70100009"
+    },
+    "70100010": {
+      "Id": 70100010,
+      "Name": "掙脫術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "XianShu",
+      "Description": "《掙脫術》\n仙術類技能\n耗費內力：80\n解除目標人物身上的所\n有狀態。",
+      "70100010": "70100010"
+    },
+    "70101001": {
+      "Id": 70101001,
+      "Name": "鎧甲術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "FangShu",
+      "Description": "《鎧甲術》\n方術類技能\n耗費內力：25\n使目標己方隊員得到\n『鋼體』狀態。",
+      "70101001": "70101001"
+    },
+    "70101002": {
+      "Id": 70101002,
+      "Name": "敏捷術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "FangShu",
+      "Description": "《敏捷術》\n方術類技能\n耗費內力：25\n使目標己方隊員得到\n『神行』狀態。",
+      "70101002": "70101002"
+    },
+    "70101003": {
+      "Id": 70101003,
+      "Name": "瀚力術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "FangShu",
+      "Description": "《瀚力術》\n方術類技能\n耗費內力：25\n使目標己方隊員得到\n『蓄勁』狀態。",
+      "70101003": "70101003"
+    },
+    "70101004": {
+      "Id": 70101004,
+      "Name": "遲緩術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "FangShu",
+      "Description": "《遲緩術》\n方術類技能\n耗費內力：25\n使目標敵方人物受到\n『羈絆』狀態。",
+      "70101004": "70101004"
+    },
+    "70101005": {
+      "Id": 70101005,
+      "Name": "虛脫術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "FangShu",
+      "Description": "《虛脫術》\n方術類技能\n耗費內力：25\n使目標敵方人物受到\n『破兵』狀態。",
+      "70101005": "70101005"
+    },
+    "70101006": {
+      "Id": 70101006,
+      "Name": "定身術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "FangShu",
+      "Description": "《定身術》\n方術類技能\n耗費內力：25\n使目標敵方人物受到\n『定身』狀態。",
+      "70101006": "70101006"
+    },
+    "70101007": {
+      "Id": 70101007,
+      "Name": "沈默術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "FangShu",
+      "Description": "《沈默術》\n方術類技能\n耗費內力：25\n使目標敵方人物受到\n『禁制』狀態。",
+      "70101007": "70101007"
+    },
+    "70101008": {
+      "Id": 70101008,
+      "Name": "昏迷術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "FangShu",
+      "Description": "《昏迷術》\n方術類技能\n耗費內力：25\n使目標敵方人物受到\n『沈睡』狀態。",
+      "70101008": "70101008"
+    },
+    "70101009": {
+      "Id": 70101009,
+      "Name": "疲弱術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "FangShu",
+      "Description": "《疲弱術》\n方術類技能\n耗費內力：25\n使目標敵方人物受到\n『碎甲』狀態。",
+      "70101009": "70101009"
+    },
+    "70101010": {
+      "Id": 70101010,
+      "Name": "混亂術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "FangShu",
+      "Description": "《混亂術》\n方術類技能\n耗費內力：25\n使目標敵方人物受到\n『混亂』狀態。",
+      "70101010": "70101010"
+    },
+    "70102001": {
+      "Id": 70102001,
+      "Name": "火焰術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "YiShu",
+      "Description": "《火焰術》\n異術類技能\n耗費內力：40\n使目標敵人受到80點傷\n害。",
+      "70102001": "70102001"
+    },
+    "70102002": {
+      "Id": 70102002,
+      "Name": "洪水術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "YiShu",
+      "Description": "《洪水術》\n異術類技能\n耗費內力：60\n使範圍3格之內的所有\n敵人受到60點傷害。",
+      "70102002": "70102002"
+    },
+    "70102003": {
+      "Id": 70102003,
+      "Name": "土崩術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "YiShu",
+      "Description": "《土崩術》\n異術類技能\n耗費內力：100\n使範圍3格之內所有地\n面上的人物受到120點\n傷害。",
+      "70102003": "70102003"
+    },
+    "70102004": {
+      "Id": 70102004,
+      "Name": "狂風術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "YiShu",
+      "Description": "《狂風術》\n異術類技能\n耗費內力：25\n使目標敵人受到40點傷\n害。",
+      "70102004": "70102004"
+    },
+    "70102005": {
+      "Id": 70102005,
+      "Name": "冰雪術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "YiShu",
+      "Description": "《冰雪術》\n異術類技能\n耗費內力：80\n使範圍2格之內的敵人\n受到60點傷害，並且\n陷入『冰凍』狀態。",
+      "70102005": "70102005"
+    },
+    "70102006": {
+      "Id": 70102006,
+      "Name": "落雷術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "YiShu",
+      "Description": "《落雷術》\n異術類技能\n耗費內力：80\n使目標人物受到150點\n的傷害。",
+      "70102006": "70102006"
+    },
+    "70102007": {
+      "Id": 70102007,
+      "Name": "滾木術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "YiShu",
+      "Description": "《滾木術》\n異術類技能\n耗費內力：40\n使範圍2格之內的所有\n人物受到80點傷害，並\n且陷入『羈絆』狀態。",
+      "70102007": "70102007"
+    },
+    "70102008": {
+      "Id": 70102008,
+      "Name": "毒氣術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "YiShu",
+      "Description": "《毒氣術》\n異術類技能\n耗費內力：40\n使範圍2格之內的所有\n人物受到30點傷害，並\n且陷入『中毒』狀態。",
+      "70102008": "70102008"
+    },
+    "70102009": {
+      "Id": 70102009,
+      "Name": "熔岩術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "YiShu",
+      "Description": "《熔岩術》\n異術類技能\n耗費內力：80\n使範圍1格之內的所有\n人物生命減少40％，並\n且陷入『燃燒』狀態。",
+      "70102009": "70102009"
+    },
+    "70102010": {
+      "Id": 70102010,
+      "Name": "海嘯術",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "YiShu",
+      "Description": "《海嘯術》\n異術類技能\n耗費內力：80\n使範圍3格之內的所有\n人物生命值與內力值皆\n減少30％。",
+      "70102010": "70102010"
+    },
+    "70103001": {
+      "Id": 70103001,
+      "Name": "合擊",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《合擊》\n武術類技能\n耗費內力：20\n聯合目標敵人身邊的己\n方隊員，向敵人同時進\n行攻擊。",
+      "70103001": "70103001"
+    },
+    "70103002": {
+      "Id": 70103002,
+      "Name": "逆襲",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《逆襲》\n武術類技能\n耗費內力：20\n對目標敵人發動一般攻\n擊，所造成的傷害值會\n按照攻擊者生命值的損\n失比例而增加。",
+      "70103002": "70103002"
+    },
+    "70103003": {
+      "Id": 70103003,
+      "Name": "牽制",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《牽制》\n武術類技能\n耗費內力：20\n對目標敵人發動一般攻\n擊，若命中敵人，則該\n敵人將損失下次的行動\n時序。",
+      "70103003": "70103003"
+    },
+    "70103004": {
+      "Id": 70103004,
+      "Name": "迴斬",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《迴斬》\n武術類技能\n耗費內力：15\n對鄰近的所有敵人發動\n一次攻擊。",
+      "70103004": "70103004"
+    },
+    "70103005": {
+      "Id": 70103005,
+      "Name": "突擊",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《突擊》\n武術類技能\n耗費內力：10\n對目標敵人發動特殊攻\n擊，其攻擊力增加30點\n，命中增加80點。",
+      "70103005": "70103005"
+    },
+    "70103006": {
+      "Id": 70103006,
+      "Name": "背擊",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《背擊》\n武術類技能\n耗費內力：15\n由目標敵人背後發動此\n技能時，會對該敵人發\n動攻擊力增加100點的\n背後攻擊。",
+      "70103006": "70103006"
+    },
+    "70103007": {
+      "Id": 70103007,
+      "Name": "連擊",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《連擊》\n武術類技能\n耗費內力：25\n對目標敵人連續攻擊，\n且攻擊力增加50點，命\n中增加50點。",
+      "70103007": "70103007"
+    },
+    "70103008": {
+      "Id": 70103008,
+      "Name": "刺擊",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《刺擊》\n武術類技能\n耗費內力：10\n對範圍3之內的目標敵\n人發動一般攻擊。",
+      "70103008": "70103008"
+    },
+    "70103009": {
+      "Id": 70103009,
+      "Name": "飆擊",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《飆擊》\n武術類技能\n耗費內力：10\n對目標敵人發動一般攻\n擊，且攻擊之後將獲得\n1次額外的移動。",
+      "70103009": "70103009"
+    },
+    "70103010": {
+      "Id": 70103010,
+      "Name": "衝鋒",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《衝鋒》\n武術類技能\n耗費內力：25\n對目標敵人發動衝鋒攻\n擊，並按照發動此攻擊\n之前該人物的移動距離\n增加攻擊力。",
+      "70103010": "70103010"
+    },
+    "70103011": {
+      "Id": 70103011,
+      "Name": "逆勾",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《逆勾》\n武術類技能\n耗費內力：25\n對目標敵人發動特殊攻\n擊，且於一般攻擊結束\n之後追加1次必定命中\n的攻擊。",
+      "70103011": "70103011"
+    },
+    "70103012": {
+      "Id": 70103012,
+      "Name": "震擊",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《震擊》\n武術類技能\n耗費內力：15\n對敵人發動一次震打攻\n擊，若此攻擊命中，則\n該敵人下次的行動時序\n將後移2位。",
+      "70103012": "70103012"
+    },
+    "70103013": {
+      "Id": 70103013,
+      "Name": "重鎚",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《重鎚》\n武術類技能\n耗費內力：25\n對敵人發動一次強力攻\n擊，此攻擊附帶3倍於\n武器攻擊力的額外傷\n害。",
+      "70103013": "70103013"
+    },
+    "70103014": {
+      "Id": 70103014,
+      "Name": "點穴",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《點穴》\n武術類技能\n耗費內力：20\n使目標敵人陷入『定身\n』狀態。",
+      "70103014": "70103014"
+    },
+    "70103015": {
+      "Id": 70103015,
+      "Name": "五禽功",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《五禽功》\n武術類技能\n耗費內力：40\n對目標敵人發動特殊攻\n擊，此攻擊的傷害值由\n發動者的等級決定，等\n級越高，威力越強。",
+      "70103015": "70103015"
+    },
+    "70103016": {
+      "Id": 70103016,
+      "Name": "劈天式",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《劈天式》\n武術類技能\n耗費內力：20\n對目標敵人發動特殊攻\n擊，攻擊時命中減少30\n點，但攻擊增加80點。",
+      "70103016": "70103016"
+    },
+    "70103017": {
+      "Id": 70103017,
+      "Name": "獅子吼",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《獅子吼》\n武術類技能\n耗費內力：30\n距離發動者範圍2格之\n內的所有人物生命值減\n少10％，並且陷入『混\n亂』狀態。",
+      "70103017": "70103017"
+    },
+    "70103018": {
+      "Id": 70103018,
+      "Name": "破元擊",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《破元擊》\n武術類技能\n耗費內力：35\n對目標敵人發動一般攻\n擊，若命中敵人，除了\n造成傷害之外，還會使\n敵人將陷入『虛弱』狀\n態。",
+      "70103018": "70103018"
+    },
+    "70103019": {
+      "Id": 70103019,
+      "Name": "封魔擊",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《封魔擊》\n武術類技能\n耗費內力：35\n對目標敵人發動一般攻\n擊，若命中敵人，除了\n造成傷害之外，還會使\n敵人將陷入『封印』狀\n態。",
+      "70103019": "70103019"
+    },
+    "70103020": {
+      "Id": 70103020,
+      "Name": "滅魂擊",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《滅魂擊》\n武術類技能\n耗費內力：40\n對目標敵人發動滅魂一\n擊，若攻擊命中，目標\n敵人生命值減少20％。",
+      "70103020": "70103020"
+    },
+    "70103021": {
+      "Id": 70103021,
+      "Name": "滅靈擊",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《滅靈擊》\n武術類技能\n耗費內力：40\n對目標敵人發動滅靈一\n擊，若攻擊命中，目標\n敵人內力值減少40％。",
+      "70103021": "70103021"
+    },
+    "70103022": {
+      "Id": 70103022,
+      "Name": "武器破壞",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《武器破壞》\n武術類技能\n耗費內力：30\n使目標敵人陷入『破兵\n』狀態。",
+      "70103022": "70103022"
+    },
+    "70103023": {
+      "Id": 70103023,
+      "Name": "防具破壞",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《防具破壞》\n武術類技能\n耗費內力：30\n使目標敵人陷入『碎甲\n』狀態。",
+      "70103023": "70103023"
+    },
+    "70103024": {
+      "Id": 70103024,
+      "Name": "閃避破壞",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《閃避破壞》\n武術類技能\n耗費內力：30\n使目標敵人陷入『封鎖\n』狀態。",
+      "70103024": "70103024"
+    },
+    "70103025": {
+      "Id": 70103025,
+      "Name": "命中破壞",
+      "MainCategory": "Command",
+      "SubCategory": "WuShu",
+      "Function": "",
+      "Description": "《命中破壞》\n武術類技能\n耗費內力：30\n使目標敵人陷入『昏眩\n』狀態。",
+      "70103025": "70103025"
+    },
+    "70104001": {
+      "Id": 70104001,
+      "Name": "火箭",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《火箭》\n射擊類技能\n耗費內力：10\n對目標敵人發動射擊，\n造成敵人生命值5％傷\n害，並使敵人陷入『燃\n燒』狀態。",
+      "70104001": "70104001"
+    },
+    "70104002": {
+      "Id": 70104002,
+      "Name": "毒箭",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《毒箭》\n射擊類技能\n耗費內力：15\n對目標敵人發動射擊，\n造成敵人30點的傷害，\n並使敵人陷入『中毒』\n狀態。",
+      "70104002": "70104002"
+    },
+    "70104003": {
+      "Id": 70104003,
+      "Name": "咒箭",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《咒箭》\n射擊類技能\n耗費內力：15\n對目標敵人發動射擊，\n造成敵人30點的傷害，\n並使敵人陷入『詛咒』\n狀態。",
+      "70104003": "70104003"
+    },
+    "70104004": {
+      "Id": 70104004,
+      "Name": "遠程射擊",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《遠程射擊》\n射擊類技能\n耗費內力：15\n對目標敵人發動射擊，\n且射程增加3格。",
+      "70104004": "70104004"
+    },
+    "70104005": {
+      "Id": 70104005,
+      "Name": "致命射擊",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《致命射擊》\n射擊類技能\n耗費內力：25\n對目標敵人發動射擊\n，若攻擊命中，敵人\n生命值減少35％。",
+      "70104005": "70104005"
+    },
+    "70104006": {
+      "Id": 70104006,
+      "Name": "引導射擊",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《引導射擊》\n射擊類技能\n耗費內力：25\n聯合己方所有射程距離\n符合的弓箭手，射擊同\n一目標敵人。",
+      "70104006": "70104006"
+    },
+    "70104007": {
+      "Id": 70104007,
+      "Name": "精準射擊",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《精準射擊》\n射擊類技能\n耗費內力：20\n對目標敵人發動射擊，\n且此次射擊命中率百分\n之百。",
+      "70104007": "70104007"
+    },
+    "70104008": {
+      "Id": 70104008,
+      "Name": "散箭射擊",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《散箭射擊》\n射擊類技能\n耗費內力：25\n對範圍6格之內的所有\n敵人發動射擊。可同時\n痛擊多位敵人。",
+      "70104008": "70104008"
+    },
+    "70104009": {
+      "Id": 70104009,
+      "Name": "貫穿射擊",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《貫穿射擊》\n射擊類技能\n耗費內力：20\n此射擊可對範圍十字格\n內所有敵人造成傷害，\n可一次射擊多位敵人。",
+      "70104009": "70104009"
+    },
+    "70104010": {
+      "Id": 70104010,
+      "Name": "快速射擊",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《快速射擊》\n射擊類技能\n耗費內力：20\n發動一般射擊，並使射\n擊者下次行動時序向前\n移動。",
+      "70104010": "70104010"
+    },
+    "70104011": {
+      "Id": 70104011,
+      "Name": "定身射擊",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《定身射擊》\n射擊類技能\n耗費內力：25\n對目標敵人發動射擊，\n令該敵人將陷入『定\n身』狀態。",
+      "70104011": "70104011"
+    },
+    "70104012": {
+      "Id": 70104012,
+      "Name": "連續射擊",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《連續射擊》\n射擊類技能\n耗費內力：25\n對目標敵人連續發出多\n次弓箭射擊，可額外增\n加2次射擊機會。",
+      "70104012": "70104012"
+    },
+    "70104013": {
+      "Id": 70104013,
+      "Name": "移動射擊",
+      "MainCategory": "Command",
+      "SubCategory": "Shooting",
+      "Function": "",
+      "Description": "《移動射擊》\n射擊類技能\n耗費內力：15\n對目標敵人發動射擊後\n，仍可移動。",
+      "70104013": "70104013"
+    },
+    "70104020": {
+      "Id": 70104020,
+      "Name": "集中",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《集中》\n輔助類技能\n耗費內力：10\n使自身得到『集中』狀\n態。",
+      "70104020": "70104020"
+    },
+    "70104021": {
+      "Id": 70104021,
+      "Name": "雲身",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《雲身》\n輔助類技能\n耗費內力：10\n使自身得到『雲身』狀\n態。",
+      "70104021": "70104021"
+    },
+    "70104022": {
+      "Id": 70104022,
+      "Name": "蓄勁",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《蓄勁》\n輔助類技能\n耗費內力：10\n使自身得到『蓄勁』狀\n態。",
+      "70104022": "70104022"
+    },
+    "70104023": {
+      "Id": 70104023,
+      "Name": "鋼體",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《鋼體》\n輔助類技能\n耗費內力：10\n使自身得到『鋼體』狀\n態。",
+      "70104023": "70104023"
+    },
+    "70104024": {
+      "Id": 70104024,
+      "Name": "神行",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《神行》\n輔助類技能\n耗費內力：10\n使自身得到『神行』狀\n態。",
+      "70104024": "70104024"
+    },
+    "70104025": {
+      "Id": 70104025,
+      "Name": "自療",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《自療》\n輔助類技能\n耗費內力：5\n恢復自身生命值15％。",
+      "70104025": "70104025"
+    },
+    "70104026": {
+      "Id": 70104026,
+      "Name": "急救",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《急救》\n輔助類技能\n耗費內力：5\n恢復己方目標人物生命\n值15％。",
+      "70104026": "70104026"
+    },
+    "70104027": {
+      "Id": 70104027,
+      "Name": "醫療",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《醫療》\n輔助類技能\n耗費內力：25\n恢復己方目標人物生命\n值20％。",
+      "70104027": "70104027"
+    },
+    "70104028": {
+      "Id": 70104028,
+      "Name": "運功",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《運功》\n輔助類技能\n耗費內力：20 \n恢復自身內力60點。",
+      "70104028": "70104028"
+    },
+    "70104029": {
+      "Id": 70104029,
+      "Name": "解毒",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《解毒》\n輔助類技能\n耗費內力：15\n解除自身的『中毒』狀\n態。",
+      "70104029": "70104029"
+    },
+    "70104030": {
+      "Id": 70104030,
+      "Name": "破咒",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《破咒》\n輔助類技能\n耗費內力：15\n解除自身的『詛咒』狀\n態。此指令技能不受詛\n咒狀態影響成功率。",
+      "70104030": "70104030"
+    },
+    "70104031": {
+      "Id": 70104031,
+      "Name": "剛勁",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《剛勁》\n輔助類技能\n耗費內力：20\n使自身得到『蓄勁』與\n『鋼體』狀態。",
+      "70104031": "70104031"
+    },
+    "70104032": {
+      "Id": 70104032,
+      "Name": "專注",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《專注》\n輔助類技能\n耗費內力：20\n使自身得到『集中』與\n『雲身』狀態。",
+      "70104032": "70104032"
+    },
+    "70104033": {
+      "Id": 70104033,
+      "Name": "戰令",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《戰令》\n輔助類技能\n耗費內力：40\n使距離發動者2格之內\n的所有己方人物獲得\n『明鏡』狀態。",
+      "70104033": "70104033"
+    },
+    "70104034": {
+      "Id": 70104034,
+      "Name": "脫離戰場",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《脫離戰場》\n獨立技能 \n耗費內力：0 \n率領全隊脫離戰鬥，此\n技能只適用於大地圖的\n隨機戰鬥。若成功脫離\n戰場，無法獲得戰鬥經\n驗值與技能點數。",
+      "70104034": "70104034"
+    },
+    "70104035": {
+      "Id": 70104035,
+      "Name": "使用物品",
+      "MainCategory": "Command",
+      "SubCategory": "Auxiliary",
+      "Function": "",
+      "Description": "《使用物品》\n獨立技能\n耗費內力：0\n可於戰鬥中對自身或鄰\n近目標人物使用物品，\n但某些物品在戰鬥中無\n法使用。",
+      "70104035": "70104035"
+    },
+    "70105001": {
+      "Id": 70105001,
+      "Name": "赤血",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "FeiHongLiuShi",
+      "Description": "《赤血》\n飛虹六式之一\n耗費內力：5\n浴血奮戰之刀式。附帶\n1倍配刀之攻擊力，以\n及命中值增加10點。",
+      "70105001": "70105001"
+    },
+    "70105002": {
+      "Id": 70105002,
+      "Name": "幻橙",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "FeiHongLiuShi",
+      "Description": "《幻橙》\n飛虹六式之二\n耗費內力：15\n亂人心神之刀式。附帶\n4倍配刀之攻擊力，以\n及命中值增加20點，並\n可能使敵人陷入『混亂\n』狀態。",
+      "70105002": "70105002"
+    },
+    "70105003": {
+      "Id": 70105003,
+      "Name": "金曦",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "FeiHongLiuShi",
+      "Description": "《金曦》\n飛虹六式之三\n耗費內力：25\n破敵五感之刀式。附帶\n7倍配刀之攻擊力，以\n及命中值增加30點，並\n可能使敵人陷入『昏眩\n』狀態。",
+      "70105003": "70105003"
+    },
+    "70105004": {
+      "Id": 70105004,
+      "Name": "綠殺",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "FeiHongLiuShi",
+      "Description": "《綠殺》\n飛虹六式之四\n耗費內力：35\n殺意綿延之刀式。附帶\n10倍配刀之攻擊力，以\n及命中值增加30點，並\n可能使敵人陷入『定身\n』狀態。",
+      "70105004": "70105004"
+    },
+    "70105005": {
+      "Id": 70105005,
+      "Name": "藍斷",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "FeiHongLiuShi",
+      "Description": "《藍斷》\n飛虹六式之五\n耗費內力：45\n摧兵碎甲之刀式。附帶\n13倍配刀之攻擊力，以\n及命中值增加40點，並\n可能使敵人陷入『破兵\n』、『碎甲』的狀態。",
+      "70105005": "70105005"
+    },
+    "70105006": {
+      "Id": 70105006,
+      "Name": "紫破",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "FeiHongLiuShi",
+      "Description": "《紫破》\n飛虹六式最極招\n耗費內力：55\n極道霸絕之刀式。此攻\n擊必定命中，並對敵人\n造成相當於16倍配刀之\n攻擊力的傷害值。",
+      "70105006": "70105006"
+    },
+    "70106001": {
+      "Id": 70106001,
+      "Name": "劍一",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "XinJian",
+      "Description": "《劍一》\n心劍第一階段\n耗費內力：30\n意在劍先的劍客境界！\n以劍氣對目標敵人造成\n100點傷害。",
+      "70106001": "70106001"
+    },
+    "70106002": {
+      "Id": 70106002,
+      "Name": "劍三",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "XinJian",
+      "Description": "《劍三》\n心劍第二階段\n耗費內力：50\n心勝於劍的劍王境界！\n以劍氣對範圍2格之內\n的所有敵人造成100點\n傷害。",
+      "70106002": "70106002"
+    },
+    "70106003": {
+      "Id": 70106003,
+      "Name": "劍七",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "XinJian",
+      "Description": "《劍七》\n心劍第三階段\n耗費內力：70\n我即是劍、劍即是我的\n劍聖境界！以劍氣對範\n圍3格之內的所有敵人\n造成120點傷害。",
+      "70106003": "70106003"
+    },
+    "70106004": {
+      "Id": 70106004,
+      "Name": "劍十一",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "XinJian",
+      "Description": "《劍十一》\n心劍最終階段\n耗費內力：90\n劍我兩相忘的劍仙境界\n！一出手即可對目標敵\n人造成600點傷害。",
+      "70106004": "70106004"
+    },
+    "70107001": {
+      "Id": 70107001,
+      "Name": "龍奔百里",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《龍奔百里》\n槍類武術絕技！\n耗費內力：45\n對範圍1之內的所有敵\n人造成130點傷害，並\n使這些敵人下次行動時\n序後移1位。施術者會\n損失之後3次行動時序。\n需搭配裝備槍類武器。",
+      "70107001": "70107001"
+    },
+    "70107002": {
+      "Id": 70107002,
+      "Name": "連破五嶽",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《連破五嶽》\n矛類武術絕技！\n耗費內力：45\n對鄰近所有敵人發動攻\n擊，並造成三倍於一般\n攻擊的傷害值。其鄰近\n敵人越多，攻擊傷害值\n越大！需搭配裝備矛類\n武器。",
+      "70107002": "70107002"
+    },
+    "70107003": {
+      "Id": 70107003,
+      "Name": "鳳舞九天",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《鳳舞九天》\n弓類武術絕技！\n耗費內力：55\n以流星飛焰為箭，招引\n天火轟擊範圍3格之內\n的所有敵人！其威力為\n所裝備的弓弩攻擊力的\n10倍。需搭配裝備弓類\n武器。",
+      "70107003": "70107003"
+    },
+    "70107004": {
+      "Id": 70107004,
+      "Name": "破魔斬",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《破魔斬》\n大刀類武術絕技！\n耗費內力：35\n身化三千、同時殲滅眾\n多敵人的霸道武技。需\n搭配裝備大刀類武器。",
+      "70107004": "70107004"
+    },
+    "70107005": {
+      "Id": 70107005,
+      "Name": "殺神斬",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《殺神斬》\n大刀類武術絕技！\n耗費內力：35\n引發天地能量，重創目\n標敵人。需搭配裝備大\n刀類武器。",
+      "70107005": "70107005"
+    },
+    "70107006": {
+      "Id": 70107006,
+      "Name": "神並天地",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《神並天地》\n天地三大秘式之一\n耗費內力：100\n解除戰場上所有人物之\n特殊狀態，恢復己方所\n有其他隊員全部生命與\n內力。施術者會損失之\n後3次的行動時序。",
+      "70107006": "70107006"
+    },
+    "70107007": {
+      "Id": 70107007,
+      "Name": "騰龍八齊",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《騰龍八齊》\n天地三大秘式之一\n耗費內力：200\n對戰場上的所有敵人造\n成3000點傷害。施術者\n會損失之後3次的行動\n時序。",
+      "70107007": "70107007"
+    },
+    "70107008": {
+      "Id": 70107008,
+      "Name": "顛動滄溟",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《顛動滄溟》\n天地三大秘式之一\n耗費內力：100\n使戰場上所有其他人物\n陷入各種負面狀態，並\n且受到200點傷害。施\n術者會損失之後3次的\n行動時序。",
+      "70107008": "70107008"
+    },
+    "70108001": {
+      "Id": 70108001,
+      "Name": "霸王項羽",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "HuanLingJi",
+      "Description": "《霸王項羽》\n幻靈技\n耗費內力：150\n耗費靈魄：10\n所有敵人生命值減少\n30％，且陷入『破兵』\n、『破甲』的狀態。",
+      "70108001": "70108001"
+    },
+    "70108002": {
+      "Id": 70108002,
+      "Name": "軍神孫武",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "HuanLingJi",
+      "Description": "《軍神孫武》\n幻靈技\n耗費內力：100\n耗費靈魄：5\n所有己方其他人物增加\n1次行動時序。",
+      "70108002": "70108002"
+    },
+    "70108003": {
+      "Id": 70108003,
+      "Name": "醫聖扁鵲",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "HuanLingJi",
+      "Description": "《醫聖扁鵲》\n幻靈技\n耗費內力：150\n耗費靈魄：10\n解除所有己方人物所受\n到的負面狀態，並恢復\n20％的生命值。",
+      "70108003": "70108003"
+    },
+    "70108004": {
+      "Id": 70108004,
+      "Name": "始皇嬴政",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "HuanLingJi",
+      "Description": "《始皇嬴政》\n幻靈技\n耗費內力：120\n耗費靈魄：8\n戰場上所有人物都受到\n800點傷害。",
+      "70108004": "70108004"
+    },
+    "70108005": {
+      "Id": 70108005,
+      "Name": "名相張良",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "HuanLingJi",
+      "Description": "《名相張良》\n幻靈技\n耗費內力：100\n耗費靈魄：5\n所有敵人內力值減少75\n％，並且陷入『羈絆』\n狀態。",
+      "70108005": "70108005"
+    },
+    "70108006": {
+      "Id": 70108006,
+      "Name": "刺客豫讓",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "HuanLingJi",
+      "Description": "《刺客豫讓》\n幻靈技\n耗費內力：50\n耗費靈魄：5\n若法術成功，則使目標\n敵人立即死亡；若法術\n失敗，則會令施術者本\n身死亡。",
+      "70108006": "70108006"
+    },
+    "70108007": {
+      "Id": 70108007,
+      "Name": "搜魂擊",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "HuanLingJi",
+      "Description": "《搜魂擊》\n幻靈基本技\n耗費內力：15\n對目標敵人造成一般攻\n擊傷害，若將其生命降\n為零，則可以獲得施展\n幻靈技能所需的『靈魄\n』。",
+      "70108007": "70108007"
+    },
+    "70108008": {
+      "Id": 70108008,
+      "Name": "召喚野狼",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "YeShouZhaoHuan",
+      "Description": "《召喚野狼》\n野獸召喚技\n耗費內力：50\n耗費獸元：2\n召喚野狼加入戰局，幫\n助己方作戰。（戰場上\n同時最多只能出現2隻\n召喚獸）",
+      "70108008": "70108008"
+    },
+    "70108009": {
+      "Id": 70108009,
+      "Name": "召喚翼蛇",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "YeShouZhaoHuan",
+      "Description": "《召喚翼蛇》\n野獸召喚技\n耗費內力：50\n耗費獸元：5\n召喚翼蛇加入戰局，幫\n助己方作戰。（戰場上\n同時最多只能出現2隻\n召喚獸）",
+      "70108009": "70108009"
+    },
+    "70108010": {
+      "Id": 70108010,
+      "Name": "召喚猛虎",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "YeShouZhaoHuan",
+      "Description": "《召喚猛虎》\n野獸召喚技\n耗費內力：50\n耗費獸元：5\n召喚猛虎加入戰局，幫\n助己方作戰。（戰場上\n同時最多只能出現2隻\n召喚獸）",
+      "70108010": "70108010"
+    },
+    "70108011": {
+      "Id": 70108011,
+      "Name": "召喚巨象",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "YeShouZhaoHuan",
+      "Description": "《召喚巨象》\n野獸召喚技\n耗費內力：60\n耗費獸元：8\n召喚巨象加入戰局，幫\n助己方作戰。（戰場上\n同時最多只能出現2隻\n召喚獸）",
+      "70108011": "70108011"
+    },
+    "70108012": {
+      "Id": 70108012,
+      "Name": "召喚麒麟",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "YeShouZhaoHuan",
+      "Description": "《召喚麒麟》\n野獸召喚技\n耗費內力：90\n耗費獸元：12\n召喚麒麟加入戰局，幫\n助己方作戰。（戰場上\n同時最多只能出現2隻\n召喚獸）",
+      "70108012": "70108012"
+    },
+    "70108013": {
+      "Id": 70108013,
+      "Name": "召喚毒蜘蛛",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "YeShouZhaoHuan",
+      "Description": "《召喚毒蜘蛛》\n野獸召喚技\n耗費內力：70\n耗費獸元：5\n召喚毒蜘蛛加入戰局，\n幫助己方作戰。（戰場\n上同時最多只能出現2\n隻召喚獸）",
+      "70108013": "70108013"
+    },
+    "70108014": {
+      "Id": 70108014,
+      "Name": "召喚金龍",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "YeShouZhaoHuan",
+      "Description": "《召喚金龍》\n野獸召喚技\n耗費內力：120\n耗費獸元：20\n召喚五爪金龍加入戰局\n，幫助己方作戰。（戰\n場上同時最多只能出現\n2隻召喚獸）",
+      "70108014": "70108014"
+    },
+    "70108015": {
+      "Id": 70108015,
+      "Name": "召喚金翅鳥",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "YeShouZhaoHuan",
+      "Description": "《召喚金翅鳥》\n野獸召喚技\n耗費內力：100\n耗費獸元：10\n召喚大鵬金翅鳥加入戰\n局，幫助己方作戰。（\n戰場上同時最多只能出\n現2隻召喚獸）",
+      "70108015": "70108015"
+    },
+    "70108016": {
+      "Id": 70108016,
+      "Name": "降獸擊",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "YeShouZhaoHuan",
+      "Description": "《降獸擊》\n召喚野獸基本技\n耗費內力：15\n對目標野獸類敵人發動\n一般攻擊，若將其生命\n降為零，則可以獲得施\n展野獸召喚技所需的『\n獸元』。",
+      "70108016": "70108016"
+    },
+    "70109001": {
+      "Id": 70109001,
+      "Name": "七星陣",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "BingFa",
+      "Description": "《七星陣》\n兵法類技能\n耗費內力：80\n重新排列行動時序，且\n重新排序時，己方隊員\n速度可獲得時序上的優\n勢。自身時序後移3位",
+      "70109001": "70109001"
+    },
+    "70109002": {
+      "Id": 70109002,
+      "Name": "八卦陣",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "BingFa",
+      "Description": "《八卦陣》\n兵法類技能\n耗費內力：100\n使所有敵人陷入\n『混亂』、『禁制』\n、『定身』、『詛咒』\n其中之一種狀態。",
+      "70109002": "70109002"
+    },
+    "70109003": {
+      "Id": 70109003,
+      "Name": "猛獸陣",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "BingFa",
+      "Description": "《猛獸陣》\n兵法類技能\n耗費內力：80\n使所有敵人陷入\n『破兵』、『碎甲』\n、『昏眩』、『封鎖』\n、『羈絆』其中之一\n種狀態。",
+      "70109003": "70109003"
+    },
+    "70109004": {
+      "Id": 70109004,
+      "Name": "山崩陷阱",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "BingFa",
+      "Description": "《山崩陷阱》\n兵法類技能\n耗費內力：40\n觸發陷阱後，陷阱範圍\n3格之內的人物都會受\n到12～120點傷害。",
+      "70109004": "70109004"
+    },
+    "70109005": {
+      "Id": 70109005,
+      "Name": "泥沼陷阱",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "BingFa",
+      "Description": "《泥沼陷阱》\n兵法類技能\n耗費內力：40\n觸發陷阱後，陷阱範圍\n1格之內的人物都會陷\n入『定身』狀態。",
+      "70109005": "70109005"
+    },
+    "70109006": {
+      "Id": 70109006,
+      "Name": "漩渦陷阱",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "BingFa",
+      "Description": "《漩渦陷阱》\n兵法類技能\n耗費內力：40\n觸發陷阱後，陷阱範圍\n1格之內的人物生命值\n受到4～40點傷害與內\n力值受到2～20點傷害\n，並陷入『虛弱』狀態\n。",
+      "70109006": "70109006"
+    },
+    "70109007": {
+      "Id": 70109007,
+      "Name": "火焰陷阱",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "BingFa",
+      "Description": "《火焰陷阱》\n兵法類技能\n耗費內力：40\n觸發陷阱後，陷阱範圍\n2格之內的人物都會受\n到6～60點傷害，並陷\n入『燃燒』狀態。",
+      "70109007": "70109007"
+    },
+    "70109008": {
+      "Id": 70109008,
+      "Name": "滾木陷阱",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "BingFa",
+      "Description": "《滾木陷阱》\n兵法類技能\n耗費內力：40\n觸發陷阱後，陷阱範圍\n2格之內的人物都會受\n到8～80點傷害。",
+      "70109008": "70109008"
+    },
+    "70109009": {
+      "Id": 70109009,
+      "Name": "瘴氣陷阱",
+      "MainCategory": "Command",
+      "SubCategory": "Spell",
+      "Function": "BingFa",
+      "Description": "《瘴氣陷阱》\n兵法類技能\n耗費內力：40\n觸發陷阱後，陷阱範圍\n2格之內的人物都會損\n失6～60點內力，並陷\n入『中毒』與『沈睡』\n狀態。",
+      "70109009": "70109009"
+    },
+    "70110001": {
+      "Id": 70110001,
+      "Name": "御風行",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "XianYunYouBu",
+      "Description": "《御風行》\n仙遊類技能\n耗費內力：15\n使己方目標人物獲得『\n御風』狀態。",
+      "70110001": "70110001"
+    },
+    "70110002": {
+      "Id": 70110002,
+      "Name": "乘雲起",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "XianYunYouBu",
+      "Description": "《乘雲起》\n仙遊類技能\n耗費內力：35\n使範圍3格之內的所有\n己方人物獲得『御風』\n狀態。",
+      "70110002": "70110002"
+    },
+    "70110003": {
+      "Id": 70110003,
+      "Name": "地氣鎖",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "XianYunYouBu",
+      "Description": "《地氣鎖》\n仙遊類技能\n耗費內力：20\n解除範圍5格之內所有\n人物的『御風』狀態。",
+      "70110003": "70110003"
+    },
+    "70110004": {
+      "Id": 70110004,
+      "Name": "逆轉乾坤",
+      "MainCategory": "Command",
+      "SubCategory": "Special",
+      "Function": "XianYunYouBu",
+      "Description": "《逆轉乾坤》\n仙遊類技能\n**取消**",
+      "70110004": "70110004"
+    },
+    "70120001": {
+      "Id": 70120001,
+      "Name": "霸氣",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《霸氣》\n曹操獨有技能\n耗費內力：30\n使戰場上所有敵人受到\n『麻痺』狀態。",
+      "70120001": "70120001"
+    },
+    "70120002": {
+      "Id": 70120002,
+      "Name": "乘時而起",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《乘時而起》\n曹操獨有技能\n耗費內力：45\n使之後所有己方其他隊\n員的行動時序前移1位\n。自身時序後移3位",
+      "70120002": "70120002"
+    },
+    "70120003": {
+      "Id": 70120003,
+      "Name": "隱藏",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "QiMou",
+      "Description": "《隱藏》\n奇謀類技能\n耗費內力：20\n使己方目標人物得到『\n無視』狀態，而被敵人\n忽略。",
+      "70120003": "70120003"
+    },
+    "70120004": {
+      "Id": 70120004,
+      "Name": "偽裝",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "QiMou",
+      "Description": "《偽裝》\n奇謀類技能\n耗費內力：25\n使己方目標人物得到『\n偽裝』狀態，會被敵人\n視為自己人。",
+      "70120004": "70120004"
+    },
+    "70120005": {
+      "Id": 70120005,
+      "Name": "間諜",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "QiMou",
+      "Description": "《間諜》\n奇謀類技能\n耗費內力：30\n花費100兩，得知戰場\n上所有陷阱的位置。",
+      "70120005": "70120005"
+    },
+    "70120006": {
+      "Id": 70120006,
+      "Name": "誤導",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "QiMou",
+      "Description": "《誤導》\n奇謀類技能\n耗費內力：30\n使戰場上所有敵人都受\n到『誤導』狀態，並於\n狀態影響期間強制向施\n術者移動。",
+      "70120006": "70120006"
+    },
+    "70120007": {
+      "Id": 70120007,
+      "Name": "詭道",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "QiMou",
+      "Description": "《詭道》\n奇謀類技能\n耗費內力：30\n使己方目標人物得到『\n連計』狀態。",
+      "70120007": "70120007"
+    },
+    "70120008": {
+      "Id": 70120008,
+      "Name": "刺客",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "QiMou",
+      "Description": "《刺客》\n奇謀類技能\n耗費內力：45\n使目標敵人成為心神混\n亂，而成為己方之刺客\n，刺客將獲得『死戰』\n、『混亂』等狀態而對\n敵方造成重大傷害。",
+      "70120008": "70120008"
+    },
+    "70120009": {
+      "Id": 70120009,
+      "Name": "犧牲",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "QiMou",
+      "Description": "《犧牲》\n奇謀類技能\n耗費內力：45\n**取消**",
+      "70120009": "70120009"
+    },
+    "70120010": {
+      "Id": 70120010,
+      "Name": "斷頭斬",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《斷頭斬》\n夏侯惇終極武技\n耗費內力：35\n對目標敵人發動特殊攻\n擊，此攻擊之命中值增\n加100，傷害力以武器\n攻擊力為基礎，隨人物\n等級提升。",
+      "70120010": "70120010"
+    },
+    "70120011": {
+      "Id": 70120011,
+      "Name": "憤怒一擊",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《憤怒一擊》\n典韋終極武技\n耗費內力：40\n對目標敵人發動1次特\n殊攻擊，可造成巨大\n傷害，並使敵人行動\n時序後移。自身會損失\n2次行動時序。",
+      "70120011": "70120011"
+    },
+    "70120012": {
+      "Id": 70120012,
+      "Name": "天搖地動",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《天搖地動》\n許褚特殊武技\n耗費內力：40\n對大地施以重擊，造成\n地震波，重創戰場上所\n有的其他人物。",
+      "70120012": "70120012"
+    },
+    "70120013": {
+      "Id": 70120013,
+      "Name": "生命精算",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《生命精算》\n精算目標\n耗費內力：2\n以戰場上所有人物的現\n有生命值為精算目標。",
+      "70120013": "70120013"
+    },
+    "70120014": {
+      "Id": 70120014,
+      "Name": "內力精算",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《內力精算》\n精算目標\n耗費內力：2\n以戰場上所有人物的現\n有內力值為精算目標。",
+      "70120014": "70120014"
+    },
+    "70120015": {
+      "Id": 70120015,
+      "Name": "距離精算",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《距離精算》\n精算目標\n耗費內力：3\n以戰場上所有人物距離\n荀彧的格數為精算目標\n。",
+      "70120015": "70120015"
+    },
+    "70120016": {
+      "Id": 70120016,
+      "Name": "等級精算",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《等級精算》\n精算目標\n耗費內力：2\n以戰場上所有人物當時\n的等級為精算目標。",
+      "70120016": "70120016"
+    },
+    "70120017": {
+      "Id": 70120017,
+      "Name": "三",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《三》\n精算基數\n耗費內力：8\n所有為3之倍數的精算\n目標都會受到精算結果\n影響。",
+      "70120017": "70120017"
+    },
+    "70120018": {
+      "Id": 70120018,
+      "Name": "五",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《五》\n精算基數\n耗費內力：6\n所有為5之倍數的精算\n目標都會受到精算結果\n影響。",
+      "70120018": "70120018"
+    },
+    "70120019": {
+      "Id": 70120019,
+      "Name": "七",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《七》\n精算基數\n耗費內力：4\n所有為7之倍數的精算\n目標都會受到精算結果\n影響。",
+      "70120019": "70120019"
+    },
+    "70120020": {
+      "Id": 70120020,
+      "Name": "十一",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《十一》\n精算基數\n耗費內力：2\n所有為11之倍數的精算\n目標都會受到精算結果\n影響。",
+      "70120020": "70120020"
+    },
+    "70120021": {
+      "Id": 70120021,
+      "Name": "冰",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《冰》\n精算結果\n耗費內力：3\n所有符合條件的精算目\n標都會陷入『冰凍』狀\n態。",
+      "70120021": "70120021"
+    },
+    "70120022": {
+      "Id": 70120022,
+      "Name": "火",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《火》\n精算結果\n耗費內力：3\n所有符合條件的精算目\n標都會陷入『燃燒』狀\n態。",
+      "70120022": "70120022"
+    },
+    "70120023": {
+      "Id": 70120023,
+      "Name": "治癒",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《治癒》\n精算結果\n耗費內力：2\n所有符合條件的精算目\n標都可恢復120點的生\n命值。",
+      "70120023": "70120023"
+    },
+    "70120024": {
+      "Id": 70120024,
+      "Name": "解除狀態",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "JingSuan",
+      "Description": "《解除狀態》\n精算結果\n耗費內力：3\n所有符合條件的精算目\n標，其身上的所有特殊\n狀態都將被解除。",
+      "70120024": "70120024"
+    },
+    "70120025": {
+      "Id": 70120025,
+      "Name": "說服",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BianCai",
+      "Description": "《說服》\n辯才類技能\n耗費內力：15\n使目標敵人放棄與己方\n為敵並脫離戰場。",
+      "70120025": "70120025"
+    },
+    "70120026": {
+      "Id": 70120026,
+      "Name": "勸誘",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BianCai",
+      "Description": "《勸誘》\n辯才類技能\n耗費內力：35\n使目標敵人於此戰中幫\n助己方。",
+      "70120026": "70120026"
+    },
+    "70120027": {
+      "Id": 70120027,
+      "Name": "和解",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BianCai",
+      "Description": "《和解》\n辯才類技能\n耗費內力：25\n使隨機戰鬥以和平收場\n，但無法獲得經驗值與\n技能點數。",
+      "70120027": "70120027"
+    },
+    "70120028": {
+      "Id": 70120028,
+      "Name": "囔嚷",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BianCai",
+      "Description": "《囔嚷》\n辯才類技能\n耗費內力：60\n吸引更多的敵人加入戰\n場。",
+      "70120028": "70120028"
+    },
+    "70120029": {
+      "Id": 70120029,
+      "Name": "激怒",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BianCai",
+      "Description": "《激怒》\n辯才類技能\n耗費內力：15\n使目標敵人獲得『集中\n』、『蓄勁』、『破甲\n』、『封鎖』等狀態。",
+      "70120029": "70120029"
+    },
+    "70120030": {
+      "Id": 70120030,
+      "Name": "安撫",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BianCai",
+      "Description": "《安撫》\n辯才類技能\n耗費內力：15\n使目標敵人獲得『雲身\n』、『鋼體』、『破兵\n』、『昏眩』等狀態。",
+      "70120030": "70120030"
+    },
+    "70120031": {
+      "Id": 70120031,
+      "Name": "演講",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BianCai",
+      "Description": "《演講》\n辯才類技能\n耗費內力：25\n使範圍2格內所有人物\n陷入『沈睡』狀態。",
+      "70120031": "70120031"
+    },
+    "70120032": {
+      "Id": 70120032,
+      "Name": "強詞奪理",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BianCai",
+      "Description": "《強詞奪理》\n辯才類技能\n耗費內力：30\n使目標敵人陷入『禁制\n』狀態。",
+      "70120032": "70120032"
+    },
+    "70120033": {
+      "Id": 70120033,
+      "Name": "仁義",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《仁義》\n劉備獨有技能\n耗費內力：40\n恢復所有己方人物15％\n的生命與內力。",
+      "70120033": "70120033"
+    },
+    "70120034": {
+      "Id": 70120034,
+      "Name": "待機而動",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《待機而動》\n劉備獨有技能\n耗費內力：45\n使之後所有己方隊員的\n行動時序後移1位。防\n禦暫時提昇，並獲得\n一項正面狀態。",
+      "70120034": "70120034"
+    },
+    "70120035": {
+      "Id": 70120035,
+      "Name": "烈陽變",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "TianBian",
+      "Description": "《烈陽變》\n天變類技能\n耗費內力：50\n解除戰場上所有『冰凍\n』狀態，『火焰陷阱』\n、『火焰術』、『熔岩\n術』破壞力加倍計算。\n持續時間=施法者等級\n乘5次的人物行動數。",
+      "70120035": "70120035"
+    },
+    "70120036": {
+      "Id": 70120036,
+      "Name": "暴雨變",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "TianBian",
+      "Description": "《暴雨變》\n天變類技能\n耗費內力：50\n解除戰場上所有『燃燒\n』狀態，『漩渦陷阱』\n、『洪水術』、『海嘯\n術』破壞力加倍計算。\n持續時間=施法者等級\n乘5次的人物行動數。",
+      "70120036": "70120036"
+    },
+    "70120037": {
+      "Id": 70120037,
+      "Name": "風雲變",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "TianBian",
+      "Description": "《風雲變》\n天變類技能\n耗費內力：55\n解除戰場上所有的陷阱\n，並引發龍捲風對戰場\n上所有人物造成40點傷\n害。",
+      "70120037": "70120037"
+    },
+    "70120038": {
+      "Id": 70120038,
+      "Name": "天陰變",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "TianBian",
+      "Description": "《天陰變》\n天變類技能\n耗費內力：60\n戰場上所有人物命中下\n降30點，『瘴氣陷阱』\n、『毒氣術』、『狂風\n術』破壞力加倍計算。\n持續時間=施法者等級\n乘5次的人物行動數。",
+      "70120038": "70120038"
+    },
+    "70120039": {
+      "Id": 70120039,
+      "Name": "皓月變",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "TianBian",
+      "Description": "《皓月變》\n天變類技能\n耗費內力：50\n使戰場上所有人物受到\n『明鏡』狀態。",
+      "70120039": "70120039"
+    },
+    "70120040": {
+      "Id": 70120040,
+      "Name": "雷霆變",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "TianBian",
+      "Description": "《雷霆變》\n天變類技能\n耗費內力：70\n引發天雷，隨機對戰場\n上的數名人物造成高達\n200點的重創。",
+      "70120040": "70120040"
+    },
+    "70120041": {
+      "Id": 70120041,
+      "Name": "龍戰於野",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《龍戰於野》\n關羽終極武技\n耗費內力：40\n偃月刀橫轉，對範圍3\n格之內的所有敵人造成\n四次傷害。",
+      "70120041": "70120041"
+    },
+    "70120042": {
+      "Id": 70120042,
+      "Name": "俠義一擊",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《俠義一擊》\n張飛終極武技\n耗費內力：30\n發動一次特殊攻擊，根\n據全隊生命的損傷比例\n（全隊生命總和的最大\n值／現在值），對敵人\n產生一般攻擊1.5～20\n倍的傷害。",
+      "70120042": "70120042"
+    },
+    "70120043": {
+      "Id": 70120043,
+      "Name": "馳走槍",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《馳走槍》\n趙雲終極武技\n耗費內力：40\n可同時攻擊十字格之內\n所有敵人的終極槍技，\n並會使敵人損失60點的\n內力值。",
+      "70120043": "70120043"
+    },
+    "70120044": {
+      "Id": 70120044,
+      "Name": "浴血奮戰",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《浴血奮戰》\n馬超終極武技\n耗費內力：45\n與目標敵人進行殊死戰\n，雙方將連續施展近戰\n攻擊，直到其中一方死\n亡為止。",
+      "70120044": "70120044"
+    },
+    "70120045": {
+      "Id": 70120045,
+      "Name": "鎖足",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "DiLiJiNeng",
+      "Description": "《鎖足》\n地理類技能\n耗費內力：40\n使此戰中所有人物的移\n動值皆下降為1。",
+      "70120045": "70120045"
+    },
+    "70120046": {
+      "Id": 70120046,
+      "Name": "縮地",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "DiLiJiNeng",
+      "Description": "《縮地》\n地理類技能\n耗費內力：40\n使此戰中所有人物的移\n動值增加5。",
+      "70120046": "70120046"
+    },
+    "70120047": {
+      "Id": 70120047,
+      "Name": "異位",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "DiLiJiNeng",
+      "Description": "《異位》\n地理類技能\n耗費內力：30\n指定範圍6格之內的兩\n名人物，使這兩名人物\n的位置對調。",
+      "70120047": "70120047"
+    },
+    "70120048": {
+      "Id": 70120048,
+      "Name": "設置障礙",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "DiLiJiNeng",
+      "Description": "《設置障礙》\n地理類技能\n耗費內力：30\n於範圍1之內的空地上\n設置障礙，這些障礙將\n被視為無法移動的區域\n，持續時間依施術者等\n級延長。",
+      "70120048": "70120048"
+    },
+    "70120049": {
+      "Id": 70120049,
+      "Name": "挪空幻景",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "DiLiJiNeng",
+      "Description": "《挪空幻景》\n地理類技能\n**取消**",
+      "70120049": "70120049"
+    },
+    "70120050": {
+      "Id": 70120050,
+      "Name": "幻景看破",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "DiLiJiNeng",
+      "Description": "《幻景看破》\n地理類技能\n**取消**",
+      "70120050": "70120050"
+    },
+    "70120051": {
+      "Id": 70120051,
+      "Name": "振奮",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《振奮》\n孫權獨有技能\n耗費內力：30\n使所有己方人物獲得『\n蓄勁』、『集中』狀態\n。",
+      "70120051": "70120051"
+    },
+    "70120052": {
+      "Id": 70120052,
+      "Name": "逆勢而行",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《逆勢而行》\n孫權獨有技能\n耗費內力：45\n使戰鬥的預設時序顛倒\n執行。",
+      "70120052": "70120052"
+    },
+    "70120053": {
+      "Id": 70120053,
+      "Name": "梁父吟",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《梁父吟》\n周瑜特殊樂技\n耗費內力：40\n戰場上所有其他人物恢\n復20％內力、並損失\n10％生命。",
+      "70120053": "70120053"
+    },
+    "70120054": {
+      "Id": 70120054,
+      "Name": "垓下歌",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《垓下歌》\n周瑜特殊樂技\n耗費內力：40\n此戰中，所有其他人物\n獲得『破兵』、『破甲』\n狀態。",
+      "70120054": "70120054"
+    },
+    "70120055": {
+      "Id": 70120055,
+      "Name": "大風歌",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《大風歌》\n周瑜特殊樂技\n耗費內力：60\n此戰中己方所有隊員獲\n得『蓄勁』、『集中』\n狀態。",
+      "70120055": "70120055"
+    },
+    "70120056": {
+      "Id": 70120056,
+      "Name": "佳人歌",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《佳人歌》\n周瑜特殊樂技\n耗費內力：80\n戰場上所有敵人對周瑜\n陷入『迷戀』狀態。",
+      "70120056": "70120056"
+    },
+    "70120057": {
+      "Id": 70120057,
+      "Name": "陌上桑",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《陌上桑》\n周瑜特殊樂技\n耗費內力：50\n戰場上生命值最少的人\n物立即死亡。",
+      "70120057": "70120057"
+    },
+    "70120058": {
+      "Id": 70120058,
+      "Name": "蒿里曲",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《蒿里曲》\n周瑜特殊樂技\n耗費內力：80\n戰場上所有人物生命值\n恢復全滿。",
+      "70120058": "70120058"
+    },
+    "70120059": {
+      "Id": 70120059,
+      "Name": "戰城南",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《戰城南》\n周瑜特殊樂技\n耗費內力：60\n己方所有其他隊員獲得\n『死戰』狀態。",
+      "70120059": "70120059"
+    },
+    "70120060": {
+      "Id": 70120060,
+      "Name": "西門行",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《西門行》\n周瑜特殊樂技\n耗費內力：100\n花費30兩，己方所有\n隊員之生命值與內力值\n恢復50％。",
+      "70120060": "70120060"
+    },
+    "70120061": {
+      "Id": 70120061,
+      "Name": "虎紋刀",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《虎紋刀》\n甘寧特殊武技\n耗費內力：10\n對目標敵人發動一次特\n殊攻擊，若攻擊命中，\n可造成額外50％的傷害\n，需搭配裝備虎紋刀。",
+      "70120061": "70120061"
+    },
+    "70120062": {
+      "Id": 70120062,
+      "Name": "蟬翼刀",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《蟬翼刀》\n甘寧特殊武技\n耗費內力：15\n對目標敵人發動一次特\n殊攻擊，此攻擊命中值\n增加100點，需搭配裝\n備蟬翼刀。",
+      "70120062": "70120062"
+    },
+    "70120063": {
+      "Id": 70120063,
+      "Name": "修羅刀",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《修羅刀》\n甘寧特殊武技\n耗費內力：20\n損傷自身50點生命值，\n對目標敵人發動一次特\n殊攻擊，若攻擊命中，\n可造成額外150％的傷\n害值，需搭配裝備修羅\n刀。",
+      "70120063": "70120063"
+    },
+    "70120064": {
+      "Id": 70120064,
+      "Name": "梟雄刀",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《梟雄刀》\n甘寧特殊武技\n耗費內力：25\n對目標敵人發動一次特\n殊攻擊，若命中敵人，\n敵人本身的損傷比例越\n高，此攻擊所附加的傷\n害值越大，需搭配裝備\n梟雄刀。",
+      "70120064": "70120064"
+    },
+    "70120065": {
+      "Id": 70120065,
+      "Name": "紫玉刀",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《紫玉刀》\n甘寧特殊武技\n耗費內力：30\n對目標敵人發動一次特\n殊攻擊，命中後除了造\n成傷害，還會隨機造成\n『禁制』、『詛咒』、\n『沈睡』等狀態之一，\n需搭配裝備紫玉刀。",
+      "70120065": "70120065"
+    },
+    "70120066": {
+      "Id": 70120066,
+      "Name": "大漠金刀",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《大漠金刀》\n甘寧特殊武技\n耗費內力：35\n對目標敵人發動一次特\n殊攻擊，命中後除了造\n成傷害，還會使敵人陷\n入『昏眩』與『封鎖』\n狀態，需搭配裝備大漠\n金刀。",
+      "70120066": "70120066"
+    },
+    "70120067": {
+      "Id": 70120067,
+      "Name": "潑風刀",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《潑風刀》\n甘寧特殊武技\n耗費內力：40\n對目標敵人發動一次特\n殊攻擊，命中後除了造\n成傷害之外，還會摧毀\n敵人的被動技能與移動\n技能，需搭配裝備潑風\n刀。",
+      "70120067": "70120067"
+    },
+    "70120068": {
+      "Id": 70120068,
+      "Name": "嘯月刀",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《嘯月刀》\n甘寧特殊武技\n耗費內力：45\n對目標敵人發動一次特\n殊攻擊，命中後除了造\n成傷害之外，還會大幅\n削減敵人的內力，需搭\n配裝備嘯月刀。",
+      "70120068": "70120068"
+    },
+    "70120069": {
+      "Id": 70120069,
+      "Name": "必殺一擊",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《必殺一擊》\n呂蒙終極武技\n耗費內力：30\n使目標敵人直接死亡。\n其成功機率與敵我等級\n差距有關。",
+      "70120069": "70120069"
+    },
+    "70120070": {
+      "Id": 70120070,
+      "Name": "曳刀式",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《曳刀式》\n黃蓋終極武技\n耗費內力：30\n重創範圍2格之內的所\n有敵人。",
+      "70120070": "70120070"
+    },
+    "70120071": {
+      "Id": 70120071,
+      "Name": "估價",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "ShangGu",
+      "Description": "《估價》\n商賈類技能\n耗費內力：15\n得知目標敵人的等級，\n以及生命值與內力值。",
+      "70120071": "70120071"
+    },
+    "70120072": {
+      "Id": 70120072,
+      "Name": "審視",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "ShangGu",
+      "Description": "《審視》\n商賈類技能\n耗費內力：15\n得知目標敵人的攻擊\n、防禦、命中、閃避、\n移動、速度等屬性。",
+      "70120072": "70120072"
+    },
+    "70120073": {
+      "Id": 70120073,
+      "Name": "評量",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "ShangGu",
+      "Description": "《評量》\n商賈類技能\n耗費內力：15\n得知敵人身上目前所\n有的各種狀態。",
+      "70120073": "70120073"
+    },
+    "70120074": {
+      "Id": 70120074,
+      "Name": "交易",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "ShangGu",
+      "Description": "《交易》\n商賈類技能\n--廢除--",
+      "70120074": "70120074"
+    },
+    "70120075": {
+      "Id": 70120075,
+      "Name": "打點",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "ShangGu",
+      "Description": "《打點》\n商賈類技能\n耗費內力：15\n花費1000兩，收買戰場\n上所有的敵人，使所有\n敵人脫離戰場。此技能\n對頭目級的敵人無效。",
+      "70120075": "70120075"
+    },
+    "70120076": {
+      "Id": 70120076,
+      "Name": "探寶",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "ShangGu",
+      "Description": "《探寶》\n商賈類技能\n耗費內力：15\n從目標敵人身上『摸出\n』特殊戰利品，但成功\n率不高。",
+      "70120076": "70120076"
+    },
+    "70120077": {
+      "Id": 70120077,
+      "Name": "直覺",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "ShangGu",
+      "Description": "《直覺》\n商賈類技能\n耗費內力：15\n得知戰場上所有寶物的\n所在位置。",
+      "70120077": "70120077"
+    },
+    "70120078": {
+      "Id": 70120078,
+      "Name": "單雙",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BoYi",
+      "Description": "《單雙》\n博奕類技能\n耗費內力：10\n擲一顆骰子，若為單數\n則所有己方人物受到50\n點傷害；若為雙數則所\n有己方人物恢復50點生\n命。",
+      "70120078": "70120078"
+    },
+    "70120079": {
+      "Id": 70120079,
+      "Name": "十八啦",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BoYi",
+      "Description": "《十八啦》\n博奕類技能\n耗費內力：20\n以十八啦的規則擲骰，\n依照所擲得的點數對目\n標敵人造成10倍的傷害\n，若為彆十，則魯肅受\n到60點傷害。",
+      "70120079": "70120079"
+    },
+    "70120080": {
+      "Id": 70120080,
+      "Name": "玉骰子",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BoYi",
+      "Description": "《玉骰子》\n博奕類技能\n耗費內力：20\n使目標人物隨機獲得蓄\n勁、鋼體、集中、雲身\n、連計等狀態之一，但\n也有1/6的機率什麼狀\n態都沒發生，需搭配裝\n備玉骰子。",
+      "70120080": "70120080"
+    },
+    "70120081": {
+      "Id": 70120081,
+      "Name": "骨骰子",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BoYi",
+      "Description": "《骨骰子》\n博奕類技能\n耗費內力：20\n使目標人物隨機獲得燃\n燒、冰凍、中毒、詛咒\n、混亂等狀態之一，但\n也有1/6的機率什麼狀\n態都沒發生，需搭配裝\n備骨骰子。",
+      "70120081": "70120081"
+    },
+    "70120082": {
+      "Id": 70120082,
+      "Name": "鐵骰子",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BoYi",
+      "Description": "《鐵骰子》\n博奕類技能\n耗費內力：20\n使目標人物隨機獲得破\n兵、碎甲、目盲、封鎖\n、定身等狀態之一，但\n也有1/6的機率什麼狀\n態都沒發生，需搭配裝\n備鐵骰子。",
+      "70120082": "70120082"
+    },
+    "70120083": {
+      "Id": 70120083,
+      "Name": "木骰子",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "BoYi",
+      "Description": "《木骰子》\n博奕類技能\n耗費內力：20\n使目標人物隨機恢復部\n分生命、內力，或解除\n一項特殊狀態。",
+      "70120083": "70120083"
+    },
+    "70120084": {
+      "Id": 70120084,
+      "Name": "純金打造",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "FuHao",
+      "Description": "《純金打造》\n富豪系技能\n耗費內力：40\n花費2000兩，使目標人\n物獲得『蓄勁』、『鋼\n體』、『集中』、『雲\n身』、『神行』、『連\n計』、『針灸』狀態。",
+      "70120084": "70120084"
+    },
+    "70120085": {
+      "Id": 70120085,
+      "Name": "乾坤一擲",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "FuHao",
+      "Description": "《乾坤一擲》\n富豪系技能\n耗費內力：40\n花費2000兩，對目標敵\n人造成200點傷害。",
+      "70120085": "70120085"
+    },
+    "70120086": {
+      "Id": 70120086,
+      "Name": "閃閃生光",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "FuHao",
+      "Description": "《閃閃生光》\n富豪系技能\n耗費內力：40\n花費2000兩，吸引一隻\n特殊神獸加入戰場，幫\n助己方作戰。",
+      "70120086": "70120086"
+    },
+    "70120087": {
+      "Id": 70120087,
+      "Name": "天下無敵",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《天下無敵》\n呂布終極武技\n耗費內力：60\n重創距離呂布2格之內\n的所有敵人，中招的敵\n人都將損失之後1次行\n動時序。自身亦會\n損失1次行動時序。",
+      "70120087": "70120087"
+    },
+    "70120088": {
+      "Id": 70120088,
+      "Name": "劍之舞",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《劍之舞》\n貂蟬特殊舞技\n耗費內力：15\n劍隨身舞動，對鄰近的\n所有敵人發動攻擊。",
+      "70120088": "70120088"
+    },
+    "70120089": {
+      "Id": 70120089,
+      "Name": "星之舞",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《星之舞》\n貂蟬特殊舞技\n耗費內力：15\n婀娜之舞、天星垂憐，\n招引流星轟擊目標敵人\n。",
+      "70120089": "70120089"
+    },
+    "70120090": {
+      "Id": 70120090,
+      "Name": "風之舞",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《風之舞》\n貂蟬特殊舞技\n耗費內力：20\n身隨風動、姿儀萬千，\n使所有人物無法集中精\n神而陷入『封印』狀態\n。",
+      "70120090": "70120090"
+    },
+    "70120091": {
+      "Id": 70120091,
+      "Name": "雪之舞",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《雪之舞》\n貂蟬特殊舞技\n耗費內力：25\n舞如冰雪柔絮，惹人駐\n足凝觀，使所有人物陷\n入『羈絆』狀態。",
+      "70120091": "70120091"
+    },
+    "70120092": {
+      "Id": 70120092,
+      "Name": "漣之舞",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《漣之舞》\n貂蟬特殊舞技\n耗費內力：10\n眼如秋波、身如柔漪，\n讓人氣血翻湧、不能自\n抑，使所有人物內力減\n少50％。",
+      "70120092": "70120092"
+    },
+    "70120093": {
+      "Id": 70120093,
+      "Name": "戀之舞",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《戀之舞》\n貂蟬特殊舞技\n耗費內力：50\n讓人沈入戀愛感覺的綺\n麗之舞，使所有敵人陷\n入對貂蟬的『迷戀』狀\n態。",
+      "70120093": "70120093"
+    },
+    "70120094": {
+      "Id": 70120094,
+      "Name": "夢之舞",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《夢之舞》\n貂蟬特殊舞技\n耗費內力：45\n安詳溫柔的催眠之舞，\n使所有敵人陷入『沈睡\n』狀態。",
+      "70120094": "70120094"
+    },
+    "70120095": {
+      "Id": 70120095,
+      "Name": "鳳之舞",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《鳳之舞》\n貂蟬特殊舞技\n耗費內力：80\n貂蟬之舞的終極技，其\n瑰麗璀璨的舞姿可招來\n火鳳凰，重創戰場上所\n有敵人。",
+      "70120095": "70120095"
+    },
+    "70120096": {
+      "Id": 70120096,
+      "Name": "針灸",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "YiXue",
+      "Description": "《針灸》\n醫學類技能\n耗費內力：50\n使目標己方人物獲得『\n針灸』狀態。",
+      "70120096": "70120096"
+    },
+    "70120097": {
+      "Id": 70120097,
+      "Name": "麻醉",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "YiXue",
+      "Description": "《麻醉》\n醫學類技能\n耗費內力：50\n使目標敵人五感盡失，\n陷入『麻痺』、『虛弱\n』狀態。",
+      "70120097": "70120097"
+    },
+    "70120098": {
+      "Id": 70120098,
+      "Name": "歸真",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "YiXue",
+      "Description": "《歸真》\n醫學類技能\n耗費內力：50\n解除目標人物身上所有\n正面狀態。",
+      "70120098": "70120098"
+    },
+    "70120099": {
+      "Id": 70120099,
+      "Name": "聖手",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "YiXue",
+      "Description": "《聖手》\n醫學類技能\n耗費內力：100\n解除目標人物身上所有\n負面狀態。",
+      "70120099": "70120099"
+    },
+    "70120100": {
+      "Id": 70120100,
+      "Name": "猛虎落地式",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《猛虎落地式》\n孟獲專屬武技\n耗費內力：40\n誠心誠意地向敵人道歉\n，孟獲立刻獲得『偽裝\n』狀態，而暫時不會被\n敵人攻擊。",
+      "70120100": "70120100"
+    },
+    "70120101": {
+      "Id": 70120101,
+      "Name": "虎威震南天",
+      "MainCategory": "Command",
+      "SubCategory": "Exclusive",
+      "Function": "",
+      "Description": "《虎威震南天》\n孟獲專屬武技\n耗費內力：40\n恭請太座祝融夫人出場\n擊倒敵人！乃孟獲的終\n極召喚技。",
+      "70120101": "70120101"
+    },
+    "70200001": {
+      "Id": 70200001,
+      "Name": "生命＋20％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《生命＋20％》\n主動技能\n裝備者生命上限增加\n20％。",
+      "70200001": "70200001"
+    },
+    "70200002": {
+      "Id": 70200002,
+      "Name": "生命＋40％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《生命＋40％》\n主動技能\n裝備者生命上限增加\n40％。",
+      "70200002": "70200002"
+    },
+    "70200003": {
+      "Id": 70200003,
+      "Name": "生命＋60％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《生命＋60％》\n主動技能\n裝備者生命上限增加\n60％。",
+      "70200003": "70200003"
+    },
+    "70200004": {
+      "Id": 70200004,
+      "Name": "內力＋20％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《內力＋20％》\n主動技能\n裝備者內力上限增加\n20％。",
+      "70200004": "70200004"
+    },
+    "70200005": {
+      "Id": 70200005,
+      "Name": "內力＋40％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《內力＋40％》\n主動技能\n裝備者內力上限增加\n40％。",
+      "70200005": "70200005"
+    },
+    "70200006": {
+      "Id": 70200006,
+      "Name": "內力＋60％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《內力＋60％》\n主動技能\n裝備者內力上限增加\n60％。",
+      "70200006": "70200006"
+    },
+    "70200007": {
+      "Id": 70200007,
+      "Name": "命中＋10％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《命中＋10％》\n主動技能\n裝備者命中屬性增加\n10％。",
+      "70200007": "70200007"
+    },
+    "70200008": {
+      "Id": 70200008,
+      "Name": "命中＋20％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《命中＋20％》\n主動技能\n裝備者命中屬性增加\n20％。",
+      "70200008": "70200008"
+    },
+    "70200009": {
+      "Id": 70200009,
+      "Name": "命中＋30％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《命中＋30％》\n主動技能\n裝備者命中屬性增加\n30％。",
+      "70200009": "70200009"
+    },
+    "70200010": {
+      "Id": 70200010,
+      "Name": "閃避＋10％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《閃避＋10％》\n主動技能\n裝備者閃避屬性增加\n10％。",
+      "70200010": "70200010"
+    },
+    "70200011": {
+      "Id": 70200011,
+      "Name": "閃避＋20％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《閃避＋20％》\n主動技能\n裝備者閃避屬性增加\n20％。",
+      "70200011": "70200011"
+    },
+    "70200012": {
+      "Id": 70200012,
+      "Name": "閃避＋30％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《閃避＋30％》\n主動技能\n裝備者閃避屬性增加\n30％。",
+      "70200012": "70200012"
+    },
+    "70200013": {
+      "Id": 70200013,
+      "Name": "攻擊＋10％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《攻擊＋10％》\n主動技能\n裝備者攻擊屬性增加\n10％。",
+      "70200013": "70200013"
+    },
+    "70200014": {
+      "Id": 70200014,
+      "Name": "攻擊＋20％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《攻擊＋20％》\n主動技能\n裝備者攻擊屬性增加\n20％。",
+      "70200014": "70200014"
+    },
+    "70200015": {
+      "Id": 70200015,
+      "Name": "攻擊＋30％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《攻擊＋30％》\n主動技能 \n裝備者攻擊屬性增加\n30％。",
+      "70200015": "70200015"
+    },
+    "70200016": {
+      "Id": 70200016,
+      "Name": "防禦＋10％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《防禦＋10％》\n主動技能 \n裝備者防禦屬性增加\n10％。",
+      "70200016": "70200016"
+    },
+    "70200017": {
+      "Id": 70200017,
+      "Name": "防禦＋20％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《防禦＋20％》\n主動技能 \n裝備者防禦屬性增加\n20％。",
+      "70200017": "70200017"
+    },
+    "70200018": {
+      "Id": 70200018,
+      "Name": "防禦＋30％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《防禦＋30％》\n主動技能 \n裝備者防禦屬性增加\n30％。",
+      "70200018": "70200018"
+    },
+    "70200019": {
+      "Id": 70200019,
+      "Name": "速度＋10％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《速度＋10％》\n主動技能 \n裝備者速度屬性增加\n10％。",
+      "70200019": "70200019"
+    },
+    "70200020": {
+      "Id": 70200020,
+      "Name": "速度＋20％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《速度＋20％》\n主動技能 \n裝備者速度屬性增加\n20％。",
+      "70200020": "70200020"
+    },
+    "70200021": {
+      "Id": 70200021,
+      "Name": "速度＋30％",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《速度＋30％》\n主動技能 \n裝備者速度屬性增加\n30％。",
+      "70200021": "70200021"
+    },
+    "70200022": {
+      "Id": 70200022,
+      "Name": "二連擊",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《二連擊》\n主動技能 \n裝備者發動一般攻擊時\n，攻擊次數增加1，但\n命中率會下降。",
+      "70200022": "70200022"
+    },
+    "70200023": {
+      "Id": 70200023,
+      "Name": "三連擊",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《三連擊》\n主動技能 \n裝備者發動一般攻擊時\n，攻擊次數增加2，但\n命中率會下降。",
+      "70200023": "70200023"
+    },
+    "70200024": {
+      "Id": 70200024,
+      "Name": "四連擊",
+      "MainCategory": "Active",
+      "SubCategory": "TypeOne",
+      "Function": "",
+      "Description": "《四連擊》\n主動技能 \n裝備者發動一般攻擊時\n，攻擊次數增加3，但\n命中率會下降。",
+      "70200024": "70200024"
+    },
+    "70200025": {
+      "Id": 70200025,
+      "Name": "內息１",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《內息１》\n主動技能 \n裝備者施展指令技能時\n，所需耗費的內力值減\n少10％。",
+      "70200025": "70200025"
+    },
+    "70200026": {
+      "Id": 70200026,
+      "Name": "內息２",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《內息２》\n主動技能 \n裝備者施展指令技能時\n，所需耗費的內力值減\n少25％。",
+      "70200026": "70200026"
+    },
+    "70200027": {
+      "Id": 70200027,
+      "Name": "內息３",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《內息３》\n主動技能 \n裝備者施展指令技能時\n，所需耗費的內力值減\n少40％。",
+      "70200027": "70200027"
+    },
+    "70200028": {
+      "Id": 70200028,
+      "Name": "無隙１",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《無隙１》\n主動技能 \n裝備者對於『誤導』、\n『混亂』狀態免疫。",
+      "70200028": "70200028"
+    },
+    "70200029": {
+      "Id": 70200029,
+      "Name": "無隙２",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《無隙２》\n主動技能 \n裝備者對於『誤導』、\n『混亂』、『禁制』等\n狀態免疫。",
+      "70200029": "70200029"
+    },
+    "70200030": {
+      "Id": 70200030,
+      "Name": "無隙３",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《無隙３》\n主動技能 \n裝備者對於『誤導』、\n『混亂』、『禁制』、\n『定身』等狀態免疫。",
+      "70200030": "70200030"
+    },
+    "70200031": {
+      "Id": 70200031,
+      "Name": "破邪１",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《破邪１》\n主動技能 \n裝備者對於『詛咒』、\n『封印』等狀態免疫。",
+      "70200031": "70200031"
+    },
+    "70200032": {
+      "Id": 70200032,
+      "Name": "破邪２",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《破邪２》\n主動技能 \n裝備者對於『詛咒』、\n『封印』、『燃燒』等\n狀態免疫。",
+      "70200032": "70200032"
+    },
+    "70200033": {
+      "Id": 70200033,
+      "Name": "破邪３",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《破邪３》\n主動技能 \n裝備者對於『詛咒』、\n『封印』、『燃燒』、\n『冰凍』等狀態免疫。",
+      "70200033": "70200033"
+    },
+    "70200034": {
+      "Id": 70200034,
+      "Name": "避瘴１",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《避瘴１》\n主動技能 \n裝備者對於『虛弱』、\n『麻痺』等狀態免疫。",
+      "70200034": "70200034"
+    },
+    "70200035": {
+      "Id": 70200035,
+      "Name": "避瘴２",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《避瘴２》\n主動技能 \n裝備者對於『虛弱』、\n『麻痺』、『沈睡』等\n狀態免疫。",
+      "70200035": "70200035"
+    },
+    "70200036": {
+      "Id": 70200036,
+      "Name": "避瘴３",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《避瘴３》\n主動技能 \n裝備者對於『虛弱』、\n『麻痺』、『沈睡』、\n『中毒』等狀態免疫。",
+      "70200036": "70200036"
+    },
+    "70200037": {
+      "Id": 70200037,
+      "Name": "抗魔１",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《抗魔１》\n主動技能 \n裝備者減少10％法術所\n造成之傷害。",
+      "70200037": "70200037"
+    },
+    "70200038": {
+      "Id": 70200038,
+      "Name": "抗魔２",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《抗魔２》\n主動技能 \n裝備者減少30％法術所\n造成之傷害。",
+      "70200038": "70200038"
+    },
+    "70200039": {
+      "Id": 70200039,
+      "Name": "抗魔３",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《抗魔３》\n主動技能 \n裝備者減少50％法術所\n造成之傷害。",
+      "70200039": "70200039"
+    },
+    "70200040": {
+      "Id": 70200040,
+      "Name": "鬼才１",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《鬼才１》\n主動技能 \n使裝備者獲得額外15％\n的戰鬥經驗值。",
+      "70200040": "70200040"
+    },
+    "70200041": {
+      "Id": 70200041,
+      "Name": "鬼才２",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《鬼才２》\n主動技能 \n使裝備者獲得額外25％\n的戰鬥經驗值。",
+      "70200041": "70200041"
+    },
+    "70200042": {
+      "Id": 70200042,
+      "Name": "鬼才３",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《鬼才３》\n主動技能 \n使裝備者獲得額外35％\n的戰鬥經驗值。",
+      "70200042": "70200042"
+    },
+    "70200043": {
+      "Id": 70200043,
+      "Name": "天才１",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《天才１》\n主動技能 \n使裝備者獲得額外15％\n的戰鬥技能點數。",
+      "70200043": "70200043"
+    },
+    "70200044": {
+      "Id": 70200044,
+      "Name": "天才２",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《天才２》\n主動技能 \n使裝備者獲得額外25％\n的戰鬥技能點數。",
+      "70200044": "70200044"
+    },
+    "70200045": {
+      "Id": 70200045,
+      "Name": "天才３",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《天才３》\n主動技能 \n使裝備者獲得額外35％\n的戰鬥技能點數。",
+      "70200045": "70200045"
+    },
+    "70200046": {
+      "Id": 70200046,
+      "Name": "鐵壁１",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《鐵壁１》\n主動技能 \n裝備者有50％的機會，\n對『破兵』、『碎甲』\n等狀態免疫。",
+      "70200046": "70200046"
+    },
+    "70200047": {
+      "Id": 70200047,
+      "Name": "鐵壁２",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《鐵壁２》\n主動技能 \n裝備者有75％的機會，\n對『破兵』、『碎甲』\n等狀態免疫。",
+      "70200047": "70200047"
+    },
+    "70200048": {
+      "Id": 70200048,
+      "Name": "鐵壁３",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《鐵壁３》\n主動技能 \n裝備者對『破兵』、『\n碎甲』等狀態完全免疫\n。",
+      "70200048": "70200048"
+    },
+    "70200049": {
+      "Id": 70200049,
+      "Name": "感應１",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《感應１》\n主動技能 \n裝備者有50％的機會，\n對『昏眩』、『封鎖』\n等狀態免疫。",
+      "70200049": "70200049"
+    },
+    "70200050": {
+      "Id": 70200050,
+      "Name": "感應２",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《感應２》\n主動技能 \n裝備者有75％的機會，\n對『昏眩』、『封鎖』\n等狀態免疫。",
+      "70200050": "70200050"
+    },
+    "70200051": {
+      "Id": 70200051,
+      "Name": "感應３",
+      "MainCategory": "Active",
+      "SubCategory": "TypeTwo",
+      "Function": "",
+      "Description": "《感應３》\n主動技能 \n裝備者對『昏眩』、『\n封鎖』等狀態完全免疫\n。",
+      "70200051": "70200051"
+    },
+    "70300001": {
+      "Id": 70300001,
+      "Name": "近戰反擊１",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《近戰反擊１》\n被動技能 \n裝備者若持有近戰武器\n，則對於敵人所發動的\n近身攻擊有30％的機率\n施予反擊。",
+      "70300001": "70300001"
+    },
+    "70300002": {
+      "Id": 70300002,
+      "Name": "近戰反擊２",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《近戰反擊２》\n被動技能 \n裝備者若持有近戰武器\n，則對於敵人所發動的\n近身攻擊有60％的機率\n施予反擊。",
+      "70300002": "70300002"
+    },
+    "70300003": {
+      "Id": 70300003,
+      "Name": "近戰反擊３",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《近戰反擊３》\n被動技能 \n裝備者若持有近戰武器\n，則對於敵人所發動的\n近身攻擊有90％的機率\n施予反擊。",
+      "70300003": "70300003"
+    },
+    "70300004": {
+      "Id": 70300004,
+      "Name": "遠程反擊１",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《遠程反擊１》\n被動技能 \n裝備者若持有射擊武器\n，則對於距離2以上敵\n人所發動的射擊或法術\n有30％的機率施予遠程\n反擊。",
+      "70300004": "70300004"
+    },
+    "70300005": {
+      "Id": 70300005,
+      "Name": "遠程反擊２",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《遠程反擊２》\n被動技能 \n裝備者若持有射擊武器\n，則對於距離2以上敵\n人所發動的射擊或法術\n有60％的機率施予遠程\n反擊。",
+      "70300005": "70300005"
+    },
+    "70300006": {
+      "Id": 70300006,
+      "Name": "遠程反擊３",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《遠程反擊３》\n被動技能 \n裝備者若持有射擊武器\n，則對於距離2以上敵\n人所發動的射擊或法術\n有90％的機率施予遠程\n反擊。",
+      "70300006": "70300006"
+    },
+    "70300007": {
+      "Id": 70300007,
+      "Name": "法術反彈１",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《法術反彈１》\n被動技能 \n當裝備者受到法術影響\n時，有30％的機率將法\n術效果反彈至施術者的\n身上。",
+      "70300007": "70300007"
+    },
+    "70300008": {
+      "Id": 70300008,
+      "Name": "法術反彈２",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《法術反彈２》\n被動技能 \n當裝備者受到法術影響\n時，有50％的機率將法\n術效果反彈至施術者的\n身上。",
+      "70300008": "70300008"
+    },
+    "70300009": {
+      "Id": 70300009,
+      "Name": "法術反彈３",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《法術反彈３》\n被動技能 \n當裝備者受到法術影響\n時，有70％的機率將法\n術效果反彈至施術者的\n身上。",
+      "70300009": "70300009"
+    },
+    "70300010": {
+      "Id": 70300010,
+      "Name": "先發制人１",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《先發制人１》\n被動技能\n裝備此技能者，在距離\n敵人12步之外的範圍，\n不會遭受攻擊，但如果\n某敵人已被攻擊過，則\n此技能對某敵人無效。",
+      "70300010": "70300010"
+    },
+    "70300011": {
+      "Id": 70300011,
+      "Name": "先發制人２",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《先發制人２》\n被動技能\n裝備此技能者，在距離\n敵人９步之外的範圍，\n不會遭受攻擊，但如果\n某敵人已被攻擊過，則\n此技能對某敵人無效。",
+      "70300011": "70300011"
+    },
+    "70300012": {
+      "Id": 70300012,
+      "Name": "先發制人３",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《先發制人３》\n被動技能\n裝備此技能者，在距離\n敵人６步之外的範圍，\n不會遭受攻擊，但如果\n某敵人已被攻擊過，則\n此技能對某敵人無效。",
+      "70300012": "70300012"
+    },
+    "70300013": {
+      "Id": 70300013,
+      "Name": "時序回饋１",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《時序回饋１》\n被動技能 \n當裝備者遭受傷害時，\n有20％的機率獲得1個\n額外的行動時序。",
+      "70300013": "70300013"
+    },
+    "70300014": {
+      "Id": 70300014,
+      "Name": "時序回饋２",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《時序回饋２》\n被動技能 \n當裝備者遭受傷害時，\n有35％的機率獲得1個\n額外的行動時序。",
+      "70300014": "70300014"
+    },
+    "70300015": {
+      "Id": 70300015,
+      "Name": "時序回饋３",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《時序回饋３》\n被動技能 \n當裝備者遭受傷害時，\n有50％的機率獲得1個\n額外的行動時序。",
+      "70300015": "70300015"
+    },
+    "70300016": {
+      "Id": 70300016,
+      "Name": "損傷賠償１",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《損傷賠償１》\n被動技能 \n當裝備者被敵人攻擊，\n命中受傷時，可以獲得\n20兩的賠償。",
+      "70300016": "70300016"
+    },
+    "70300017": {
+      "Id": 70300017,
+      "Name": "損傷賠償２",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《損傷賠償２》\n被動技能 \n當裝備者被敵人攻擊，\n命中受傷時，可以獲得\n30兩的賠償。",
+      "70300017": "70300017"
+    },
+    "70300018": {
+      "Id": 70300018,
+      "Name": "損傷賠償３",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《損傷賠償３》\n被動技能 \n當裝備者被敵人攻擊，\n命中受傷時，可以獲得\n50兩的賠償。",
+      "70300018": "70300018"
+    },
+    "70300019": {
+      "Id": 70300019,
+      "Name": "環境探索１",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《環境探索１》\n被動技能 \n當裝備者觸發陷阱或取\n得寶藏時，可獲得50點\n的經驗值。",
+      "70300019": "70300019"
+    },
+    "70300020": {
+      "Id": 70300020,
+      "Name": "環境探索２",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《環境探索２》\n被動技能 \n當裝備者觸發陷阱或取\n得寶藏時，可獲得100點\n經驗值、5點技能點數。",
+      "70300020": "70300020"
+    },
+    "70300021": {
+      "Id": 70300021,
+      "Name": "環境探索３",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《環境探索３》\n被動技能 \n當裝備者觸發陷阱或取\n得寶藏時，可獲得150點\n經驗值、10點技能點數\n。",
+      "70300021": "70300021"
+    },
+    "70300022": {
+      "Id": 70300022,
+      "Name": "國色天香１",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《國色天香１》\n被動技能 \n當敵人攻擊裝備者時，\n有20％的機會對裝備者\n陷入『迷戀』狀態。",
+      "70300022": "70300022"
+    },
+    "70300023": {
+      "Id": 70300023,
+      "Name": "國色天香２",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《國色天香２》\n被動技能 \n當敵人攻擊裝備者時，\n有50％的機會對裝備者\n陷入『迷戀』狀態。",
+      "70300023": "70300023"
+    },
+    "70300024": {
+      "Id": 70300024,
+      "Name": "國色天香３",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《國色天香３》\n被動技能\n當敵人攻擊裝備者時，\n有80％的機會對裝備者\n陷入『迷戀』狀態。",
+      "70300024": "70300024"
+    },
+    "70300025": {
+      "Id": 70300025,
+      "Name": "有福同享１",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《有福同享１》\n被動技能 \n當裝備者恢復生命或內\n力時，其鄰近的己方人\n物也可獲得20％的恢復\n值。",
+      "70300025": "70300025"
+    },
+    "70300026": {
+      "Id": 70300026,
+      "Name": "有福同享２",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《有福同享２》\n被動技能 \n當裝備者恢復生命或內\n力時，其鄰近的己方人\n物也可獲得35％的恢復\n值。",
+      "70300026": "70300026"
+    },
+    "70300027": {
+      "Id": 70300027,
+      "Name": "有福同享３",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《有福同享３》\n被動技能 \n當裝備者恢復生命或內\n力時，其鄰近的己方人\n物也可獲得50％的恢復\n值。",
+      "70300027": "70300027"
+    },
+    "70300028": {
+      "Id": 70300028,
+      "Name": "國士無雙",
+      "MainCategory": "Passive",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《國士無雙》\n究極被動技能\n裝備者被敵人指令技能\n指定為目標時，該指令\n技能都將自動失效。",
+      "70300028": "70300028"
+    },
+    "70400001": {
+      "Id": 70400001,
+      "Name": "移動＋1",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《移動＋1》\n移動技能 \n裝備者移動值增加1。",
+      "70400001": "70400001"
+    },
+    "70400002": {
+      "Id": 70400002,
+      "Name": "移動＋2",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《移動＋2》\n移動技能 \n裝備者移動值增加2。",
+      "70400002": "70400002"
+    },
+    "70400003": {
+      "Id": 70400003,
+      "Name": "移動＋3",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《移動＋3》\n移動技能 \n裝備者移動值增加3。",
+      "70400003": "70400003"
+    },
+    "70400004": {
+      "Id": 70400004,
+      "Name": "飄浮",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《飄浮》\n移動技能 \n使裝備者以飄浮移動，\n不會觸發任何陷阱，\n並且閃避值增加10％。",
+      "70400004": "70400004"
+    },
+    "70400005": {
+      "Id": 70400005,
+      "Name": "飆行",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《飆行》\n移動技能 \n裝備者可於行動過後\n多增加一次移動機會。",
+      "70400005": "70400005"
+    },
+    "70400006": {
+      "Id": 70400006,
+      "Name": "搜尋寶物",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《搜尋寶物》\n移動技能 \n裝備者移動時，可自動\n獲得移動路徑上的寶藏\n。",
+      "70400006": "70400006"
+    },
+    "70400007": {
+      "Id": 70400007,
+      "Name": "解除陷阱",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《解除陷阱》\n移動技能 \n裝備者移動時，可自動\n解除移動路徑上的陷阱\n。",
+      "70400007": "70400007"
+    },
+    "70400008": {
+      "Id": 70400008,
+      "Name": "自癒１",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《自癒１》\n移動技能 \n裝備者每移動1格，即\n可恢復2％的生命值。",
+      "70400008": "70400008"
+    },
+    "70400009": {
+      "Id": 70400009,
+      "Name": "自癒２",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《自癒２》\n移動技能 \n裝備者每移動1格，即\n可恢復3％的生命值。",
+      "70400009": "70400009"
+    },
+    "70400010": {
+      "Id": 70400010,
+      "Name": "自癒３",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《自癒３》\n移動技能 \n裝備者每移動1格，即\n可恢復4％的生命值。",
+      "70400010": "70400010"
+    },
+    "70400011": {
+      "Id": 70400011,
+      "Name": "回氣１",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《回氣１》\n移動技能 \n裝備者每移動1格，即\n可恢復2％的內力值。",
+      "70400011": "70400011"
+    },
+    "70400012": {
+      "Id": 70400012,
+      "Name": "回氣２",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《回氣２》\n移動技能 \n裝備者每移動1格，即\n可恢復3％的內力值。",
+      "70400012": "70400012"
+    },
+    "70400013": {
+      "Id": 70400013,
+      "Name": "回氣３",
+      "MainCategory": "Movement",
+      "SubCategory": "",
+      "Function": "",
+      "Description": "《回氣３》\n移動技能 \n裝備者每移動1格，即\n可恢復4％的內力值。",
+      "70400013": "70400013"
+    }
+  },
+  "function": {
+    "XianShu": {
+      "Function": "XianShu",
+      "Name": "仙術",
+      "Description": "《仙術》\n仙術技能的總綱，包括\n10種各式仙術，能恢復\n生命、解除各種負面狀\n態。",
+      "XianShu": "XianShu"
+    },
+    "FangShu": {
+      "Function": "FangShu",
+      "Name": "方術",
+      "Description": "《方術》\n方術技能的總綱，包含\n10種各式方術，擅長輔\n助效果，能掌控敵我之\n間的實力變化。",
+      "FangShu": "FangShu"
+    },
+    "YiShu": {
+      "Function": "YiShu",
+      "Name": "異術",
+      "Description": "《異術》\n異術技能的總綱，包含\n10種各式異術，能招引\n天火雷風，重創敵人。",
+      "YiShu": "YiShu"
+    },
+    "WuShu": {
+      "Function": "WuShu",
+      "Name": "武術技能",
+      "Description": "《武術技能》\n武術技能的總綱，幾乎\n所有的武功、戰技、體\n術都被歸納於此類。",
+      "WuShu": "WuShu"
+    },
+    "Shooting": {
+      "Function": "Shooting",
+      "Name": "射擊技能",
+      "Description": "《射擊技能》\n射擊技能的總綱，包含\n各式弓箭、機關弩的武\n器技能。需搭配裝備弓\n類武器。",
+      "Shooting": "Shooting"
+    },
+    "Auxiliary": {
+      "Function": "Auxiliary",
+      "Name": "輔助技能",
+      "Description": "《輔助技能》\n輔助技能的總綱，舉凡\n以人力達到的各種輔助\n、治療效果，都歸納於\n此類。",
+      "Auxiliary": "Auxiliary"
+    },
+    "FeiHongLiuShi": {
+      "Function": "FeiHongLiuShi",
+      "Name": "飛虹六式",
+      "Description": "《飛虹六式》\n記錄於刀王錄中的刀法\n絕技之總綱，包含六種\n不同境界的刀意。需搭\n配裝備刀類武器。",
+      "FeiHongLiuShi": "FeiHongLiuShi"
+    },
+    "XinJian": {
+      "Function": "XinJian",
+      "Name": "心劍",
+      "Description": "《心劍》\n紀錄於劍仙錄的劍法絕\n技總綱，乃至高劍意的\n總集，包含心劍的四大\n階段。需搭配裝備劍類\n武器。",
+      "XinJian": "XinJian"
+    },
+    "HuanLingJi": {
+      "Function": "HuanLingJi",
+      "Name": "幻靈技",
+      "Description": "《幻靈技》\n**略**",
+      "HuanLingJi": "HuanLingJi"
+    },
+    "YeShouZhaoHuan": {
+      "Function": "YeShouZhaoHuan",
+      "Name": "野獸召喚",
+      "Description": "《野獸召喚》\n召喚各種野獸作為戰力\n的技能，施展召獸類技\n能必須耗費『獸元』。",
+      "YeShouZhaoHuan": "YeShouZhaoHuan"
+    },
+    "BingFa": {
+      "Function": "BingFa",
+      "Name": "兵法",
+      "Description": "《兵法》\n兵法技能的總綱，包含\n6種陷阱、3種陣勢，能\n以寡敵眾、全面提升己\n方戰力。",
+      "BingFa": "BingFa"
+    },
+    "XianYunYouBu": {
+      "Function": "XianYunYouBu",
+      "Name": "仙雲遊步",
+      "Description": "《仙雲遊步》\n御風乘雲之術的總綱，\n能自由掌控3種天地浮\n遊之術。",
+      "XianYunYouBu": "XianYunYouBu"
+    },
+    "QiMou": {
+      "Function": "QiMou",
+      "Name": "奇謀",
+      "Description": "《奇謀》\n司馬懿之特殊技能，包\n括6種鬼神莫測的戰略\n計謀。",
+      "QiMou": "QiMou"
+    },
+    "JingSuan": {
+      "Function": "JingSuan",
+      "Name": "精算",
+      "Description": "《精算》\n荀彧特殊技能，必須搭\n配『精算目標』、『精\n算基數』、『精算結果\n』等三個項目，才能發\n揮真正的威力。",
+      "JingSuan": "JingSuan"
+    },
+    "BianCai": {
+      "Function": "BianCai",
+      "Name": "辯才",
+      "Description": "《辯才》\n賈詡特殊技能，能以詭\n辯言論巧妙的影響戰場\n上敵我將士的情緒。",
+      "BianCai": "BianCai"
+    },
+    "TianBian": {
+      "Function": "TianBian",
+      "Name": "天變",
+      "Description": "《天變》\n諸葛亮特殊技能，能引\n發天象異動，產生6種\n天候變化逆轉戰局。",
+      "TianBian": "TianBian"
+    },
+    "DiLiJiNeng": {
+      "Function": "DiLiJiNeng",
+      "Name": "地理技能",
+      "Description": "《地理技能》\n馬良特殊技能，能自由\n控制戰場上的地理環境\n，以求得最大戰術地利\n。",
+      "DiLiJiNeng": "DiLiJiNeng"
+    },
+    "ShangGu": {
+      "Function": "ShangGu",
+      "Name": "商賈",
+      "Description": "《商賈》\n魯肅專屬技能，包含6\n種商貿手段，不但能為\n隊伍籌措軍費、探查重\n要情報，還能達到不戰\n而勝的功效。",
+      "ShangGu": "ShangGu"
+    },
+    "BoYi": {
+      "Function": "BoYi",
+      "Name": "博奕",
+      "Description": "《博奕》\n魯肅專屬技能。集魯肅\n『業餘興趣』之大成，\n能以擲骰子扭轉戰場上\n的局勢。",
+      "BoYi": "BoYi"
+    },
+    "FuHao": {
+      "Function": "FuHao",
+      "Name": "富豪",
+      "Description": "《富豪》\n魯肅專屬技能，唯有富\n甲江南的魯肅才能施展\n的非常手段，不過施展\n時非常耗錢……",
+      "FuHao": "FuHao"
+    },
+    "YiXue": {
+      "Function": "YiXue",
+      "Name": "醫學",
+      "Description": "《醫學》\n華陀專屬技能，三國時\n代最高級的醫療技術。",
+      "YiXue": "YiXue"
+    }
+  },
+  "spell": {
+    "70100001": {
+      "Id": 70100001,
+      "Name": "治 療 術",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 20,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70100002:10;70100009:10",
+      "70100001": "70100001"
+    },
+    "70100002": {
+      "Id": 70100002,
+      "Name": "強 療 術",
+      "DELAY": 80,
+      "UseJP": 100,
+      "UseMP": 40,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70100003:10;70107004:3",
+      "70100002": "70100002"
+    },
+    "70100003": {
+      "Id": 70100003,
+      "Name": "復 活 術",
+      "DELAY": 120,
+      "UseJP": 150,
+      "UseMP": 100,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70100003": "70100003"
+    },
+    "70100004": {
+      "Id": 70100004,
+      "Name": "靈 息 術",
+      "DELAY": 120,
+      "UseJP": 50,
+      "UseMP": 30,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70100005:5;70100010:3",
+      "70100004": "70100004"
+    },
+    "70100005": {
+      "Id": 70100005,
+      "Name": "破 邪 術",
+      "DELAY": 120,
+      "UseJP": 50,
+      "UseMP": 30,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70100005:5;70100010:3",
+      "70100005": "70100005"
+    },
+    "70100006": {
+      "Id": 70100006,
+      "Name": "定 心 術",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 20,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70100004:10;70100007:10;70100008:10",
+      "70100006": "70100006"
+    },
+    "70100007": {
+      "Id": 70100007,
+      "Name": "鼓 舞 術",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 20,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70100010:3",
+      "70100007": "70100007"
+    },
+    "70100008": {
+      "Id": 70100008,
+      "Name": "清 醒 術",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 20,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70100010:3",
+      "70100008": "70100008"
+    },
+    "70100009": {
+      "Id": 70100009,
+      "Name": "解 毒 術",
+      "DELAY": 80,
+      "UseJP": 100,
+      "UseMP": 40,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70100005:5",
+      "70100009": "70100009"
+    },
+    "70100010": {
+      "Id": 70100010,
+      "Name": "掙 脫 術",
+      "DELAY": 120,
+      "UseJP": 150,
+      "UseMP": 80,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70107004:3",
+      "70100010": "70100010"
+    },
+    "70101001": {
+      "Id": 70101001,
+      "Name": "鎧 甲 術",
+      "DELAY": 90,
+      "UseJP": 100,
+      "UseMP": 25,
+      "FixInitPt": 10,
+      "PreItem": 80200032,
+      "AdvSkillsPt": "70101006:5;70101007:5;70107002:2",
+      "70101001": "70101001"
+    },
+    "70101002": {
+      "Id": 70101002,
+      "Name": "敏 捷 術",
+      "DELAY": 90,
+      "UseJP": 100,
+      "UseMP": 25,
+      "FixInitPt": 10,
+      "PreItem": 80200032,
+      "AdvSkillsPt": "70101006:5;70107005:2;70107004:2",
+      "70101002": "70101002"
+    },
+    "70101003": {
+      "Id": 70101003,
+      "Name": "瀚 力 術",
+      "DELAY": 90,
+      "UseJP": 100,
+      "UseMP": 25,
+      "FixInitPt": 10,
+      "PreItem": 80200031,
+      "AdvSkillsPt": "70101005:5;70101009:5;70107002:2",
+      "70101003": "70101003"
+    },
+    "70101004": {
+      "Id": 70101004,
+      "Name": "遲 緩 術",
+      "DELAY": 90,
+      "UseJP": 100,
+      "UseMP": 25,
+      "FixInitPt": 10,
+      "PreItem": 80200031,
+      "AdvSkillsPt": "70101005:5;70107005:2;70107004:2",
+      "70101004": "70101004"
+    },
+    "70101005": {
+      "Id": 70101005,
+      "Name": "虛 脫 術",
+      "DELAY": 90,
+      "UseJP": 100,
+      "UseMP": 25,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70101010:10",
+      "70101005": "70101005"
+    },
+    "70101006": {
+      "Id": 70101006,
+      "Name": "定 身 術",
+      "DELAY": 90,
+      "UseJP": 100,
+      "UseMP": 25,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70101008:10",
+      "70101006": "70101006"
+    },
+    "70101007": {
+      "Id": 70101007,
+      "Name": "沈 默 術",
+      "DELAY": 90,
+      "UseJP": 100,
+      "UseMP": 25,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70101007": "70101007"
+    },
+    "70101008": {
+      "Id": 70101008,
+      "Name": "昏 迷 術",
+      "DELAY": 90,
+      "UseJP": 100,
+      "UseMP": 25,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70101009:5",
+      "70101008": "70101008"
+    },
+    "70101009": {
+      "Id": 70101009,
+      "Name": "疲 弱 術",
+      "DELAY": 90,
+      "UseJP": 100,
+      "UseMP": 25,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70101009": "70101009"
+    },
+    "70101010": {
+      "Id": 70101010,
+      "Name": "混 亂 術",
+      "DELAY": 90,
+      "UseJP": 100,
+      "UseMP": 25,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70101010": "70101010"
+    },
+    "70102001": {
+      "Id": 70102001,
+      "Name": "火 焰 術",
+      "DELAY": 120,
+      "UseJP": 80,
+      "UseMP": 40,
+      "FixInitPt": 10,
+      "PreItem": 80200026,
+      "AdvSkillsPt": "70102009:6;70102008:2;70102006:2",
+      "70102001": "70102001"
+    },
+    "70102002": {
+      "Id": 70102002,
+      "Name": "洪 水 術",
+      "DELAY": 120,
+      "UseJP": 80,
+      "UseMP": 60,
+      "FixInitPt": 10,
+      "PreItem": 80200026,
+      "AdvSkillsPt": "70102005:6;70102010:2;70102006:2",
+      "70102002": "70102002"
+    },
+    "70102003": {
+      "Id": 70102003,
+      "Name": "土 崩 術",
+      "DELAY": 120,
+      "UseJP": 160,
+      "UseMP": 100,
+      "FixInitPt": 10,
+      "PreItem": 80200025,
+      "AdvSkillsPt": "70102008:6;70102005:2;70102010:2",
+      "70102003": "70102003"
+    },
+    "70102004": {
+      "Id": 70102004,
+      "Name": "狂 風 術",
+      "DELAY": 120,
+      "UseJP": 80,
+      "UseMP": 25,
+      "FixInitPt": 10,
+      "PreItem": 80200028,
+      "AdvSkillsPt": "70102010:6;70102009:2;70102005:2",
+      "70102004": "70102004"
+    },
+    "70102005": {
+      "Id": 70102005,
+      "Name": "冰 雪 術",
+      "DELAY": 160,
+      "UseJP": 160,
+      "UseMP": 80,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70102005": "70102005"
+    },
+    "70102006": {
+      "Id": 70102006,
+      "Name": "落 雷 術",
+      "DELAY": 160,
+      "UseJP": 160,
+      "UseMP": 80,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70107005:3",
+      "70102006": "70102006"
+    },
+    "70102007": {
+      "Id": 70102007,
+      "Name": "滾 木 術",
+      "DELAY": 120,
+      "UseJP": 80,
+      "UseMP": 40,
+      "FixInitPt": 10,
+      "PreItem": 80200028,
+      "AdvSkillsPt": "70102006:6;70102009:2;70102008:2",
+      "70102007": "70102007"
+    },
+    "70102008": {
+      "Id": 70102008,
+      "Name": "毒 氣 術",
+      "DELAY": 160,
+      "UseJP": 80,
+      "UseMP": 40,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70102008": "70102008"
+    },
+    "70102009": {
+      "Id": 70102009,
+      "Name": "熔 岩 術",
+      "DELAY": 160,
+      "UseJP": 160,
+      "UseMP": 80,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70107005:3",
+      "70102009": "70102009"
+    },
+    "70102010": {
+      "Id": 70102010,
+      "Name": "海 嘯 術",
+      "DELAY": 160,
+      "UseJP": 160,
+      "UseMP": 80,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70107005:3",
+      "70102010": "70102010"
+    },
+    "70109001": {
+      "Id": 70109001,
+      "Name": "七 星 陣",
+      "DELAY": 170,
+      "UseJP": 150,
+      "UseMP": 80,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70300028:1",
+      "70109001": "70109001"
+    },
+    "70109002": {
+      "Id": 70109002,
+      "Name": "八 卦 陣",
+      "DELAY": 170,
+      "UseJP": 350,
+      "UseMP": 100,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70300028:1",
+      "70109002": "70109002"
+    },
+    "70109003": {
+      "Id": 70109003,
+      "Name": "猛 獸 陣",
+      "DELAY": 170,
+      "UseJP": 250,
+      "UseMP": 80,
+      "FixInitPt": 0,
+      "PreItem": 0,
+      "AdvSkillsPt": "70300028:1",
+      "70109003": "70109003"
+    },
+    "70109004": {
+      "Id": 70109004,
+      "Name": "山崩陷阱",
+      "DELAY": 110,
+      "UseJP": 100,
+      "UseMP": 40,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70109002:2;70109003:3",
+      "70109004": "70109004"
+    },
+    "70109005": {
+      "Id": 70109005,
+      "Name": "泥沼陷阱",
+      "DELAY": 110,
+      "UseJP": 100,
+      "UseMP": 40,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70109002:3;70109003:2",
+      "70109005": "70109005"
+    },
+    "70109006": {
+      "Id": 70109006,
+      "Name": "漩渦陷阱",
+      "DELAY": 110,
+      "UseJP": 100,
+      "UseMP": 40,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70109001:2;70109002:3",
+      "70109006": "70109006"
+    },
+    "70109007": {
+      "Id": 70109007,
+      "Name": "火焰陷阱",
+      "DELAY": 110,
+      "UseJP": 100,
+      "UseMP": 40,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70109001:3;70109002:2",
+      "70109007": "70109007"
+    },
+    "70109008": {
+      "Id": 70109008,
+      "Name": "滾木陷阱",
+      "DELAY": 110,
+      "UseJP": 100,
+      "UseMP": 40,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70109001:3;70109003:2",
+      "70109008": "70109008"
+    },
+    "70109009": {
+      "Id": 70109009,
+      "Name": "瘴氣陷阱",
+      "DELAY": 110,
+      "UseJP": 100,
+      "UseMP": 40,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70109001:2;70109003:3",
+      "70109009": "70109009"
+    }
+  },
+  "wushu": {
+    "70103001": {
+      "Id": 70103001,
+      "Name": "合 擊",
+      "DELAY": 120,
+      "UseJP": 80,
+      "UseMP": 20,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103018:3;70103019:3;70103022:6;70103023:6;70103024:6;70103025:6",
+      "70103001": "70103001"
+    },
+    "70103002": {
+      "Id": 70103002,
+      "Name": "逆 襲",
+      "DELAY": 100,
+      "UseJP": 80,
+      "UseMP": 20,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103018:3;70103019:6;70103022:6;70103023:6;70103024:3;70103025:3",
+      "70103002": "70103002"
+    },
+    "70103003": {
+      "Id": 70103003,
+      "Name": "牽 制",
+      "DELAY": 120,
+      "UseJP": 80,
+      "UseMP": 20,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103018:6;70103019:3;70103022:3;70103023:3;70103024:6;70103025:6;70120044:3",
+      "70103003": "70103003"
+    },
+    "70103004": {
+      "Id": 70103004,
+      "Name": "迴 斬",
+      "DELAY": 100,
+      "UseJP": 80,
+      "UseMP": 15,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103016:8;70103018:3;70103019:3;70103022:3;70103024:6;70103025:6;70120011:5",
+      "70103004": "70103004"
+    },
+    "70103005": {
+      "Id": 70103005,
+      "Name": "突 擊",
+      "DELAY": 90,
+      "UseJP": 80,
+      "UseMP": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103016:2;70103018:3;70103019:3;70103023:3;70103024:3;70103025:3",
+      "70103005": "70103005"
+    },
+    "70103006": {
+      "Id": 70103006,
+      "Name": "背 擊",
+      "DELAY": 90,
+      "UseJP": 80,
+      "UseMP": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103016:2;70103018:3;70103019:3;70103024:3;70103025:3;70103022:6",
+      "70103006": "70103006"
+    },
+    "70103007": {
+      "Id": 70103007,
+      "Name": "連 擊",
+      "DELAY": 90,
+      "UseJP": 80,
+      "UseMP": 25,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103018:6;70103019:6;70103022:3;70103023:3;70103024:3;70103025:3;70120012:3",
+      "70103007": "70103007"
+    },
+    "70103008": {
+      "Id": 70103008,
+      "Name": "刺 擊",
+      "DELAY": 90,
+      "UseJP": 80,
+      "UseMP": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103018:6;70103019:6;70103022:3;70103023:3;70103024:3;70103025:3;70120044:3",
+      "70103008": "70103008"
+    },
+    "70103009": {
+      "Id": 70103009,
+      "Name": "飆 擊",
+      "DELAY": 100,
+      "UseJP": 80,
+      "UseMP": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120100:10;70103018:3;70103019:3;70103024:3;70103025:3;70103023:6",
+      "70103009": "70103009"
+    },
+    "70103010": {
+      "Id": 70103010,
+      "Name": "衝 鋒",
+      "DELAY": 90,
+      "UseJP": 80,
+      "UseMP": 25,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103024:3;70103025:3;70120044:3",
+      "70103010": "70103010"
+    },
+    "70103011": {
+      "Id": 70103011,
+      "Name": "逆 勾",
+      "DELAY": 90,
+      "UseJP": 80,
+      "UseMP": 25,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103022:3;70103023:3;70103024:6;70103025:6;70103018:3;70103019:3",
+      "70103011": "70103011"
+    },
+    "70103012": {
+      "Id": 70103012,
+      "Name": "震 擊",
+      "DELAY": 120,
+      "UseJP": 80,
+      "UseMP": 15,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103016:2;70103018:3;70103019:3;70103022:6;70103023:6;70120012:3",
+      "70103012": "70103012"
+    },
+    "70103013": {
+      "Id": 70103013,
+      "Name": "重 鎚",
+      "DELAY": 120,
+      "UseJP": 80,
+      "UseMP": 30,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103022:6;70103023:6;70103024:3;70103025:3;70103018:3;70103019:3;70120012:3",
+      "70103013": "70103013"
+    },
+    "70103014": {
+      "Id": 70103014,
+      "Name": "點 穴",
+      "DELAY": 100,
+      "UseJP": 120,
+      "UseMP": 20,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70103014": "70103014"
+    },
+    "70103015": {
+      "Id": 70103015,
+      "Name": "五 禽 功",
+      "DELAY": 110,
+      "UseJP": 240,
+      "UseMP": 40,
+      "PreItem": 80200003,
+      "AdvSkillsPt": "70107005:3;70107004:3",
+      "70103015": "70103015"
+    },
+    "70103016": {
+      "Id": 70103016,
+      "Name": "劈 天 式",
+      "DELAY": 120,
+      "UseJP": 150,
+      "UseMP": 20,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103020:10;70120041:3;70120070:5",
+      "70103016": "70103016"
+    },
+    "70103017": {
+      "Id": 70103017,
+      "Name": "獅 子 吼",
+      "DELAY": 130,
+      "UseJP": 150,
+      "UseMP": 30,
+      "PreItem": 0,
+      "AdvSkillsPt": "70103020:10;70120042:3;70120087:3",
+      "70103017": "70103017"
+    },
+    "70103018": {
+      "Id": 70103018,
+      "Name": "破 元 擊",
+      "DELAY": 130,
+      "UseJP": 150,
+      "UseMP": 35,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120051:10;70107002:2",
+      "70103018": "70103018"
+    },
+    "70103019": {
+      "Id": 70103019,
+      "Name": "封 魔 擊",
+      "DELAY": 130,
+      "UseJP": 150,
+      "UseMP": 35,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120033:10;70120011:5;70107002:3",
+      "70103019": "70103019"
+    },
+    "70103020": {
+      "Id": 70103020,
+      "Name": "滅 魂 擊",
+      "DELAY": 150,
+      "UseJP": 200,
+      "UseMP": 40,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120042:3;70120087:3",
+      "70103020": "70103020"
+    },
+    "70103021": {
+      "Id": 70103021,
+      "Name": "滅 靈 擊",
+      "DELAY": 150,
+      "UseJP": 200,
+      "UseMP": 40,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120070:5;70120010:3;70120087:3",
+      "70103021": "70103021"
+    },
+    "70103022": {
+      "Id": 70103022,
+      "Name": "武器破壞",
+      "DELAY": 100,
+      "UseJP": 200,
+      "UseMP": 30,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120001:5;70120041:3;70107001:2",
+      "70103022": "70103022"
+    },
+    "70103023": {
+      "Id": 70103023,
+      "Name": "防具破壞",
+      "DELAY": 100,
+      "UseJP": 200,
+      "UseMP": 30,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120001:5;70107001:2",
+      "70103023": "70103023"
+    },
+    "70103024": {
+      "Id": 70103024,
+      "Name": "閃避破壞",
+      "DELAY": 100,
+      "UseJP": 200,
+      "UseMP": 30,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120010:3;70120043:3",
+      "70103024": "70103024"
+    },
+    "70103025": {
+      "Id": 70103025,
+      "Name": "命中破壞",
+      "DELAY": 100,
+      "UseJP": 200,
+      "UseMP": 30,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120043:3",
+      "70103025": "70103025"
+    }
+  },
+  "shooting": {
+    "70104001": {
+      "Id": 70104001,
+      "Name": "火 箭",
+      "DELAY": 80,
+      "UseJP": 40,
+      "UseMP": 10,
+      "AdvSkillsPt": "70104002:10;70104003:10;70104007:10;70104010:10",
+      "70104001": "70104001"
+    },
+    "70104002": {
+      "Id": 70104002,
+      "Name": "毒 箭",
+      "DELAY": 100,
+      "UseJP": 80,
+      "UseMP": 15,
+      "AdvSkillsPt": "70104004:10;70104005:10;70107003:3",
+      "70104002": "70104002"
+    },
+    "70104003": {
+      "Id": 70104003,
+      "Name": "咒 箭",
+      "DELAY": 100,
+      "UseJP": 80,
+      "UseMP": 15,
+      "AdvSkillsPt": "70104012:10;70104013:10;70107003:2",
+      "70104003": "70104003"
+    },
+    "70104004": {
+      "Id": 70104004,
+      "Name": "遠程射擊",
+      "DELAY": 120,
+      "UseJP": 200,
+      "UseMP": 15,
+      "AdvSkillsPt": "",
+      "70104004": "70104004"
+    },
+    "70104005": {
+      "Id": 70104005,
+      "Name": "致命射擊",
+      "DELAY": 120,
+      "UseJP": 200,
+      "UseMP": 25,
+      "AdvSkillsPt": "",
+      "70104005": "70104005"
+    },
+    "70104006": {
+      "Id": 70104006,
+      "Name": "引導射擊",
+      "DELAY": 120,
+      "UseJP": 200,
+      "UseMP": 25,
+      "AdvSkillsPt": "",
+      "70104006": "70104006"
+    },
+    "70104007": {
+      "Id": 70104007,
+      "Name": "精準射擊",
+      "DELAY": 100,
+      "UseJP": 120,
+      "UseMP": 20,
+      "AdvSkillsPt": "70104006:10;70104008:10;70107003:2",
+      "70104007": "70104007"
+    },
+    "70104008": {
+      "Id": 70104008,
+      "Name": "散箭射擊",
+      "DELAY": 120,
+      "UseJP": 200,
+      "UseMP": 25,
+      "AdvSkillsPt": "",
+      "70104008": "70104008"
+    },
+    "70104009": {
+      "Id": 70104009,
+      "Name": "貫穿射擊",
+      "DELAY": 120,
+      "UseJP": 200,
+      "UseMP": 20,
+      "AdvSkillsPt": "",
+      "70104009": "70104009"
+    },
+    "70104010": {
+      "Id": 70104010,
+      "Name": "快速射擊",
+      "DELAY": 80,
+      "UseJP": 120,
+      "UseMP": 20,
+      "AdvSkillsPt": "70104009:10;70104011:10;70107003:2",
+      "70104010": "70104010"
+    },
+    "70104011": {
+      "Id": 70104011,
+      "Name": "定身射擊",
+      "DELAY": 120,
+      "UseJP": 200,
+      "UseMP": 25,
+      "AdvSkillsPt": "",
+      "70104011": "70104011"
+    },
+    "70104012": {
+      "Id": 70104012,
+      "Name": "連續射擊",
+      "DELAY": 120,
+      "UseJP": 200,
+      "UseMP": 25,
+      "AdvSkillsPt": "",
+      "70104012": "70104012"
+    },
+    "70104013": {
+      "Id": 70104013,
+      "Name": "移動射擊",
+      "DELAY": 120,
+      "UseJP": 200,
+      "UseMP": 15,
+      "AdvSkillsPt": "",
+      "70104013": "70104013"
+    }
+  },
+  "auxiliary": {
+    "70104020": {
+      "Id": 70104020,
+      "Name": "集 中",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 10,
+      "AdvSkillsPt": "70103022:3;70103023:3;70103024:3;70103025:3;70104032:5;70107001:2",
+      "70104020": "70104020"
+    },
+    "70104021": {
+      "Id": 70104021,
+      "Name": "雲 身",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 10,
+      "AdvSkillsPt": "70103022:3;70103023:3;70103024:3;70103025:3;70104032:5;70107001:2",
+      "70104021": "70104021"
+    },
+    "70104022": {
+      "Id": 70104022,
+      "Name": "蓄 勁",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 10,
+      "AdvSkillsPt": "70103022:3;70103023:3;70103024:3;70103025:3;70104031:5;70120041:3",
+      "70104022": "70104022"
+    },
+    "70104023": {
+      "Id": 70104023,
+      "Name": "鋼 體",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 10,
+      "AdvSkillsPt": "70103022:3;70103023:3;70103024:3;70103025:3;70104031:5",
+      "70104023": "70104023"
+    },
+    "70104024": {
+      "Id": 70104024,
+      "Name": "神 行",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 10,
+      "AdvSkillsPt": "70120010:3",
+      "70104024": "70104024"
+    },
+    "70104025": {
+      "Id": 70104025,
+      "Name": "自 療",
+      "DELAY": 40,
+      "UseJP": 40,
+      "UseMP": 5,
+      "AdvSkillsPt": "70104026:10;70104028:10",
+      "70104025": "70104025"
+    },
+    "70104026": {
+      "Id": 70104026,
+      "Name": "急 救",
+      "DELAY": 50,
+      "UseJP": 80,
+      "UseMP": 5,
+      "AdvSkillsPt": "70104027:10;70104029:10",
+      "70104026": "70104026"
+    },
+    "70104027": {
+      "Id": 70104027,
+      "Name": "醫 療",
+      "DELAY": 80,
+      "UseJP": 120,
+      "UseMP": 25,
+      "AdvSkillsPt": "",
+      "70104027": "70104027"
+    },
+    "70104028": {
+      "Id": 70104028,
+      "Name": "運 功",
+      "DELAY": 80,
+      "UseJP": 120,
+      "UseMP": 20,
+      "AdvSkillsPt": "70104030:10;70107001:2",
+      "70104028": "70104028"
+    },
+    "70104029": {
+      "Id": 70104029,
+      "Name": "解 毒",
+      "DELAY": 80,
+      "UseJP": 80,
+      "UseMP": 15,
+      "AdvSkillsPt": "70103018:3",
+      "70104029": "70104029"
+    },
+    "70104030": {
+      "Id": 70104030,
+      "Name": "破 咒",
+      "DELAY": 80,
+      "UseJP": 80,
+      "UseMP": 15,
+      "AdvSkillsPt": "70103019:3;70120042:3",
+      "70104030": "70104030"
+    },
+    "70104031": {
+      "Id": 70104031,
+      "Name": "剛 勁",
+      "DELAY": 100,
+      "UseJP": 200,
+      "UseMP": 20,
+      "AdvSkillsPt": "70104033:5",
+      "70104031": "70104031"
+    },
+    "70104032": {
+      "Id": 70104032,
+      "Name": "專 注",
+      "DELAY": 100,
+      "UseJP": 200,
+      "UseMP": 20,
+      "AdvSkillsPt": "70104033:5",
+      "70104032": "70104032"
+    },
+    "70104033": {
+      "Id": 70104033,
+      "Name": "戰 令",
+      "DELAY": 100,
+      "UseJP": 200,
+      "UseMP": 30,
+      "AdvSkillsPt": "",
+      "70104033": "70104033"
+    },
+    "70104034": {
+      "Id": 70104034,
+      "Name": "脫離戰場",
+      "DELAY": 80,
+      "UseJP": 10,
+      "UseMP": 0,
+      "AdvSkillsPt": "70120043:3",
+      "70104034": "70104034"
+    },
+    "70104035": {
+      "Id": 70104035,
+      "Name": "使用物品",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 0,
+      "AdvSkillsPt": "70103022:4;70103023:4;70103024:4;70103025:4",
+      "70104035": "70104035"
+    }
+  },
+  "special": {
+    "70108001": {
+      "Id": 70108001,
+      "Name": "霸王項羽",
+      "DELAY": 160,
+      "UseJP": 300,
+      "UseMP": 150,
+      "UseSouls": 10,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 80200033,
+      "AdvSkillsPt": "",
+      "70108001": "70108001"
+    },
+    "70108002": {
+      "Id": 70108002,
+      "Name": "軍神孫武",
+      "DELAY": 160,
+      "UseJP": 200,
+      "UseMP": 100,
+      "UseSouls": 5,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 80200034,
+      "AdvSkillsPt": "",
+      "70108002": "70108002"
+    },
+    "70108003": {
+      "Id": 70108003,
+      "Name": "醫聖扁鵲",
+      "DELAY": 160,
+      "UseJP": 250,
+      "UseMP": 150,
+      "UseSouls": 10,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 80200035,
+      "AdvSkillsPt": "",
+      "70108003": "70108003"
+    },
+    "70108004": {
+      "Id": 70108004,
+      "Name": "始皇嬴政",
+      "DELAY": 160,
+      "UseJP": 200,
+      "UseMP": 150,
+      "UseSouls": 8,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 80200036,
+      "AdvSkillsPt": "",
+      "70108004": "70108004"
+    },
+    "70108005": {
+      "Id": 70108005,
+      "Name": "名相張良",
+      "DELAY": 160,
+      "UseJP": 350,
+      "UseMP": 100,
+      "UseSouls": 5,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 80200037,
+      "AdvSkillsPt": "",
+      "70108005": "70108005"
+    },
+    "70108006": {
+      "Id": 70108006,
+      "Name": "刺客豫讓",
+      "DELAY": 160,
+      "UseJP": 200,
+      "UseMP": 50,
+      "UseSouls": 5,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 80200038,
+      "AdvSkillsPt": "",
+      "70108006": "70108006"
+    },
+    "70108007": {
+      "Id": 70108007,
+      "Name": "搜 魂 擊",
+      "DELAY": 80,
+      "UseJP": 40,
+      "UseMP": 15,
+      "UseSouls": 0,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 80200039,
+      "AdvSkillsPt": "",
+      "70108007": "70108007"
+    },
+    "70108008": {
+      "Id": 70108008,
+      "Name": "召喚野狼",
+      "DELAY": 100,
+      "UseJP": 80,
+      "UseMP": 50,
+      "UseSouls": 0,
+      "UseAnimals": 2,
+      "FixInitPt": 10,
+      "PreItem": 80200049,
+      "AdvSkillsPt": "",
+      "70108008": "70108008"
+    },
+    "70108009": {
+      "Id": 70108009,
+      "Name": "召喚翼蛇",
+      "DELAY": 120,
+      "UseJP": 100,
+      "UseMP": 50,
+      "UseSouls": 0,
+      "UseAnimals": 5,
+      "FixInitPt": 10,
+      "PreItem": 80200050,
+      "AdvSkillsPt": "",
+      "70108009": "70108009"
+    },
+    "70108010": {
+      "Id": 70108010,
+      "Name": "召喚猛虎",
+      "DELAY": 120,
+      "UseJP": 150,
+      "UseMP": 50,
+      "UseSouls": 0,
+      "UseAnimals": 5,
+      "FixInitPt": 10,
+      "PreItem": 80200051,
+      "AdvSkillsPt": "",
+      "70108010": "70108010"
+    },
+    "70108011": {
+      "Id": 70108011,
+      "Name": "召喚巨象",
+      "DELAY": 140,
+      "UseJP": 200,
+      "UseMP": 60,
+      "UseSouls": 0,
+      "UseAnimals": 8,
+      "FixInitPt": 10,
+      "PreItem": 80200052,
+      "AdvSkillsPt": "",
+      "70108011": "70108011"
+    },
+    "70108012": {
+      "Id": 70108012,
+      "Name": "召喚麒麟",
+      "DELAY": 170,
+      "UseJP": 250,
+      "UseMP": 90,
+      "UseSouls": 0,
+      "UseAnimals": 12,
+      "FixInitPt": 10,
+      "PreItem": 80200053,
+      "AdvSkillsPt": "",
+      "70108012": "70108012"
+    },
+    "70108013": {
+      "Id": 70108013,
+      "Name": "召喚毒蜘蛛",
+      "DELAY": 120,
+      "UseJP": 200,
+      "UseMP": 70,
+      "UseSouls": 0,
+      "UseAnimals": 5,
+      "FixInitPt": 10,
+      "PreItem": 80200054,
+      "AdvSkillsPt": "",
+      "70108013": "70108013"
+    },
+    "70108014": {
+      "Id": 70108014,
+      "Name": "召喚金龍",
+      "DELAY": 170,
+      "UseJP": 500,
+      "UseMP": 120,
+      "UseSouls": 0,
+      "UseAnimals": 20,
+      "FixInitPt": 10,
+      "PreItem": 80200055,
+      "AdvSkillsPt": "",
+      "70108014": "70108014"
+    },
+    "70108015": {
+      "Id": 70108015,
+      "Name": "召喚金翅鳥",
+      "DELAY": 170,
+      "UseJP": 500,
+      "UseMP": 100,
+      "UseSouls": 0,
+      "UseAnimals": 20,
+      "FixInitPt": 10,
+      "PreItem": 80200056,
+      "AdvSkillsPt": "",
+      "70108015": "70108015"
+    },
+    "70108016": {
+      "Id": 70108016,
+      "Name": "降 獸 擊",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseSouls": 0,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 80200057,
+      "AdvSkillsPt": "",
+      "70108016": "70108016"
+    },
+    "70110001": {
+      "Id": 70110001,
+      "Name": "御 風 行",
+      "DELAY": 80,
+      "UseJP": 60,
+      "UseMP": 15,
+      "UseSouls": 0,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70110002:10",
+      "70110001": "70110001"
+    },
+    "70110002": {
+      "Id": 70110002,
+      "Name": "乘 雲 起",
+      "DELAY": 80,
+      "UseJP": 120,
+      "UseMP": 35,
+      "UseSouls": 0,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70110003:10",
+      "70110002": "70110002"
+    },
+    "70110003": {
+      "Id": 70110003,
+      "Name": "地 氣 鎖",
+      "DELAY": 80,
+      "UseJP": 80,
+      "UseMP": 20,
+      "UseSouls": 0,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "70110004:10",
+      "70110003": "70110003"
+    },
+    "70110004": {
+      "Id": 70110004,
+      "Name": "逆轉乾坤",
+      "DELAY": 120,
+      "UseJP": 100,
+      "UseMP": 40,
+      "UseSouls": 0,
+      "UseAnimals": 0,
+      "FixInitPt": 10,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70110004": "70110004"
+    }
+  },
+  "exclusive": {
+    "70105001": {
+      "Id": 70105001,
+      "Name": "赤 血",
+      "DELAY": 100,
+      "UseJP": 20,
+      "UseMP": 5,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 80200044,
+      "AdvSkillsPt": "70105002:10",
+      "70105001": "70105001"
+    },
+    "70105002": {
+      "Id": 70105002,
+      "Name": "幻 橙",
+      "DELAY": 110,
+      "UseJP": 40,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70105003:10",
+      "70105002": "70105002"
+    },
+    "70105003": {
+      "Id": 70105003,
+      "Name": "金 曦",
+      "DELAY": 120,
+      "UseJP": 80,
+      "UseMP": 25,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70105004:10",
+      "70105003": "70105003"
+    },
+    "70105004": {
+      "Id": 70105004,
+      "Name": "綠 殺",
+      "DELAY": 130,
+      "UseJP": 160,
+      "UseMP": 35,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70105005:10",
+      "70105004": "70105004"
+    },
+    "70105005": {
+      "Id": 70105005,
+      "Name": "藍 斷",
+      "DELAY": 140,
+      "UseJP": 320,
+      "UseMP": 45,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70105006:10;70107004:5;70107005:5",
+      "70105005": "70105005"
+    },
+    "70105006": {
+      "Id": 70105006,
+      "Name": "紫 破",
+      "DELAY": 150,
+      "UseJP": 640,
+      "UseMP": 55,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70107006:3",
+      "70105006": "70105006"
+    },
+    "70106001": {
+      "Id": 70106001,
+      "Name": "劍 一",
+      "DELAY": 100,
+      "UseJP": 30,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 80200043,
+      "AdvSkillsPt": "70106002:10",
+      "70106001": "70106001"
+    },
+    "70106002": {
+      "Id": 70106002,
+      "Name": "劍 三",
+      "DELAY": 120,
+      "UseJP": 90,
+      "UseMP": 50,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70106003:10",
+      "70106002": "70106002"
+    },
+    "70106003": {
+      "Id": 70106003,
+      "Name": "劍 七",
+      "DELAY": 140,
+      "UseJP": 270,
+      "UseMP": 70,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70106004:10;70107004:5;70107005:5",
+      "70106003": "70106003"
+    },
+    "70106004": {
+      "Id": 70106004,
+      "Name": "劍 十 一",
+      "DELAY": 160,
+      "UseJP": 540,
+      "UseMP": 90,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70107006:3",
+      "70106004": "70106004"
+    },
+    "70107001": {
+      "Id": 70107001,
+      "Name": "龍奔百里",
+      "DELAY": 150,
+      "UseJP": 400,
+      "UseMP": 45,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70107004:5;70107005:5",
+      "70107001": "70107001"
+    },
+    "70107002": {
+      "Id": 70107002,
+      "Name": "連破五嶽",
+      "DELAY": 150,
+      "UseJP": 400,
+      "UseMP": 45,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70107004:5;70107005:5",
+      "70107002": "70107002"
+    },
+    "70107003": {
+      "Id": 70107003,
+      "Name": "鳳舞九天",
+      "DELAY": 150,
+      "UseJP": 500,
+      "UseMP": 55,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70107006:3",
+      "70107003": "70107003"
+    },
+    "70107004": {
+      "Id": 70107004,
+      "Name": "破 魔 斬",
+      "DELAY": 160,
+      "UseJP": 300,
+      "UseMP": 35,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70107004": "70107004"
+    },
+    "70107005": {
+      "Id": 70107005,
+      "Name": "殺 神 斬",
+      "DELAY": 160,
+      "UseJP": 300,
+      "UseMP": 35,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70107005": "70107005"
+    },
+    "70107006": {
+      "Id": 70107006,
+      "Name": "神並天地",
+      "DELAY": 200,
+      "UseJP": 600,
+      "UseMP": 100,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 80200013,
+      "AdvSkillsPt": "",
+      "70107006": "70107006"
+    },
+    "70107007": {
+      "Id": 70107007,
+      "Name": "騰龍八齊",
+      "DELAY": 200,
+      "UseJP": 800,
+      "UseMP": 200,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 80200059,
+      "AdvSkillsPt": "",
+      "70107007": "70107007"
+    },
+    "70107008": {
+      "Id": 70107008,
+      "Name": "顛動滄溟",
+      "DELAY": 200,
+      "UseJP": 600,
+      "UseMP": 100,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 80200058,
+      "AdvSkillsPt": "",
+      "70107008": "70107008"
+    },
+    "70120001": {
+      "Id": 70120001,
+      "Name": "霸 氣",
+      "DELAY": 80,
+      "UseJP": 300,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120002:10",
+      "70120001": "70120001"
+    },
+    "70120002": {
+      "Id": 70120002,
+      "Name": "乘時而起",
+      "DELAY": 120,
+      "UseJP": 300,
+      "UseMP": 45,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120002": "70120002"
+    },
+    "70120003": {
+      "Id": 70120003,
+      "Name": "隱 藏",
+      "DELAY": 80,
+      "UseJP": 20,
+      "UseMP": 20,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120006:5;70120008:5",
+      "70120003": "70120003"
+    },
+    "70120004": {
+      "Id": 70120004,
+      "Name": "偽 裝",
+      "DELAY": 80,
+      "UseJP": 40,
+      "UseMP": 25,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120006:5;70120007:5;70120009:3",
+      "70120004": "70120004"
+    },
+    "70120005": {
+      "Id": 70120005,
+      "Name": "間 諜",
+      "DELAY": 120,
+      "UseJP": 120,
+      "UseMP": 30,
+      "UseGold": 100,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120007:5;70120008:5;70120009:3",
+      "70120005": "70120005"
+    },
+    "70120006": {
+      "Id": 70120006,
+      "Name": "誤 導",
+      "DELAY": 80,
+      "UseJP": 200,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120009:3",
+      "70120006": "70120006"
+    },
+    "70120007": {
+      "Id": 70120007,
+      "Name": "詭 道",
+      "DELAY": 80,
+      "UseJP": 250,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120007": "70120007"
+    },
+    "70120008": {
+      "Id": 70120008,
+      "Name": "刺 客",
+      "DELAY": 120,
+      "UseJP": 300,
+      "UseMP": 45,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120009:3",
+      "70120008": "70120008"
+    },
+    "70120009": {
+      "Id": 70120009,
+      "Name": "犧 牲",
+      "DELAY": 150,
+      "UseJP": 150,
+      "UseMP": 45,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120009": "70120009"
+    },
+    "70120010": {
+      "Id": 70120010,
+      "Name": "斷 頭 斬",
+      "DELAY": 150,
+      "UseJP": 360,
+      "UseMP": 35,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120010": "70120010"
+    },
+    "70120011": {
+      "Id": 70120011,
+      "Name": "憤怒一擊",
+      "DELAY": 150,
+      "UseJP": 280,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120011": "70120011"
+    },
+    "70120012": {
+      "Id": 70120012,
+      "Name": "天搖地動",
+      "DELAY": 150,
+      "UseJP": 400,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120012": "70120012"
+    },
+    "70120013": {
+      "Id": 70120013,
+      "Name": "生命精算",
+      "DELAY": 30,
+      "UseJP": 30,
+      "UseMP": 2,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120014:10;70120016:5",
+      "70120013": "70120013"
+    },
+    "70120014": {
+      "Id": 70120014,
+      "Name": "內力精算",
+      "DELAY": 30,
+      "UseJP": 30,
+      "UseMP": 2,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120016:5",
+      "70120014": "70120014"
+    },
+    "70120015": {
+      "Id": 70120015,
+      "Name": "距離精算",
+      "DELAY": 50,
+      "UseJP": 60,
+      "UseMP": 3,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120015": "70120015"
+    },
+    "70120016": {
+      "Id": 70120016,
+      "Name": "等級精算",
+      "DELAY": 40,
+      "UseJP": 40,
+      "UseMP": 2,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120015:10",
+      "70120016": "70120016"
+    },
+    "70120017": {
+      "Id": 70120017,
+      "Name": "三",
+      "DELAY": 50,
+      "UseJP": 240,
+      "UseMP": 8,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120017": "70120017"
+    },
+    "70120018": {
+      "Id": 70120018,
+      "Name": "五",
+      "DELAY": 40,
+      "UseJP": 120,
+      "UseMP": 6,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120017:10",
+      "70120018": "70120018"
+    },
+    "70120019": {
+      "Id": 70120019,
+      "Name": "七",
+      "DELAY": 30,
+      "UseJP": 60,
+      "UseMP": 4,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120018:10",
+      "70120019": "70120019"
+    },
+    "70120020": {
+      "Id": 70120020,
+      "Name": "十一",
+      "DELAY": 20,
+      "UseJP": 30,
+      "UseMP": 2,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120019:10",
+      "70120020": "70120020"
+    },
+    "70120021": {
+      "Id": 70120021,
+      "Name": "冰",
+      "DELAY": 50,
+      "UseJP": 100,
+      "UseMP": 3,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120021": "70120021"
+    },
+    "70120022": {
+      "Id": 70120022,
+      "Name": "火",
+      "DELAY": 50,
+      "UseJP": 100,
+      "UseMP": 3,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120022": "70120022"
+    },
+    "70120023": {
+      "Id": 70120023,
+      "Name": "治 癒",
+      "DELAY": 40,
+      "UseJP": 50,
+      "UseMP": 2,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120024:10",
+      "70120023": "70120023"
+    },
+    "70120024": {
+      "Id": 70120024,
+      "Name": "解除狀態",
+      "DELAY": 30,
+      "UseJP": 100,
+      "UseMP": 3,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120021:10;70120022:10",
+      "70120024": "70120024"
+    },
+    "70120025": {
+      "Id": 70120025,
+      "Name": "說 服",
+      "DELAY": 90,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 20,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120027:5",
+      "70120025": "70120025"
+    },
+    "70120026": {
+      "Id": 70120026,
+      "Name": "勸 誘",
+      "DELAY": 90,
+      "UseJP": 100,
+      "UseMP": 35,
+      "UseGold": 0,
+      "Ratio": 20,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120027:5",
+      "70120026": "70120026"
+    },
+    "70120027": {
+      "Id": 70120027,
+      "Name": "和 解",
+      "DELAY": 100,
+      "UseJP": 60,
+      "UseMP": 25,
+      "UseGold": 0,
+      "Ratio": 20,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120028:10;70120029:10;70120030:10",
+      "70120027": "70120027"
+    },
+    "70120028": {
+      "Id": 70120028,
+      "Name": "囔 嚷",
+      "DELAY": 100,
+      "UseJP": 80,
+      "UseMP": 60,
+      "UseGold": 0,
+      "Ratio": 60,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120031:3",
+      "70120028": "70120028"
+    },
+    "70120029": {
+      "Id": 70120029,
+      "Name": "激 怒",
+      "DELAY": 110,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 75,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120031:3",
+      "70120029": "70120029"
+    },
+    "70120030": {
+      "Id": 70120030,
+      "Name": "安 撫",
+      "DELAY": 110,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 75,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120031:3",
+      "70120030": "70120030"
+    },
+    "70120031": {
+      "Id": 70120031,
+      "Name": "演 講",
+      "DELAY": 120,
+      "UseJP": 60,
+      "UseMP": 25,
+      "UseGold": 0,
+      "Ratio": 85,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120032:10",
+      "70120031": "70120031"
+    },
+    "70120032": {
+      "Id": 70120032,
+      "Name": "強詞奪理",
+      "DELAY": 120,
+      "UseJP": 80,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 85,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120032": "70120032"
+    },
+    "70120033": {
+      "Id": 70120033,
+      "Name": "仁 義",
+      "DELAY": 80,
+      "UseJP": 200,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120034:10",
+      "70120033": "70120033"
+    },
+    "70120034": {
+      "Id": 70120034,
+      "Name": "待機而動",
+      "DELAY": 120,
+      "UseJP": 300,
+      "UseMP": 45,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120034": "70120034"
+    },
+    "70120035": {
+      "Id": 70120035,
+      "Name": "烈 陽 變",
+      "DELAY": 130,
+      "UseJP": 150,
+      "UseMP": 50,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120035": "70120035"
+    },
+    "70120036": {
+      "Id": 70120036,
+      "Name": "暴 雨 變",
+      "DELAY": 130,
+      "UseJP": 150,
+      "UseMP": 50,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120036": "70120036"
+    },
+    "70120037": {
+      "Id": 70120037,
+      "Name": "風 雲 變",
+      "DELAY": 130,
+      "UseJP": 150,
+      "UseMP": 55,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120037": "70120037"
+    },
+    "70120038": {
+      "Id": 70120038,
+      "Name": "天 陰 變",
+      "DELAY": 130,
+      "UseJP": 150,
+      "UseMP": 60,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120038": "70120038"
+    },
+    "70120039": {
+      "Id": 70120039,
+      "Name": "皓 月 變",
+      "DELAY": 130,
+      "UseJP": 200,
+      "UseMP": 50,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120039": "70120039"
+    },
+    "70120040": {
+      "Id": 70120040,
+      "Name": "雷 霆 變",
+      "DELAY": 130,
+      "UseJP": 300,
+      "UseMP": 70,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120040": "70120040"
+    },
+    "70120041": {
+      "Id": 70120041,
+      "Name": "龍戰於野",
+      "DELAY": 150,
+      "UseJP": 450,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120041": "70120041"
+    },
+    "70120042": {
+      "Id": 70120042,
+      "Name": "俠義一擊",
+      "DELAY": 140,
+      "UseJP": 330,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120042": "70120042"
+    },
+    "70120043": {
+      "Id": 70120043,
+      "Name": "馳 走 槍",
+      "DELAY": 120,
+      "UseJP": 400,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120043": "70120043"
+    },
+    "70120044": {
+      "Id": 70120044,
+      "Name": "浴血奮戰",
+      "DELAY": 140,
+      "UseJP": 380,
+      "UseMP": 45,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120044": "70120044"
+    },
+    "70120045": {
+      "Id": 70120045,
+      "Name": "鎖 足",
+      "DELAY": 100,
+      "UseJP": 100,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120045": "70120045"
+    },
+    "70120046": {
+      "Id": 70120046,
+      "Name": "縮 地",
+      "DELAY": 100,
+      "UseJP": 100,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120046": "70120046"
+    },
+    "70120047": {
+      "Id": 70120047,
+      "Name": "異 位",
+      "DELAY": 80,
+      "UseJP": 150,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120046:10;70120045:10",
+      "70120047": "70120047"
+    },
+    "70120048": {
+      "Id": 70120048,
+      "Name": "設置障礙",
+      "DELAY": 80,
+      "UseJP": 150,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120047:10",
+      "70120048": "70120048"
+    },
+    "70120049": {
+      "Id": 70120049,
+      "Name": "挪空幻景",
+      "DELAY": 100,
+      "UseJP": 80,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120047:10;70120048:10",
+      "70120049": "70120049"
+    },
+    "70120050": {
+      "Id": 70120050,
+      "Name": "幻景看破",
+      "DELAY": 100,
+      "UseJP": 80,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120049:10",
+      "70120050": "70120050"
+    },
+    "70120051": {
+      "Id": 70120051,
+      "Name": "振 奮",
+      "DELAY": 80,
+      "UseJP": 200,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120052:10",
+      "70120051": "70120051"
+    },
+    "70120052": {
+      "Id": 70120052,
+      "Name": "逆勢而行",
+      "DELAY": 120,
+      "UseJP": 300,
+      "UseMP": 45,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120052": "70120052"
+    },
+    "70120053": {
+      "Id": 70120053,
+      "Name": "梁 父 吟",
+      "DELAY": 100,
+      "UseJP": 120,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120057:2;70120058:2;70120059:4;70120060:4",
+      "70120053": "70120053"
+    },
+    "70120054": {
+      "Id": 70120054,
+      "Name": "垓 下 歌",
+      "DELAY": 100,
+      "UseJP": 120,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120057:4;70120058:2;70120059:2;70120060:4",
+      "70120054": "70120054"
+    },
+    "70120055": {
+      "Id": 70120055,
+      "Name": "大 風 歌",
+      "DELAY": 100,
+      "UseJP": 250,
+      "UseMP": 60,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120057:4;70120058:4;70120059:2;70120060:2",
+      "70120055": "70120055"
+    },
+    "70120056": {
+      "Id": 70120056,
+      "Name": "佳 人 歌",
+      "DELAY": 100,
+      "UseJP": 350,
+      "UseMP": 85,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120057:2;70120058:4;70120059:4;70120060:2",
+      "70120056": "70120056"
+    },
+    "70120057": {
+      "Id": 70120057,
+      "Name": "陌 上 桑",
+      "DELAY": 100,
+      "UseJP": 150,
+      "UseMP": 50,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120057": "70120057"
+    },
+    "70120058": {
+      "Id": 70120058,
+      "Name": "蒿 里 曲",
+      "DELAY": 100,
+      "UseJP": 250,
+      "UseMP": 80,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120058": "70120058"
+    },
+    "70120059": {
+      "Id": 70120059,
+      "Name": "戰 城 南",
+      "DELAY": 100,
+      "UseJP": 200,
+      "UseMP": 60,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120059": "70120059"
+    },
+    "70120060": {
+      "Id": 70120060,
+      "Name": "西 門 行",
+      "DELAY": 100,
+      "UseJP": 200,
+      "UseMP": 100,
+      "UseGold": 30,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120060": "70120060"
+    },
+    "70120061": {
+      "Id": 70120061,
+      "Name": "虎 紋 刀",
+      "DELAY": 100,
+      "UseJP": 100,
+      "UseMP": 10,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120061": "70120061"
+    },
+    "70120062": {
+      "Id": 70120062,
+      "Name": "蟬 翼 刀",
+      "DELAY": 110,
+      "UseJP": 100,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120062": "70120062"
+    },
+    "70120063": {
+      "Id": 70120063,
+      "Name": "修 羅 刀",
+      "DELAY": 110,
+      "UseJP": 100,
+      "UseMP": 20,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120063": "70120063"
+    },
+    "70120064": {
+      "Id": 70120064,
+      "Name": "梟 雄 刀",
+      "DELAY": 120,
+      "UseJP": 100,
+      "UseMP": 25,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120064": "70120064"
+    },
+    "70120065": {
+      "Id": 70120065,
+      "Name": "紫 玉 刀",
+      "DELAY": 120,
+      "UseJP": 100,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120065": "70120065"
+    },
+    "70120066": {
+      "Id": 70120066,
+      "Name": "大漠金刀",
+      "DELAY": 130,
+      "UseJP": 100,
+      "UseMP": 35,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120066": "70120066"
+    },
+    "70120067": {
+      "Id": 70120067,
+      "Name": "潑 風 刀",
+      "DELAY": 130,
+      "UseJP": 100,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120067": "70120067"
+    },
+    "70120068": {
+      "Id": 70120068,
+      "Name": "嘯 月 刀",
+      "DELAY": 140,
+      "UseJP": 100,
+      "UseMP": 45,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120068": "70120068"
+    },
+    "70120069": {
+      "Id": 70120069,
+      "Name": "必殺一擊",
+      "DELAY": 140,
+      "UseJP": 300,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120069": "70120069"
+    },
+    "70120070": {
+      "Id": 70120070,
+      "Name": "曳 刀 式",
+      "DELAY": 150,
+      "UseJP": 320,
+      "UseMP": 30,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120070": "70120070"
+    },
+    "70120071": {
+      "Id": 70120071,
+      "Name": "估 價",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120075:4",
+      "70120071": "70120071"
+    },
+    "70120072": {
+      "Id": 70120072,
+      "Name": "審 視",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120076:5;70120075:3",
+      "70120072": "70120072"
+    },
+    "70120073": {
+      "Id": 70120073,
+      "Name": "評 量",
+      "DELAY": 80,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120076:5;70120075:3",
+      "70120073": "70120073"
+    },
+    "70120074": {
+      "Id": 70120074,
+      "Name": "交 易",
+      "DELAY": 60,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120075:5",
+      "70120074": "70120074"
+    },
+    "70120075": {
+      "Id": 70120075,
+      "Name": "打 點",
+      "DELAY": 100,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 10000,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120075": "70120075"
+    },
+    "70120076": {
+      "Id": 70120076,
+      "Name": "探 寶",
+      "DELAY": 100,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120077:10",
+      "70120076": "70120076"
+    },
+    "70120077": {
+      "Id": 70120077,
+      "Name": "直 覺",
+      "DELAY": 100,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120084:5;70120085:5;70120086:5",
+      "70120077": "70120077"
+    },
+    "70120078": {
+      "Id": 70120078,
+      "Name": "單 雙",
+      "DELAY": 80,
+      "UseJP": 40,
+      "UseMP": 10,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120084:5;70120085:5;70120086:5",
+      "70120078": "70120078"
+    },
+    "70120079": {
+      "Id": 70120079,
+      "Name": "十 八 啦",
+      "DELAY": 100,
+      "UseJP": 80,
+      "UseMP": 20,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120079": "70120079"
+    },
+    "70120080": {
+      "Id": 70120080,
+      "Name": "玉 骰 子",
+      "DELAY": 120,
+      "UseJP": 40,
+      "UseMP": 20,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120080": "70120080"
+    },
+    "70120081": {
+      "Id": 70120081,
+      "Name": "骨 骰 子",
+      "DELAY": 120,
+      "UseJP": 40,
+      "UseMP": 20,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120081": "70120081"
+    },
+    "70120082": {
+      "Id": 70120082,
+      "Name": "鐵 骰 子",
+      "DELAY": 120,
+      "UseJP": 40,
+      "UseMP": 20,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120082": "70120082"
+    },
+    "70120083": {
+      "Id": 70120083,
+      "Name": "木 骰 子",
+      "DELAY": 120,
+      "UseJP": 40,
+      "UseMP": 20,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120083": "70120083"
+    },
+    "70120084": {
+      "Id": 70120084,
+      "Name": "純金打造",
+      "DELAY": 120,
+      "UseJP": 100,
+      "UseMP": 40,
+      "UseGold": 2000,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120084": "70120084"
+    },
+    "70120085": {
+      "Id": 70120085,
+      "Name": "乾坤一擲",
+      "DELAY": 120,
+      "UseJP": 100,
+      "UseMP": 40,
+      "UseGold": 2000,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120085": "70120085"
+    },
+    "70120086": {
+      "Id": 70120086,
+      "Name": "閃閃生光",
+      "DELAY": 120,
+      "UseJP": 100,
+      "UseMP": 40,
+      "UseGold": 2000,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120086": "70120086"
+    },
+    "70120087": {
+      "Id": 70120087,
+      "Name": "天下無敵",
+      "DELAY": 150,
+      "UseJP": 500,
+      "UseMP": 60,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120087": "70120087"
+    },
+    "70120088": {
+      "Id": 70120088,
+      "Name": "劍 之 舞",
+      "DELAY": 100,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120092:2;70120093:2;70120094:2;70120095:8",
+      "70120088": "70120088"
+    },
+    "70120089": {
+      "Id": 70120089,
+      "Name": "星 之 舞",
+      "DELAY": 100,
+      "UseJP": 50,
+      "UseMP": 15,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120092:2;70120093:8;70120094:2;70120095:8",
+      "70120089": "70120089"
+    },
+    "70120090": {
+      "Id": 70120090,
+      "Name": "風 之 舞",
+      "DELAY": 100,
+      "UseJP": 100,
+      "UseMP": 20,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120092:8;70120093:2;70120094:2;70120095:8",
+      "70120090": "70120090"
+    },
+    "70120091": {
+      "Id": 70120091,
+      "Name": "雪 之 舞",
+      "DELAY": 100,
+      "UseJP": 120,
+      "UseMP": 25,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120092:2;70120093:2;70120094:8;70120095:8",
+      "70120091": "70120091"
+    },
+    "70120092": {
+      "Id": 70120092,
+      "Name": "漣 之 舞",
+      "DELAY": 120,
+      "UseJP": 200,
+      "UseMP": 10,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120092": "70120092"
+    },
+    "70120093": {
+      "Id": 70120093,
+      "Name": "戀 之 舞",
+      "DELAY": 120,
+      "UseJP": 300,
+      "UseMP": 50,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120093": "70120093"
+    },
+    "70120094": {
+      "Id": 70120094,
+      "Name": "夢 之 舞",
+      "DELAY": 120,
+      "UseJP": 300,
+      "UseMP": 45,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120094": "70120094"
+    },
+    "70120095": {
+      "Id": 70120095,
+      "Name": "鳳 之 舞",
+      "DELAY": 140,
+      "UseJP": 350,
+      "UseMP": 80,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120095": "70120095"
+    },
+    "70120096": {
+      "Id": 70120096,
+      "Name": "針 灸",
+      "DELAY": 80,
+      "UseJP": 100,
+      "UseMP": 50,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120098:5;70120099:5",
+      "70120096": "70120096"
+    },
+    "70120097": {
+      "Id": 70120097,
+      "Name": "麻 醉",
+      "DELAY": 80,
+      "UseJP": 100,
+      "UseMP": 50,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120098:5;70120099:5",
+      "70120097": "70120097"
+    },
+    "70120098": {
+      "Id": 70120098,
+      "Name": "歸 真",
+      "DELAY": 100,
+      "UseJP": 150,
+      "UseMP": 50,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120098": "70120098"
+    },
+    "70120099": {
+      "Id": 70120099,
+      "Name": "聖 手",
+      "DELAY": 100,
+      "UseJP": 200,
+      "UseMP": 100,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120099": "70120099"
+    },
+    "70120100": {
+      "Id": 70120100,
+      "Name": "猛虎落地式",
+      "DELAY": 80,
+      "UseJP": 100,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "70120101：10",
+      "70120100": "70120100"
+    },
+    "70120101": {
+      "Id": 70120101,
+      "Name": "虎威震南天",
+      "DELAY": 160,
+      "UseJP": 70,
+      "UseMP": 40,
+      "UseGold": 0,
+      "Ratio": 100,
+      "PreItem": 0,
+      "AdvSkillsPt": "",
+      "70120101": "70120101"
+    }
+  },
+  "active1": {
+    "70200001": {
+      "Id": 70200001,
+      "Name": "生命＋20％",
+      "UseJP": 50,
+      "IncHP": 20,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200002:10",
+      "70200001": "70200001"
+    },
+    "70200002": {
+      "Id": 70200002,
+      "Name": "生命＋40％",
+      "UseJP": 150,
+      "IncHP": 40,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200003:10;70200015:5",
+      "70200002": "70200002"
+    },
+    "70200003": {
+      "Id": 70200003,
+      "Name": "生命＋60％",
+      "UseJP": 300,
+      "IncHP": 60,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "",
+      "70200003": "70200003"
+    },
+    "70200004": {
+      "Id": 70200004,
+      "Name": "內力＋20％",
+      "UseJP": 50,
+      "IncHP": 0,
+      "IncMP": 20,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200005:10",
+      "70200004": "70200004"
+    },
+    "70200005": {
+      "Id": 70200005,
+      "Name": "內力＋40％",
+      "UseJP": 150,
+      "IncHP": 0,
+      "IncMP": 40,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200006:10;70200018:5",
+      "70200005": "70200005"
+    },
+    "70200006": {
+      "Id": 70200006,
+      "Name": "內力＋60％",
+      "UseJP": 300,
+      "IncHP": 0,
+      "IncMP": 60,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "",
+      "70200006": "70200006"
+    },
+    "70200007": {
+      "Id": 70200007,
+      "Name": "命中＋10％",
+      "UseJP": 50,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 10,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200008:10",
+      "70200007": "70200007"
+    },
+    "70200008": {
+      "Id": 70200008,
+      "Name": "命中＋20％",
+      "UseJP": 150,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 20,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200009:10;70200021:4",
+      "70200008": "70200008"
+    },
+    "70200009": {
+      "Id": 70200009,
+      "Name": "命中＋30％",
+      "UseJP": 300,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 30,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200024:2",
+      "70200009": "70200009"
+    },
+    "70200010": {
+      "Id": 70200010,
+      "Name": "閃避＋10％",
+      "UseJP": 50,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 10,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200011:10",
+      "70200010": "70200010"
+    },
+    "70200011": {
+      "Id": 70200011,
+      "Name": "閃避＋20％",
+      "UseJP": 150,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 20,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200012:10;70200021:4",
+      "70200011": "70200011"
+    },
+    "70200012": {
+      "Id": 70200012,
+      "Name": "閃避＋30％",
+      "UseJP": 300,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 30,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200024:2",
+      "70200012": "70200012"
+    },
+    "70200013": {
+      "Id": 70200013,
+      "Name": "攻擊＋10％",
+      "UseJP": 50,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 10,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200014:10",
+      "70200013": "70200013"
+    },
+    "70200014": {
+      "Id": 70200014,
+      "Name": "攻擊＋20％",
+      "UseJP": 150,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 20,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200015:5",
+      "70200014": "70200014"
+    },
+    "70200015": {
+      "Id": 70200015,
+      "Name": "攻擊＋30％",
+      "UseJP": 300,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 30,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "",
+      "70200015": "70200015"
+    },
+    "70200016": {
+      "Id": 70200016,
+      "Name": "防禦＋10％",
+      "UseJP": 50,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 10,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200017:10",
+      "70200016": "70200016"
+    },
+    "70200017": {
+      "Id": 70200017,
+      "Name": "防禦＋20％",
+      "UseJP": 150,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 20,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200018:5",
+      "70200017": "70200017"
+    },
+    "70200018": {
+      "Id": 70200018,
+      "Name": "防禦＋30％",
+      "UseJP": 300,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 30,
+      "IncSPD": 0,
+      "IncACNT": 0,
+      "AdvSkillsPt": "",
+      "70200018": "70200018"
+    },
+    "70200019": {
+      "Id": 70200019,
+      "Name": "速度＋10％",
+      "UseJP": 50,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 10,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200020:10",
+      "70200019": "70200019"
+    },
+    "70200020": {
+      "Id": 70200020,
+      "Name": "速度＋20％",
+      "UseJP": 150,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 20,
+      "IncACNT": 0,
+      "AdvSkillsPt": "70200021:4;70200024:3",
+      "70200020": "70200020"
+    },
+    "70200021": {
+      "Id": 70200021,
+      "Name": "速度＋30％",
+      "UseJP": 300,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 30,
+      "IncACNT": 0,
+      "AdvSkillsPt": "",
+      "70200021": "70200021"
+    },
+    "70200022": {
+      "Id": 70200022,
+      "Name": "二 連 擊",
+      "UseJP": 0,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 1,
+      "AdvSkillsPt": "70200023:10",
+      "70200022": "70200022"
+    },
+    "70200023": {
+      "Id": 70200023,
+      "Name": "三 連 擊",
+      "UseJP": 0,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 2,
+      "AdvSkillsPt": "70200024:3",
+      "70200023": "70200023"
+    },
+    "70200024": {
+      "Id": 70200024,
+      "Name": "四 連 擊",
+      "UseJP": 0,
+      "IncHP": 0,
+      "IncMP": 0,
+      "IncHIT": 0,
+      "IncEVD": 0,
+      "IncATK": 0,
+      "IncDEF": 0,
+      "IncSPD": 0,
+      "IncACNT": 3,
+      "AdvSkillsPt": "",
+      "70200024": "70200024"
+    }
+  },
+  "active2": {
+    "70200025": {
+      "Id": 70200025,
+      "Name": " 內息  １",
+      "UseJP": 50,
+      "NeiXi": 10,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "70200026:10",
+      "70200025": "70200025"
+    },
+    "70200026": {
+      "Id": 70200026,
+      "Name": " 內息  ２",
+      "UseJP": 150,
+      "NeiXi": 25,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "70200027:10;70200024:3",
+      "70200026": "70200026"
+    },
+    "70200027": {
+      "Id": 70200027,
+      "Name": " 內息  ３",
+      "UseJP": 300,
+      "NeiXi": 40,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "",
+      "70200027": "70200027"
+    },
+    "70200028": {
+      "Id": 70200028,
+      "Name": " 無隙  １",
+      "UseJP": 100,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "WuDao;HunLuan",
+      "AdvSkillsPt": "70200029:10",
+      "70200028": "70200028"
+    },
+    "70200029": {
+      "Id": 70200029,
+      "Name": " 無隙  ２",
+      "UseJP": 150,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "WuDao;HunLuan;JinZhi",
+      "AdvSkillsPt": "70200030:5;70200045:4",
+      "70200029": "70200029"
+    },
+    "70200030": {
+      "Id": 70200030,
+      "Name": " 無隙  ３",
+      "UseJP": 250,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "WuDao;HunLuan;JinZhi;DingShen",
+      "AdvSkillsPt": "70200024:1;70300028:1",
+      "70200030": "70200030"
+    },
+    "70200031": {
+      "Id": 70200031,
+      "Name": " 破邪  １",
+      "UseJP": 100,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "ZuZhou;FengYin",
+      "AdvSkillsPt": "70200032:10",
+      "70200031": "70200031"
+    },
+    "70200032": {
+      "Id": 70200032,
+      "Name": " 破邪  ２",
+      "UseJP": 150,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "ZuZhou;FengYin;RanShao",
+      "AdvSkillsPt": "70200033:5;70200042:4",
+      "70200032": "70200032"
+    },
+    "70200033": {
+      "Id": 70200033,
+      "Name": " 破邪  ３",
+      "UseJP": 250,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "ZuZhou;FengYin;RanShao;BingDong",
+      "AdvSkillsPt": "70300028:1",
+      "70200033": "70200033"
+    },
+    "70200034": {
+      "Id": 70200034,
+      "Name": " 避瘴  １",
+      "UseJP": 100,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "XuRuo;MaBi",
+      "AdvSkillsPt": "70200035:10",
+      "70200034": "70200034"
+    },
+    "70200035": {
+      "Id": 70200035,
+      "Name": " 避瘴  ２",
+      "UseJP": 150,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "XuRuo;MaBi;ChenShui",
+      "AdvSkillsPt": "70200036:5;70200045:4",
+      "70200035": "70200035"
+    },
+    "70200036": {
+      "Id": 70200036,
+      "Name": " 避瘴  ３",
+      "UseJP": 250,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "XuRuo;MaBi;ChenShui;ZhongDu",
+      "AdvSkillsPt": "70300028:1",
+      "70200036": "70200036"
+    },
+    "70200037": {
+      "Id": 70200037,
+      "Name": " 抗魔  １",
+      "UseJP": 50,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 10,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "70200038:10",
+      "70200037": "70200037"
+    },
+    "70200038": {
+      "Id": 70200038,
+      "Name": " 抗魔  ２",
+      "UseJP": 150,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 30,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "70200039:10;70200042:4",
+      "70200038": "70200038"
+    },
+    "70200039": {
+      "Id": 70200039,
+      "Name": " 抗魔  ３",
+      "UseJP": 300,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 50,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "",
+      "70200039": "70200039"
+    },
+    "70200040": {
+      "Id": 70200040,
+      "Name": " 鬼才  １",
+      "UseJP": 50,
+      "NeiXi": 0,
+      "GuiCai": 15,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "70200041:10",
+      "70200040": "70200040"
+    },
+    "70200041": {
+      "Id": 70200041,
+      "Name": " 鬼才  ２",
+      "UseJP": 150,
+      "NeiXi": 0,
+      "GuiCai": 25,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "70200042:4",
+      "70200041": "70200041"
+    },
+    "70200042": {
+      "Id": 70200042,
+      "Name": " 鬼才  ３",
+      "UseJP": 300,
+      "NeiXi": 0,
+      "GuiCai": 35,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "",
+      "70200042": "70200042"
+    },
+    "70200043": {
+      "Id": 70200043,
+      "Name": " 天才  １",
+      "UseJP": 50,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 15,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "70200044:10",
+      "70200043": "70200043"
+    },
+    "70200044": {
+      "Id": 70200044,
+      "Name": " 天才  ２",
+      "UseJP": 150,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 25,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "70200045:4",
+      "70200044": "70200044"
+    },
+    "70200045": {
+      "Id": 70200045,
+      "Name": " 天才  ３",
+      "UseJP": 300,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 35,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "",
+      "AdvSkillsPt": "",
+      "70200045": "70200045"
+    },
+    "70200046": {
+      "Id": 70200046,
+      "Name": " 鐵壁  １",
+      "UseJP": 50,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 50,
+      "Immune": "PoBing;SuiJia",
+      "AdvSkillsPt": "70200047:10",
+      "70200046": "70200046"
+    },
+    "70200047": {
+      "Id": 70200047,
+      "Name": " 鐵壁  ２",
+      "UseJP": 150,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 75,
+      "Immune": "PoBing;SuiJia",
+      "AdvSkillsPt": "70200048:10;70200039:5;70200030:5",
+      "70200047": "70200047"
+    },
+    "70200048": {
+      "Id": 70200048,
+      "Name": " 鐵壁  ３",
+      "UseJP": 200,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "PoBing;SuiJia",
+      "AdvSkillsPt": "70300028:2",
+      "70200048": "70200048"
+    },
+    "70200049": {
+      "Id": 70200049,
+      "Name": " 感應  １",
+      "UseJP": 50,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 50,
+      "Immune": "HunXuan;FengSuo",
+      "AdvSkillsPt": "70200050:10",
+      "70200049": "70200049"
+    },
+    "70200050": {
+      "Id": 70200050,
+      "Name": " 感應  ２",
+      "UseJP": 150,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 75,
+      "Immune": "HunXuan;FengSuo",
+      "AdvSkillsPt": "70200051:10;70200033:5;70200036:5",
+      "70200050": "70200050"
+    },
+    "70200051": {
+      "Id": 70200051,
+      "Name": " 感應  ３",
+      "UseJP": 200,
+      "NeiXi": 0,
+      "GuiCai": 0,
+      "TianCai": 0,
+      "KangMo": 0,
+      "Ratio": 100,
+      "Immune": "HunXuan;FengSuo",
+      "AdvSkillsPt": "70300028:2",
+      "70200051": "70200051"
+    }
+  },
+  "passive": {
+    "70300001": {
+      "Id": 70300001,
+      "Name": "近戰反擊１",
+      "UseJP": 40,
+      "Ratio": 30,
+      "AdvSkillsPt": "70300002:10",
+      "70300001": "70300001"
+    },
+    "70300002": {
+      "Id": 70300002,
+      "Name": "近戰反擊２",
+      "UseJP": 100,
+      "Ratio": 60,
+      "AdvSkillsPt": "70300003:10",
+      "70300002": "70300002"
+    },
+    "70300003": {
+      "Id": 70300003,
+      "Name": "近戰反擊３",
+      "UseJP": 300,
+      "Ratio": 90,
+      "AdvSkillsPt": "",
+      "70300003": "70300003"
+    },
+    "70300004": {
+      "Id": 70300004,
+      "Name": "遠程反擊１",
+      "UseJP": 40,
+      "Ratio": 30,
+      "AdvSkillsPt": "70300005:10",
+      "70300004": "70300004"
+    },
+    "70300005": {
+      "Id": 70300005,
+      "Name": "遠程反擊２",
+      "UseJP": 100,
+      "Ratio": 60,
+      "AdvSkillsPt": "70300006:10",
+      "70300005": "70300005"
+    },
+    "70300006": {
+      "Id": 70300006,
+      "Name": "遠程反擊３",
+      "UseJP": 300,
+      "Ratio": 90,
+      "AdvSkillsPt": "",
+      "70300006": "70300006"
+    },
+    "70300007": {
+      "Id": 70300007,
+      "Name": "法術反彈１",
+      "UseJP": 80,
+      "Ratio": 30,
+      "AdvSkillsPt": "70300008:10",
+      "70300007": "70300007"
+    },
+    "70300008": {
+      "Id": 70300008,
+      "Name": "法術反彈２",
+      "UseJP": 160,
+      "Ratio": 50,
+      "AdvSkillsPt": "70300009:10",
+      "70300008": "70300008"
+    },
+    "70300009": {
+      "Id": 70300009,
+      "Name": "法術反彈３",
+      "UseJP": 320,
+      "Ratio": 70,
+      "AdvSkillsPt": "",
+      "70300009": "70300009"
+    },
+    "70300010": {
+      "Id": 70300010,
+      "Name": "先發制人１",
+      "UseJP": 50,
+      "Ratio": 20,
+      "AdvSkillsPt": "70300011:10",
+      "70300010": "70300010"
+    },
+    "70300011": {
+      "Id": 70300011,
+      "Name": "先發制人２",
+      "UseJP": 150,
+      "Ratio": 35,
+      "AdvSkillsPt": "70300012:10",
+      "70300011": "70300011"
+    },
+    "70300012": {
+      "Id": 70300012,
+      "Name": "先發制人３",
+      "UseJP": 300,
+      "Ratio": 50,
+      "AdvSkillsPt": "",
+      "70300012": "70300012"
+    },
+    "70300013": {
+      "Id": 70300013,
+      "Name": "時序回饋１",
+      "UseJP": 80,
+      "Ratio": 20,
+      "AdvSkillsPt": "70300014:10",
+      "70300013": "70300013"
+    },
+    "70300014": {
+      "Id": 70300014,
+      "Name": "時序回饋２",
+      "UseJP": 160,
+      "Ratio": 35,
+      "AdvSkillsPt": "70300015:10",
+      "70300014": "70300014"
+    },
+    "70300015": {
+      "Id": 70300015,
+      "Name": "時序回饋３",
+      "UseJP": 300,
+      "Ratio": 50,
+      "AdvSkillsPt": "",
+      "70300015": "70300015"
+    },
+    "70300016": {
+      "Id": 70300016,
+      "Name": "損傷賠償１",
+      "UseJP": 80,
+      "Ratio": 100,
+      "AdvSkillsPt": "70300017:10",
+      "70300016": "70300016"
+    },
+    "70300017": {
+      "Id": 70300017,
+      "Name": "損傷賠償２",
+      "UseJP": 160,
+      "Ratio": 100,
+      "AdvSkillsPt": "70300018:10",
+      "70300017": "70300017"
+    },
+    "70300018": {
+      "Id": 70300018,
+      "Name": "損傷賠償３",
+      "UseJP": 320,
+      "Ratio": 100,
+      "AdvSkillsPt": "",
+      "70300018": "70300018"
+    },
+    "70300019": {
+      "Id": 70300019,
+      "Name": "環境探索１",
+      "UseJP": 40,
+      "Ratio": 100,
+      "AdvSkillsPt": "70300020:10",
+      "70300019": "70300019"
+    },
+    "70300020": {
+      "Id": 70300020,
+      "Name": "環境探索２",
+      "UseJP": 100,
+      "Ratio": 100,
+      "AdvSkillsPt": "70300021:10",
+      "70300020": "70300020"
+    },
+    "70300021": {
+      "Id": 70300021,
+      "Name": "環境探索３",
+      "UseJP": 300,
+      "Ratio": 100,
+      "AdvSkillsPt": "",
+      "70300021": "70300021"
+    },
+    "70300022": {
+      "Id": 70300022,
+      "Name": "國色天香１",
+      "UseJP": 40,
+      "Ratio": 20,
+      "AdvSkillsPt": "70300023:10",
+      "70300022": "70300022"
+    },
+    "70300023": {
+      "Id": 70300023,
+      "Name": "國色天香２",
+      "UseJP": 100,
+      "Ratio": 50,
+      "AdvSkillsPt": "70300024:10",
+      "70300023": "70300023"
+    },
+    "70300024": {
+      "Id": 70300024,
+      "Name": "國色天香３",
+      "UseJP": 300,
+      "Ratio": 80,
+      "AdvSkillsPt": "",
+      "70300024": "70300024"
+    },
+    "70300025": {
+      "Id": 70300025,
+      "Name": "有福同享１",
+      "UseJP": 100,
+      "Ratio": 100,
+      "AdvSkillsPt": "70300026:10",
+      "70300025": "70300025"
+    },
+    "70300026": {
+      "Id": 70300026,
+      "Name": "有福同享２",
+      "UseJP": 200,
+      "Ratio": 100,
+      "AdvSkillsPt": "70300027:10",
+      "70300026": "70300026"
+    },
+    "70300027": {
+      "Id": 70300027,
+      "Name": "有福同享３",
+      "UseJP": 300,
+      "Ratio": 100,
+      "AdvSkillsPt": "",
+      "70300027": "70300027"
+    },
+    "70300028": {
+      "Id": 70300028,
+      "Name": "國士無雙",
+      "UseJP": 500,
+      "Ratio": 100,
+      "AdvSkillsPt": "",
+      "70300028": "70300028"
+    }
+  },
+  "movement": {
+    "70400001": {
+      "Id": 70400001,
+      "Name": "移動＋1",
+      "UseJP": 40,
+      "IncMOV": 1,
+      "JudgeMOV": 0,
+      "ReHPRatio": 0,
+      "ReMPRatio": 0,
+      "AdvSkillsPt": "70400002:10;70400004:10;70400005:10",
+      "70400001": "70400001"
+    },
+    "70400002": {
+      "Id": 70400002,
+      "Name": "移動＋2",
+      "UseJP": 100,
+      "IncMOV": 2,
+      "JudgeMOV": 0,
+      "ReHPRatio": 0,
+      "ReMPRatio": 0,
+      "AdvSkillsPt": "70400003:10",
+      "70400002": "70400002"
+    },
+    "70400003": {
+      "Id": 70400003,
+      "Name": "移動＋3",
+      "UseJP": 200,
+      "IncMOV": 3,
+      "JudgeMOV": 0,
+      "ReHPRatio": 0,
+      "ReMPRatio": 0,
+      "AdvSkillsPt": "",
+      "70400003": "70400003"
+    },
+    "70400004": {
+      "Id": 70400004,
+      "Name": "飄浮",
+      "UseJP": 120,
+      "IncMOV": 0,
+      "JudgeMOV": 1,
+      "ReHPRatio": 0,
+      "ReMPRatio": 0,
+      "AdvSkillsPt": "",
+      "70400004": "70400004"
+    },
+    "70400005": {
+      "Id": 70400005,
+      "Name": "飆行",
+      "UseJP": 120,
+      "IncMOV": 0,
+      "JudgeMOV": 2,
+      "ReHPRatio": 0,
+      "ReMPRatio": 0,
+      "AdvSkillsPt": "",
+      "70400005": "70400005"
+    },
+    "70400006": {
+      "Id": 70400006,
+      "Name": "搜尋寶物",
+      "UseJP": 150,
+      "IncMOV": 0,
+      "JudgeMOV": 4,
+      "ReHPRatio": 0,
+      "ReMPRatio": 0,
+      "AdvSkillsPt": "",
+      "70400006": "70400006"
+    },
+    "70400007": {
+      "Id": 70400007,
+      "Name": "解除陷阱",
+      "UseJP": 150,
+      "IncMOV": 0,
+      "JudgeMOV": 8,
+      "ReHPRatio": 0,
+      "ReMPRatio": 0,
+      "AdvSkillsPt": "",
+      "70400007": "70400007"
+    },
+    "70400008": {
+      "Id": 70400008,
+      "Name": "自癒１",
+      "UseJP": 50,
+      "IncMOV": 0,
+      "JudgeMOV": 0,
+      "ReHPRatio": 2,
+      "ReMPRatio": 0,
+      "AdvSkillsPt": "70400009:10",
+      "70400008": "70400008"
+    },
+    "70400009": {
+      "Id": 70400009,
+      "Name": "自癒２",
+      "UseJP": 150,
+      "IncMOV": 0,
+      "JudgeMOV": 0,
+      "ReHPRatio": 3,
+      "ReMPRatio": 0,
+      "AdvSkillsPt": "70400010:10",
+      "70400009": "70400009"
+    },
+    "70400010": {
+      "Id": 70400010,
+      "Name": "自癒３",
+      "UseJP": 300,
+      "IncMOV": 0,
+      "JudgeMOV": 0,
+      "ReHPRatio": 4,
+      "ReMPRatio": 0,
+      "AdvSkillsPt": "",
+      "70400010": "70400010"
+    },
+    "70400011": {
+      "Id": 70400011,
+      "Name": "回氣１",
+      "UseJP": 50,
+      "IncMOV": 0,
+      "JudgeMOV": 0,
+      "ReHPRatio": 0,
+      "ReMPRatio": 2,
+      "AdvSkillsPt": "70400012:10",
+      "70400011": "70400011"
+    },
+    "70400012": {
+      "Id": 70400012,
+      "Name": "回氣２",
+      "UseJP": 150,
+      "IncMOV": 0,
+      "JudgeMOV": 0,
+      "ReHPRatio": 0,
+      "ReMPRatio": 3,
+      "AdvSkillsPt": "70400013:10",
+      "70400012": "70400012"
+    },
+    "70400013": {
+      "Id": 70400013,
+      "Name": "回氣３",
+      "UseJP": 300,
+      "IncMOV": 0,
+      "JudgeMOV": 0,
+      "ReHPRatio": 0,
+      "ReMPRatio": 4,
+      "AdvSkillsPt": "",
+      "70400013": "70400013"
+    }
+  }
+}

@@ -1,0 +1,690 @@
+fileFormatVersion: 2
+guid: c84660814913c3f45b77dda2984ea9ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7010932961864785948
+    second: Ani_150-1
+  - first:
+      213: -1673326305963576534
+    second: Ani_150-2
+  - first:
+      213: -2849796511853111217
+    second: Ani_150-3
+  - first:
+      213: -7953485291294101250
+    second: Ani_150-4
+  - first:
+      213: -3175584456679296369
+    second: Ani_150-5
+  - first:
+      213: -5034779241176929940
+    second: Ani_150-6
+  - first:
+      213: -8607405797900334049
+    second: Ani_150-7
+  - first:
+      213: -6574528382903695014
+    second: Ani_150-8
+  - first:
+      213: -8239127170445314053
+    second: Ani_150-9
+  - first:
+      213: -5351313203007814757
+    second: Ani_150-10
+  - first:
+      213: -1124319520548057674
+    second: Ani_150-11
+  - first:
+      213: -4045534580839830262
+    second: Ani_150-12
+  - first:
+      213: -6141517725028407821
+    second: Ani_150-13
+  - first:
+      213: 2575375512528704996
+    second: Ani_150-14
+  - first:
+      213: -2634055327116842021
+    second: Ani_150-15
+  - first:
+      213: 954508951313590291
+    second: Ani_150-16
+  - first:
+      213: -6139269894941566938
+    second: Ani_150-17
+  - first:
+      213: 1488729956517046380
+    second: Ani_150-18
+  - first:
+      213: -39879788183102162
+    second: Ani_150-19
+  - first:
+      213: -1802930964481452069
+    second: Ani_150-20
+  - first:
+      213: -4277880649980518330
+    second: Ani_150-21
+  - first:
+      213: -6094623233525357954
+    second: Ani_150-22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ani_150-1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 730
+        width: 79
+        height: 139
+      alignment: 9
+      pivot: {x: 0.3607595, y: 0.34532374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1027002266db4160800000000000000
+      internalID: 7010932961864785948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 395
+        width: 75
+        height: 147
+      alignment: 9
+      pivot: {x: 0.38, y: 0.3469388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2379b3279627c8e0800000000000000
+      internalID: -1673326305963576534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 73
+        height: 138
+      alignment: 9
+      pivot: {x: 0.33561644, y: 0.26086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4819dcdb2d7378d0800000000000000
+      internalID: -2849796511853111217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 741
+        width: 77
+        height: 139
+      alignment: 9
+      pivot: {x: 0.37012988, y: 0.2733813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0fe16544b8f9190800000000000000
+      internalID: -7953485291294101250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 880
+        width: 85
+        height: 143
+      alignment: 9
+      pivot: {x: 0.37058824, y: 0.33566433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82f069f2ce0ee3d0800000000000000
+      internalID: -3175584456679296369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 882
+        width: 77
+        height: 141
+      alignment: 9
+      pivot: {x: 0.37012988, y: 0.28368795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69632f94fed02ab0800000000000000
+      internalID: -5034779241176929940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 116
+        width: 71
+        height: 137
+      alignment: 9
+      pivot: {x: 0.34507042, y: 0.26277372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c4382e70a5c8880800000000000000
+      internalID: -8607405797900334049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 570
+        width: 76
+        height: 150
+      alignment: 9
+      pivot: {x: 0.3618421, y: 0.26666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a594d43e44592c4a0800000000000000
+      internalID: -6574528382903695014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 237
+        width: 74
+        height: 163
+      alignment: 9
+      pivot: {x: 0.3716216, y: 0.36809817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf77652cd7db8ad80800000000000000
+      internalID: -8239127170445314053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 871
+        width: 85
+        height: 152
+      alignment: 9
+      pivot: {x: 0.37058824, y: 0.3223684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b938cdc8ef05cb5b0800000000000000
+      internalID: -5351313203007814757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-11
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 577
+        width: 78
+        height: 146
+      alignment: 9
+      pivot: {x: 0.37820512, y: 0.2739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd02bb5a5d9560f0800000000000000
+      internalID: -1124319520548057674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 708
+        width: 76
+        height: 150
+      alignment: 9
+      pivot: {x: 0.3881579, y: 0.23333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dab7e9bbf5bd7c0800000000000000
+      internalID: -4045534580839830262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 537
+        width: 74
+        height: 169
+      alignment: 9
+      pivot: {x: 0.3310811, y: 0.32544377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5aae11b22f4caa0800000000000000
+      internalID: -6141517725028407821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 399
+        width: 74
+        height: 169
+      alignment: 9
+      pivot: {x: 0.3716216, y: 0.34319526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5538b32629db320800000000000000
+      internalID: 2575375512528704996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-15
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 874
+        width: 82
+        height: 149
+      alignment: 9
+      pivot: {x: 0.34756097, y: 0.26845637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdba974c2a4f17bd0800000000000000
+      internalID: -2634055327116842021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 860
+        width: 77
+        height: 163
+      alignment: 9
+      pivot: {x: 0.3961039, y: 0.31288344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3182af185d81f3d00800000000000000
+      internalID: 954508951313590291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 402
+        width: 75
+        height: 173
+      alignment: 9
+      pivot: {x: 0.32666665, y: 0.28323698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62812cbce8eeccaa0800000000000000
+      internalID: -6139269894941566938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 674
+        width: 74
+        height: 184
+      alignment: 9
+      pivot: {x: 0.3310811, y: 0.29891303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c686ea0020809a410800000000000000
+      internalID: 1488729956517046380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 860
+        width: 78
+        height: 163
+      alignment: 9
+      pivot: {x: 0.3525641, y: 0.2392638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dd0af3b81527ff0800000000000000
+      internalID: -39879788183102162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 725
+        width: 79
+        height: 153
+      alignment: 9
+      pivot: {x: 0.38607594, y: 0.22875817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7d78317d3baf6e0800000000000000
+      internalID: -1802930964481452069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 722
+        width: 78
+        height: 150
+      alignment: 9
+      pivot: {x: 0.37820512, y: 0.22666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640e46ac63ae1a4c0800000000000000
+      internalID: -4277880649980518330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ani_150-22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 544
+        width: 78
+        height: 184
+      alignment: 9
+      pivot: {x: 0.33974358, y: 0.27173913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72e0e5b57c8b6ba0800000000000000
+      internalID: -6094623233525357954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ani_150-1: 7010932961864785948
+      Ani_150-10: -5351313203007814757
+      Ani_150-11: -1124319520548057674
+      Ani_150-12: -4045534580839830262
+      Ani_150-13: -6141517725028407821
+      Ani_150-14: 2575375512528704996
+      Ani_150-15: -2634055327116842021
+      Ani_150-16: 954508951313590291
+      Ani_150-17: -6139269894941566938
+      Ani_150-18: 1488729956517046380
+      Ani_150-19: -39879788183102162
+      Ani_150-2: -1673326305963576534
+      Ani_150-20: -1802930964481452069
+      Ani_150-21: -4277880649980518330
+      Ani_150-22: -6094623233525357954
+      Ani_150-3: -2849796511853111217
+      Ani_150-4: -7953485291294101250
+      Ani_150-5: -3175584456679296369
+      Ani_150-6: -5034779241176929940
+      Ani_150-7: -8607405797900334049
+      Ani_150-8: -6574528382903695014
+      Ani_150-9: -8239127170445314053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

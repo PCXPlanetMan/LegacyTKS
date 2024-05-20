@@ -1,0 +1,396 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleArrow.tpsheet
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleBlade.tpsheet
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleBroadsword.tpsheet
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleNone.tpsheet
+- Assets/Atlas/Characters/Battle/MainRole/MainRolePike.tpsheet
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleSpear.tpsheet
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleSword.tpsheet
+- Assets/Atlas/Characters/Battle/ThiefSmall/ThiefSmall.tpsheet
+- Assets/Atlas/Characters/World/CangMing/CangMing.tpsheet
+- Assets/Atlas/Characters/World/CaoCao/CaoCao.tpsheet
+- Assets/Atlas/Characters/World/DianWei/DianWei.tpsheet
+- Assets/Atlas/Characters/World/DiaoChan/DiaoChan.tpsheet
+- Assets/Atlas/Characters/World/DongZhuo/DongZhuo.tpsheet
+- Assets/Atlas/Characters/World/GanNing/GanNing.tpsheet
+- Assets/Atlas/Characters/World/GuanYu/GuanYu.tpsheet
+- Assets/Atlas/Characters/World/HanXianDi/HanXianDi.tpsheet
+- Assets/Atlas/Characters/World/HuangGai/HuangGai.tpsheet
+- Assets/Atlas/Characters/World/HuangZhong/HuangZhong.tpsheet
+- Assets/Atlas/Characters/World/HuaTuo/HuaTuo.tpsheet
+- Assets/Atlas/Characters/World/Humans/BadGeneral/BadGeneral.tpsheet
+- Assets/Atlas/Characters/World/Humans/BadSoldier/BadSoldier.tpsheet
+- Assets/Atlas/Characters/World/Humans/HuangJinShuShi/HuangJinShuShi.tpsheet
+- Assets/Atlas/Characters/World/Humans/HuangJinSoldier/HuangJinSoldier.tpsheet
+- Assets/Atlas/Characters/World/Humans/LiYong/LiYong.tpsheet
+- Assets/Atlas/Characters/World/Humans/Police/Police.tpsheet
+- Assets/Atlas/Characters/World/Humans/ShanYueBoss/ShanYueBoss.tpsheet
+- Assets/Atlas/Characters/World/Humans/SoldierFat/SoldierFat.tpsheet
+- Assets/Atlas/Characters/World/Humans/SoldierShuShi/SoldierShuShi.tpsheet
+- Assets/Atlas/Characters/World/Humans/SoldierThin/SoldierThin.tpsheet
+- Assets/Atlas/Characters/World/Humans/SoldierThin/SoldierThinArrow.tpsheet
+- Assets/Atlas/Characters/World/Humans/SoldierThin/SoldierThinBlade.tpsheet
+- Assets/Atlas/Characters/World/Humans/ThiefBig/ThiefBig.tpsheet
+- Assets/Atlas/Characters/World/Humans/ThiefBully/ThiefBully.tpsheet
+- Assets/Atlas/Characters/World/Humans/ThiefSmall/ThiefSmall.tpsheet
+- Assets/Atlas/Characters/World/JiaXu/JiaXu.tpsheet
+- Assets/Atlas/Characters/World/LiuBei/LiuBei.tpsheet
+- Assets/Atlas/Characters/World/LuSu/LuSu.tpsheet
+- Assets/Atlas/Characters/World/LuXun/LuXun.tpsheet
+- Assets/Atlas/Characters/World/LvBu/LvBu.tpsheet
+- Assets/Atlas/Characters/World/LvMeng/LvMeng.tpsheet
+- Assets/Atlas/Characters/World/MaChao/MaChao.tpsheet
+- Assets/Atlas/Characters/World/MainRole/MainRole.tpsheet
+- Assets/Atlas/Characters/World/MainRole/MainRoleModern.tpsheet
+- Assets/Atlas/Characters/World/MaLiang/MaLiang.tpsheet
+- Assets/Atlas/Characters/World/MaSu/MaSu.tpsheet
+- Assets/Atlas/Characters/World/MengHuo/MengHuo.tpsheet
+- Assets/Atlas/Characters/World/NanHua/NanHua.tpsheet
+- Assets/Atlas/Characters/World/NanManBoy/NanManBoy.tpsheet
+- Assets/Atlas/Characters/World/NanManCunZhang/NanManCunZhang.tpsheet
+- Assets/Atlas/Characters/World/NanManLady/NanManLady.tpsheet
+- Assets/Atlas/Characters/World/NanManMan/NanManMan.tpsheet
+- Assets/Atlas/Characters/World/NanManTuTou/NanManTuTou.tpsheet
+- Assets/Atlas/Characters/World/NanManUncle/NanManUncle.tpsheet
+- Assets/Atlas/Characters/World/NanManWuShi/NanManWuShi.tpsheet
+- Assets/Atlas/Characters/World/NPC/Bartender/Bartender.tpsheet
+- Assets/Atlas/Characters/World/NPC/GongSunZan/GongSunZan.tpsheet
+- Assets/Atlas/Characters/World/NPC/GuardSpear/GuardSpear.tpsheet
+- Assets/Atlas/Characters/World/NPC/HotelOwner/HotelOwner.tpsheet
+- Assets/Atlas/Characters/World/NPC/LiuBiao/LiuBiao.tpsheet
+- Assets/Atlas/Characters/World/NPC/LiuBoy/LiuBoy.tpsheet
+- Assets/Atlas/Characters/World/NPC/LiuCong/LiuCong.tpsheet
+- Assets/Atlas/Characters/World/NPC/LiuGuaFu/LiuGuaFu.tpsheet
+- Assets/Atlas/Characters/World/NPC/LvMengMother/LvMengMother.tpsheet
+- Assets/Atlas/Characters/World/NPC/Maid/Maid.tpsheet
+- Assets/Atlas/Characters/World/NPC/MedicGrandpa/MedicGrandpa.tpsheet
+- Assets/Atlas/Characters/World/NPC/Merchant/Merchant.tpsheet
+- Assets/Atlas/Characters/World/NPC/Servant/Servant.tpsheet
+- Assets/Atlas/Characters/World/NPC/TaiShiCiMother/TaiShiCiMother.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagarGlassMan/VillagerGlassMan.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerBoy/VillagerBoy.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerBoyHair/VillagerBoyHair.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerDaHan/VillagerDaHan.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerFatMan/VillagerFatMan.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerGrandma/VillagerGrandma.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerGrandpa/VillagerGrandpa.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerHunHun/VillagerHunHun.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerLittleBoy/VillagerLittleBoy.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerMan/VillagerMan.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerMiddleMan/VillagerMiddleMan.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerMiddleWoman/VillagerMiddleWoman.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerOldMan/VillagerOldMan.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerOldWoman/VillagerOldWoman.tpsheet
+- Assets/Atlas/Characters/World/NPC/VillagerWoman/VillagerWoman.tpsheet
+- Assets/Atlas/Characters/World/NPC/XuChuFather/XuChuFather.tpsheet
+- Assets/Atlas/Characters/World/PuLiang/PuLiang.tpsheet
+- Assets/Atlas/Characters/World/SiMaYi/SiMaYi.tpsheet
+- Assets/Atlas/Characters/World/SunQuan/SunQuan.tpsheet
+- Assets/Atlas/Characters/World/SunShangXiang/SunShangXiang.tpsheet
+- Assets/Atlas/Characters/World/TaiShiCi/TaiShiCi.tpsheet
+- Assets/Atlas/Characters/World/ThiefSMall/ThiefSmall.tpsheet
+- Assets/Atlas/Characters/World/XiaHouDun/XiaHouDun.tpsheet
+- Assets/Atlas/Characters/World/XuChu/XuChu.tpsheet
+- Assets/Atlas/Characters/World/XunYu/XunYu.tpsheet
+- Assets/Atlas/Characters/World/YuanShao/YuanShao.tpsheet
+- Assets/Atlas/Characters/World/YuJi/YuJi.tpsheet
+- Assets/Atlas/Characters/World/ZhangBao/ZhangBao.tpsheet
+- Assets/Atlas/Characters/World/ZhangFei/ZhangFei.tpsheet
+- Assets/Atlas/Characters/World/ZhangJiao/ZhangJiao.tpsheet
+- Assets/Atlas/Characters/World/ZhangLiang/ZhangLiang.tpsheet
+- Assets/Atlas/Characters/World/ZhangLiao/ZhangLiao.tpsheet
+- Assets/Atlas/Characters/World/ZhangXiu/ZhangXiu.tpsheet
+- Assets/Atlas/Characters/World/ZhaoYun/ZhaoYun.tpsheet
+- Assets/Atlas/Characters/World/ZhouYu/ZhouYu.tpsheet
+- Assets/Atlas/Characters/World/ZhuGeLiang/ZhuGeLiang.tpsheet
+- Assets/Atlas/Characters/World/ZhuRong/ZhuRong.tpsheet
+- Assets/Atlas/Characters/World/ZuoCi/ZuoCi.tpsheet
+- Assets/Atlas/Cursor/Cursor.tpsheet
+- Assets/Atlas/Effect/AnimFire/AnimFire.tpsheet
+- Assets/Atlas/Effect/BaGua/BaGuaEntry.tpsheet
+- Assets/Atlas/Effect/BeiPingDoor/BeiPingDoor.tpsheet
+- Assets/Atlas/Effect/BookTables/BookTables.tpsheet
+- Assets/Atlas/Effect/ChangSha/ShootBird.tpsheet
+- Assets/Atlas/Effect/Ding/Ding1.tpsheet
+- Assets/Atlas/Effect/EffectChar/EffectChar.tpsheet
+- Assets/Atlas/Effect/GongGaoLan/GongGaoLan.tpsheet
+- Assets/Atlas/Effect/JiangLinZhiShu/JiangLinZhiShu.tpsheet
+- Assets/Atlas/Effect/Other/PoisonSmoke.tpsheet
+- Assets/Atlas/Effect/Other/Quest.tpsheet
+- Assets/Atlas/Effect/Other/Smokes.tpsheet
+- Assets/Atlas/Effect/Other/Somethings.tpsheet
+- Assets/Atlas/Effect/PuzzleSwitch/PuzzleSwitch.tpsheet
+- Assets/Atlas/Effect/ShaoHuaDingTian/ShaoHuaDingTian1.tpsheet
+- Assets/Atlas/Effect/ShaoHuaDingTian/ShaoHuaDingTian2.tpsheet
+- Assets/Atlas/Effect/StoneLion/StoneLion.tpsheet
+- Assets/Atlas/Effect/WoodDoor/WoodDoor.tpsheet
+- Assets/Atlas/Effect/XinYeJailDoor/XinYeJailDoor.tpsheet
+- Assets/Atlas/Effect/XuKong/Circle.tpsheet
+- Assets/Atlas/Effect/XuKong/Teleport.tpsheet
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/ThirdParties/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleArrow.png
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleBlade.png
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleBroadsword.png
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleNone.png
+- Assets/Atlas/Characters/Battle/MainRole/MainRolePike.png
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleSpear.png
+- Assets/Atlas/Characters/Battle/MainRole/MainRoleSword.png
+- Assets/Atlas/Characters/Battle/ThiefSmall/ThiefSmall.png
+- Assets/Atlas/Characters/World/CangMing/CangMing.png
+- Assets/Atlas/Characters/World/CaoCao/CaoCao.png
+- Assets/Atlas/Characters/World/DianWei/DianWei.png
+- Assets/Atlas/Characters/World/DiaoChan/DiaoChan.png
+- Assets/Atlas/Characters/World/DongZhuo/DongZhuo.png
+- Assets/Atlas/Characters/World/GanNing/GanNing.png
+- Assets/Atlas/Characters/World/GuanYu/GuanYu.png
+- Assets/Atlas/Characters/World/HanXianDi/HanXianDi.png
+- Assets/Atlas/Characters/World/HuangGai/HuangGai.png
+- Assets/Atlas/Characters/World/HuangZhong/HuangZhong.png
+- Assets/Atlas/Characters/World/HuaTuo/HuaTuo.png
+- Assets/Atlas/Characters/World/Humans/BadGeneral/BadGeneral.png
+- Assets/Atlas/Characters/World/Humans/BadSoldier/BadSoldier.png
+- Assets/Atlas/Characters/World/Humans/HuangJinShuShi/HuangJinShuShi.png
+- Assets/Atlas/Characters/World/Humans/HuangJinSoldier/HuangJinSoldier.png
+- Assets/Atlas/Characters/World/Humans/LiYong/LiYong.png
+- Assets/Atlas/Characters/World/Humans/Police/Police.png
+- Assets/Atlas/Characters/World/Humans/ShanYueBoss/ShanYueBoss.png
+- Assets/Atlas/Characters/World/Humans/SoldierFat/SoldierFat.png
+- Assets/Atlas/Characters/World/Humans/SoldierShuShi/SoldierShuShi.png
+- Assets/Atlas/Characters/World/Humans/SoldierThin/SoldierThin.png
+- Assets/Atlas/Characters/World/Humans/SoldierThin/SoldierThinArrow.png
+- Assets/Atlas/Characters/World/Humans/SoldierThin/SoldierThinBlade.png
+- Assets/Atlas/Characters/World/Humans/ThiefBig/ThiefBig.png
+- Assets/Atlas/Characters/World/Humans/ThiefBully/ThiefBully.png
+- Assets/Atlas/Characters/World/Humans/ThiefSmall/ThiefSmall.png
+- Assets/Atlas/Characters/World/JiaXu/JiaXu.png
+- Assets/Atlas/Characters/World/LiuBei/LiuBei.png
+- Assets/Atlas/Characters/World/LuSu/LuSu.png
+- Assets/Atlas/Characters/World/LuXun/LuXun.png
+- Assets/Atlas/Characters/World/LvBu/LvBu.png
+- Assets/Atlas/Characters/World/LvMeng/LvMeng.png
+- Assets/Atlas/Characters/World/MaChao/MaChao.png
+- Assets/Atlas/Characters/World/MainRole/MainRole.png
+- Assets/Atlas/Characters/World/MainRole/MainRoleModern.png
+- Assets/Atlas/Characters/World/MaLiang/MaLiang.png
+- Assets/Atlas/Characters/World/MaSu/MaSu.png
+- Assets/Atlas/Characters/World/MengHuo/MengHuo.png
+- Assets/Atlas/Characters/World/NanHua/NanHua.png
+- Assets/Atlas/Characters/World/NanManBoy/NanManBoy.png
+- Assets/Atlas/Characters/World/NanManCunZhang/NanManCunZhang.png
+- Assets/Atlas/Characters/World/NanManLady/NanManLady.png
+- Assets/Atlas/Characters/World/NanManMan/NanManMan.png
+- Assets/Atlas/Characters/World/NanManTuTou/NanManTuTou.png
+- Assets/Atlas/Characters/World/NanManUncle/NanManUncle.png
+- Assets/Atlas/Characters/World/NanManWuShi/NanManWuShi.png
+- Assets/Atlas/Characters/World/NPC/Bartender/Bartender.png
+- Assets/Atlas/Characters/World/NPC/GongSunZan/GongSunZan.png
+- Assets/Atlas/Characters/World/NPC/GuardSpear/GuardSpear.png
+- Assets/Atlas/Characters/World/NPC/HotelOwner/HotelOwner.png
+- Assets/Atlas/Characters/World/NPC/LiuBiao/LiuBiao.png
+- Assets/Atlas/Characters/World/NPC/LiuBoy/LiuBoy.png
+- Assets/Atlas/Characters/World/NPC/LiuCong/LiuCong.png
+- Assets/Atlas/Characters/World/NPC/LiuGuaFu/LiuGuaFu.png
+- Assets/Atlas/Characters/World/NPC/LvMengMother/LvMengMother.png
+- Assets/Atlas/Characters/World/NPC/Maid/Maid.png
+- Assets/Atlas/Characters/World/NPC/MedicGrandpa/MedicGrandpa.png
+- Assets/Atlas/Characters/World/NPC/Merchant/Merchant.png
+- Assets/Atlas/Characters/World/NPC/Servant/Servant.png
+- Assets/Atlas/Characters/World/NPC/TaiShiCiMother/TaiShiCiMother.png
+- Assets/Atlas/Characters/World/NPC/VillagarGlassMan/VillagerGlassMan.png
+- Assets/Atlas/Characters/World/NPC/VillagerBoy/VillagerBoy.png
+- Assets/Atlas/Characters/World/NPC/VillagerBoyHair/VillagerBoyHair.png
+- Assets/Atlas/Characters/World/NPC/VillagerDaHan/VillagerDaHan.png
+- Assets/Atlas/Characters/World/NPC/VillagerFatMan/VillagerFatMan.png
+- Assets/Atlas/Characters/World/NPC/VillagerGrandma/VillagerGrandma.png
+- Assets/Atlas/Characters/World/NPC/VillagerGrandpa/VillagerGrandpa.png
+- Assets/Atlas/Characters/World/NPC/VillagerHunHun/VillagerHunHun.png
+- Assets/Atlas/Characters/World/NPC/VillagerLittleBoy/VillagerLittleBoy.png
+- Assets/Atlas/Characters/World/NPC/VillagerMan/VillagerMan.png
+- Assets/Atlas/Characters/World/NPC/VillagerMiddleMan/VillagerMiddleMan.png
+- Assets/Atlas/Characters/World/NPC/VillagerMiddleWoman/VillagerMiddleWoman.png
+- Assets/Atlas/Characters/World/NPC/VillagerOldMan/VillagerOldMan.png
+- Assets/Atlas/Characters/World/NPC/VillagerOldWoman/VillagerOldWoman.png
+- Assets/Atlas/Characters/World/NPC/VillagerWoman/VillagerWoman.png
+- Assets/Atlas/Characters/World/NPC/XuChuFather/XuChuFather.png
+- Assets/Atlas/Characters/World/PuLiang/PuLiang.png
+- Assets/Atlas/Characters/World/SiMaYi/SiMaYi.png
+- Assets/Atlas/Characters/World/SunQuan/SunQuan.png
+- Assets/Atlas/Characters/World/SunShangXiang/SunShangXiang.png
+- Assets/Atlas/Characters/World/TaiShiCi/TaiShiCi.png
+- Assets/Atlas/Characters/World/ThiefSMall/ThiefSmall.png
+- Assets/Atlas/Characters/World/XiaHouDun/XiaHouDun.png
+- Assets/Atlas/Characters/World/XuChu/XuChu.png
+- Assets/Atlas/Characters/World/XunYu/XunYu.png
+- Assets/Atlas/Characters/World/YuanShao/YuanShao.png
+- Assets/Atlas/Characters/World/YuJi/YuJi.png
+- Assets/Atlas/Characters/World/ZhangBao/ZhangBao.png
+- Assets/Atlas/Characters/World/ZhangFei/ZhangFei.png
+- Assets/Atlas/Characters/World/ZhangJiao/ZhangJiao.png
+- Assets/Atlas/Characters/World/ZhangLiang/ZhangLiang.png
+- Assets/Atlas/Characters/World/ZhangLiao/ZhangLiao.png
+- Assets/Atlas/Characters/World/ZhangXiu/ZhangXiu.png
+- Assets/Atlas/Characters/World/ZhaoYun/ZhaoYun.png
+- Assets/Atlas/Characters/World/ZhouYu/ZhouYu.png
+- Assets/Atlas/Characters/World/ZhuGeLiang/ZhuGeLiang.png
+- Assets/Atlas/Characters/World/ZhuRong/ZhuRong.png
+- Assets/Atlas/Characters/World/ZuoCi/ZuoCi.png
+- Assets/Atlas/Cursor/Cursor.png
+- Assets/Atlas/Effect/AnimFire/AnimFire.png
+- Assets/Atlas/Effect/BaGua/BaGuaEntry.png
+- Assets/Atlas/Effect/BeiPingDoor/BeiPingDoor.png
+- Assets/Atlas/Effect/BookTables/BookTables.png
+- Assets/Atlas/Effect/ChangSha/ShootBird.png
+- Assets/Atlas/Effect/Ding/Ding1.png
+- Assets/Atlas/Effect/EffectChar/EffectChar.png
+- Assets/Atlas/Effect/GongGaoLan/GongGaoLan.png
+- Assets/Atlas/Effect/JiangLinZhiShu/JiangLinZhiShu.png
+- Assets/Atlas/Effect/Other/PoisonSmoke.png
+- Assets/Atlas/Effect/Other/Quest.png
+- Assets/Atlas/Effect/Other/Smokes.png
+- Assets/Atlas/Effect/Other/Somethings.png
+- Assets/Atlas/Effect/PuzzleSwitch/PuzzleSwitch.png
+- Assets/Atlas/Effect/ShaoHuaDingTian/ShaoHuaDingTian1.png
+- Assets/Atlas/Effect/ShaoHuaDingTian/ShaoHuaDingTian2.png
+- Assets/Atlas/Effect/StoneLion/StoneLion.png
+- Assets/Atlas/Effect/WoodDoor/WoodDoor.png
+- Assets/Atlas/Effect/XinYeJailDoor/XinYeJailDoor.png
+- Assets/Atlas/Effect/XuKong/Circle.png
+- Assets/Atlas/Effect/XuKong/Teleport.png
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/ThirdParties/codeandweb.com/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- Assets/ThirdParties/codeandweb.com/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0
